@@ -1,0 +1,235 @@
+---
+id: trideum
+name: Trideum Corporation
+slug: trideum
+aliases: [Trideum]
+tier: 2
+status: draft
+relationship: competitor
+owner: "CI Owner"
+last_reviewed: 2026-07-17
+approved_by: null
+approved_date: null
+example: false
+markets: [modeling-simulation, training-simulation, test-evaluation, range-operations, software-engineering, systems-engineering, cyber, rdte-support]
+agencies: [army, army-peo-stri, army-atec, usaf-afmc]
+vehicles: [oasis-plus, oasis-sb, oasis-unrestricted, gsa-mas, seaport-nxg, agency-idiq, ota-consortium]
+size: small
+set_asides: [small-business, mentor-protege-jv]
+parent: null
+jv_partners: ["Nemean Solutions, LLC (Nemean Trideum Joint Venture / NTSS JV and NTSS JV II, SBA-approved mentor-protégé, 8(a))"]
+hq: "Huntsville, AL"
+revenue_est: "not disclosed (private, 100% employee-owned ESOP); third-party trackers inconsistent and likely unreliable (est.)"
+employees_est: "~400-500 (2025-2026, est.; third-party trackers)"
+website: "https://www.trideum.com"
+external_ids: {}
+---
+
+## Overview
+
+Trideum Corporation is a Huntsville-based, 100% employee-owned small business founded on February 28, 2005 by Van Sullivan, Kurt Lessmann, and Lewis Hundley, specializing in modeling and simulation (M&S), test and evaluation (T&E), live-virtual-constructive (LVC) test environments, and Army training-simulation support [S1][S2][S4]. Third-party trackers put headcount around 400 to 500, with a footprint centered on Huntsville and satellite offices in Orlando (near PEO STRI), Leavenworth, and Killeen [S1][S3]. Its center of gravity is the Army: a prime seat on the PEO STRI Enterprise Training Services Contract (ETSC, $2.4B program ceiling), the Aerial Target Systems 2 (ATS-2) IDIQ out of ACC-Redstone, the CVATE cyber test-environment prototype and distributed-LVC test work at ATEC's Redstone Test Center, and the RAMP rapid-prototyping IDIQ from ACC-Aberdeen [S6][S7][S9][S10][S24]. It has recently pushed onto our vehicles and into our services turf: a prime seat on the Air Force's $46B EWAAC armament-acquisition IDIQ (AFLCMC, March 2025), SeaPort-NxG Unrestricted, and OASIS+ Unrestricted and Total Small Business [S11][S15][S12][S13]. Much of its marquee recent growth runs through the SBA-approved Nemean Trideum Joint Venture (NTSS JV), an 8(a) mentor-protégé vehicle that has won the $90.5M National Simulation Center task order and the $58.9M White Sands TEAS award [S20][S22][S23]. We collide with them squarely in our M&S/T&E lane: the Army test enterprise at Redstone and White Sands, Army training and mission-command simulation, and increasingly at the task-order level on OASIS+, SeaPort-NxG, and EWAAC [S6][S7][S23][S11]. They are smaller than us by roughly six-to-one, but sharp, fast, and armed with small-business and 8(a) primeability we do not have.
+
+## Threat Summary
+
+Trideum hurts us most where a niche M&S, LVC, or test-and-evaluation scope is set aside for small business or 8(a), because there they can prime and we cannot: directly as a small business, or through the Nemean Trideum 8(a) joint venture that has already taken the $90.5M National Simulation Center and $58.9M White Sands TEAS awards [S20][S22][S23]. They are a credible best-value technical shop, not a lowballer: in a 2021 Army Modeling and Simulation Office competition the Army paid a 29% price premium for Trideum's higher-rated proposal, and GAO upheld it [S19]. Their specialist reputation in distributed LVC test (they helped build ATEC's live-virtual-constructive test environment at Redstone Test Center) lets a focused past-performance story out-credential a generalist on narrowly scoped M&S/T&E buys [S24][S9]. The newer worry is footprint expansion onto our vehicles and into the Air Force test and armament world: EWAAC at AFLCMC, SeaPort-NxG, and OASIS+ Unrestricted put them in task-order competitions we consider ours [S11][S15][S12]. Expect them at Redstone and White Sands T&E, at PEO STRI training pursuits, and at any small-business or 8(a) M&S/LVC set-aside in our lane. They are beatable on scale, on cross-service breadth, and on full-and-open competitions that strip away the set-aside and the JV.
+
+## Their Discriminators
+
+- Set-aside and 8(a) primeability: as a small business, and through the SBA-approved Nemean Trideum mentor-protégé JV, they can hold and prime contracts a large business like us cannot [S20][S22][S23].
+- A focused, 20-year specialist reputation in Army M&S, LVC and distributed test, target systems, and training simulation, rather than a broad services portfolio [S1][S24].
+- Best-value credibility: a documented Army willingness to pay a technical price premium for their proposal, upheld at GAO [S19].
+- Speed and agility framing as a small, founder-built shop: rapid prototyping (RAMP), prototype cyber test environments (CVATE), and agile-acquisition vehicles (EWAAC) [S10][S9][S11].
+- Employee ownership (100% ESOP since 2024), sold as retention and continuity [S4].
+- Physical proximity to the customer: Huntsville for Redstone test, Orlando for PEO STRI [S1][S6].
+
+## Strengths
+
+- Small-business and 8(a) reach through NTSS JV: nine collaborative awards for the mentor-protégé team, including the National Simulation Center task order ($90.5M, 2024) and White Sands TEAS ($58.9M, October 2025), plus a multi-year Joint Test and Evaluation contract [S20][S21][S22][S23].
+- PEO STRI training franchise: a prime seat on ETSC ($2.4B program ceiling) plus the MTCCS IDIQ and the JBSA Mission Training Complex task order [S6][S26].
+- Army test-enterprise incumbency at Redstone: the ATS-2 aerial-target IDIQ (over $93M) from ACC-Redstone, Threat Systems Management Office towed-target work, the CVATE cyber test-environment prototype, and a distributed-LVC test build at Redstone Test Center [S7][S8][S9][S24].
+- Rapid-prototyping position: the RAMP IDIQ ($192M ceiling) from ACC-Aberdeen [S10].
+- Vehicle set well beyond its size: OASIS+ Unrestricted and Total Small Business, legacy OASIS SB Pool 3, GSA MAS, SeaPort-NxG Unrestricted, the $46B EWAAC IDIQ, and SOSSEC OTA membership [S12][S13][S14][S15][S11][S29].
+- Best-value technical win record, protest-tested: GAO denied the ATSP protest and the 29% premium held [S19].
+- Employee-owned retention story and a 12-time Inc. 5000 growth record [S4][S5].
+
+## Weaknesses
+
+### W1 - Small scale and mid-dollar prime ceiling
+
+Their own prime awards top out at task-order and mid-IDIQ scale: ATS-2 over $93M and RAMP at a $192M ceiling, while the biggest recent wins ($90.5M NSC, $58.9M White Sands) came through the Nemean JV, not Trideum prime [S7][S10][S22][S23]. Third-party trackers put headcount around 400 to 500 [S3]. Against a roughly 3,000-person competitor they lack the bench for enterprise-scale, multi-site, surge-heavy captures; when a requirement needs deep corporate reach-back, their concentration shows.
+
+### W2 - The small-business advantage is finite and depreciating
+
+Their sharpest weapon, the ability to prime set-asides, erodes as they grow. They now hold OASIS+ Unrestricted, SeaPort-NxG Unrestricted, and a $46B EWAAC seat, all vehicles competed against large businesses, and they have made the Inc. 5000 twelve times on revenue growth [S12][S15][S11][S5]. (Judgment, labeled as such: a 20-year, growing engineering-services firm is at or near the small-business size ceiling in its core NAICS; once it can no longer self-certify small, its direct set-aside primeability lapses and it must lean harder on the Nemean 8(a) JV, whose mentor-protégé eligibility carries its own SBA clock.) (needs internal input: confirm Trideum's current SBA size status under the NAICS codes on our shared pursuits.)
+
+### W3 - Marquee recent wins are joint-venture-borrowed, not sole-entity prime
+
+The National Simulation Center ($90.5M), White Sands TEAS ($58.9M), and JT&E awards were won by the Nemean Trideum Joint Venture, an 8(a) mentor-protégé entity, not by Trideum in its own name [S20][S21][S22][S23]. Workshare is split with the protégé, and the past performance belongs to the JV. In a full-and-open or unrestricted competition against us, requiring prime-executed, sole-entity past performance thins their citable record.
+
+### W4 - Army-and-Huntsville customer concentration
+
+Their footprint is overwhelmingly Army (PEO STRI training, ATEC and Redstone Test Center test, target systems) and geographically clustered in Huntsville, Orlando, Leavenworth, and Killeen [S1][S6][S7]. Public materials reviewed for this card show no MDA, Space Force, NASA, or NAVAIR/NAVSEA program work. A single-service, single-region concentration is a lever: require cross-enterprise breadth and their story narrows. (needs internal input: any Trideum sub positions at MDA, SMDC, or NAVAIR that do not surface in public announcements.)
+
+### W5 - Air Force and Navy positions are nascent vehicle seats, not executing programs
+
+The Air Force EWAAC seat is a March 2025 hunting license on a $46B shared-ceiling IDIQ, with no shown Eglin or AFTC task-order execution, and the Navy SeaPort-NxG position is vehicle access rather than a program [S11][S15]. Against our AFTC bench, badged headcount, and test-wing past performance, their armament-and-test presence at Eglin is nascent, and their Navy presence is on paper only.
+
+### W6 - Fresh top team during a growth-and-transition phase
+
+Founder Van Sullivan stepped aside as CEO to become Chairman on August 31, 2025; Favio Lopez moved up to CEO, and both a new COO (Robert "Hoot" Gibson) and a new VP of Growth (Robi Gjelstrup) were brought in [S16][S17][S18]. The transitions look orderly, but the operating company is running a fresh executive layer at the same time it pushes into new services and vehicles. (Judgment: founder relationship capital with legacy Army customers may be in transition.)
+
+## Our Counter-Positioning
+
+- Decide the set-aside question early (W2, W3). Where a pursuit is small-business or 8(a) set-aside, we cannot prime, so pick the strongest small-business partner and lead the technical solution rather than ceding the evaluation to their team. Where it is full-and-open or unrestricted, strip the advantage: require prime-executed, sole-entity past performance and current size certification, which neutralizes JV-borrowed past performance and any lapsed small-business claim. (needs internal input: our Redstone and White Sands small-business teaming posture.)
+- Run up scale and reach (W1). On enterprise, multi-site, surge-heavy captures, make corporate capacity, fill-rate history, and reach-back scored discriminators. We staff thousands across the test enterprise; they staff a few hundred concentrated in Army M&S and training.
+- Force cross-enterprise breadth (W4). Require past performance across multiple service and agency test communities (USAF AFTC, NAVAIR, MDA, NASA) that a single-service Army specialist cannot cite.
+- At Eglin and in Air Force armament and test scopes (W5), run up presence: our AFTC bench, badge-in-hand headcount, and test-wing CPARS dwarf a brand-new EWAAC seat with no shown execution.
+- Do not assault their genuine niche head-on (LVC and distributed test at Redstone Test Center). Win the wrap-around scope, the enterprise integration, and the independent-analysis role; concede the narrow prototype where it is theirs and take the larger envelope [S24].
+- Neutralize the ESOP and best-value stories with evidence: named key personnel, program-level retention data, and our own technical discriminators, so the customer is not paying a premium for a narrative. (needs internal input: our program retention figures.)
+- Recruit-defend in Huntsville: they draw from our labor pool with an ownership pitch; flag any pursuit where incumbent capture of our staff is plausible.
+
+## Objection Handling
+
+(Anticipated pushback, team judgment; replace with actual field feedback as it accumulates.)
+
+- **They say:** "They are the M&S and LVC test specialists; they built the environment." **We say:** The models, tools, and test environments are government property the incumbent operates, not owns. Ask for the data-rights and configuration-control inventory, then evaluate transition on evidence. Specialist depth in one test center is not enterprise breadth, and we execute test across the Air Force, Navy, and missile-defense enterprises.
+- **They say:** "They can prime this as a small business or through their 8(a) joint venture, so it is lower risk and earns set-aside credit." **We say:** On a full-and-open or unrestricted requirement, ask every offeror for sole-entity, prime-executed past performance and a current SBA size certification. A joint venture's 8(a) status belongs to the partner, and mentor-protégé arrangements expire; evaluate the entity that will actually be accountable.
+- **They say:** "Employee-owned, low turnover, continuity you can count on." **We say:** Continuity is measurable, so score it. Ask for program-level retention on the cited contracts and the named key personnel who will sit here. We commit named people with tenure records, not a corporate average. (needs internal input: our retention figures.)
+- **They say:** "The Army paid a premium for them once; they win on best value." **We say:** That confirms they are not the low-cost option. On price-sensitive work they are beatable, and on best-value we welcome a discriminator-for-discriminator comparison. A single premium award is not a pattern.
+- **They say:** "They are fast and agile: rapid prototyping, agile acquisition." **We say:** Prototype-scale agility is not the same as sustained enterprise execution. Ask for at-scale, multi-year delivery evidence of comparable scope performed as the responsible prime.
+
+## Trap-Setting Questions
+
+- "Which cited efforts did the offeror perform as the responsible prime contractor in its own legal name, versus through a joint venture or as a subcontractor, and what workshare and management authority did it actually hold on each?"
+- "What is the offeror's current SBA size status under the NAICS code for this requirement, and how would a change in that status affect performance if the contract spans multiple option years?"
+- "What currently staffed, cleared headcount can the offeror demonstrate at the government test site at proposal submission, and what is its documented fill-rate history at this installation?"
+- "Can the offeror cite comparable test-and-evaluation or modeling-and-simulation past performance across at least three distinct service or agency customer communities, and describe how that cross-enterprise experience applies here?"
+- "What data rights and configuration control will the government hold over models, simulations, LVC environments, and tools developed or modified under this effort?"
+- "Describe the offeror's experience delivering enterprise-scale, multi-site programs as the prime, including the corporate surge capacity available without drawing down other work for the same customer."
+
+## Ghosting Library
+
+### G1 - Sole-entity prime past performance
+
+- Ghost: "Offerors should distinguish efforts performed as the responsible prime contractor in their own legal name from efforts performed through a joint venture or as a subcontractor, and should disclose the workshare, management responsibility, and past-performance ownership actually held on each cited effort."
+- Targets: W3
+- Proof: PP6
+
+### G2 - Enterprise scale and multi-site surge
+
+- Ghost: "Offerors should demonstrate the corporate capacity to staff and sustain an enterprise-scale, multi-site effort, including current cleared headcount, documented fill-rate history, and the surge and reach-back available at contract start without degrading other work."
+- Targets: W1
+- Proof: PP9
+
+### G3 - Breadth beyond a single service and region
+
+- Ghost: "Offerors should describe past performance delivering comparable modeling-and-simulation and test-and-evaluation support across multiple service and agency customer communities, and how enterprise reach-back beyond a single service and geographic base will sustain performance through funding or mission disruption."
+- Targets: W4
+- Proof: PP1
+
+### G4 - Established on-site presence at the test installation
+
+- Ghost: "Offerors should demonstrate an established, currently staffed presence at the government test site, including on-site cleared headcount available at award and the fraction of proposed key personnel already resident and badged at contract start."
+- Targets: W5
+- Proof: PP5
+
+## Pricing Posture
+
+No wrap-rate or evaluated-price intel is documented. The one hard public data point cuts against a lowball read: in a 2021 Army Modeling and Simulation Office competition (RFP W56HZV-20-R-L850), the Army selected Trideum's higher-rated proposal over Aerospace Training Systems Partners at a 29% price premium, and GAO denied the protest, finding the technical distinction justified the premium [S19]. That is evidence they win best-value trade-offs on technical merit rather than by buying in. Judgment, labeled as such: a 100% employee-owned small business with no outside investors typically carries a lean cost structure and can price competitively on labor-rate work, but their pattern is to sell technical value, and their small-business and 8(a)-JV positioning lets them win set-aside work without a price fight. Treat them as rate-competitive but premium-capable, not an LPTA buy-in player, until data says otherwise. (needs internal input: rate observations from any shared OASIS+, SeaPort-NxG, or EWAAC task-order competitions.)
+
+## Win/Loss vs Us
+
+## Intel & Proof Points
+
+### PP1 - PEO STRI training franchise: ETSC, MTCCS, and JBSA MTC
+
+Trideum holds a prime seat on the Enterprise Training Services Contract (ETSC), a PEO STRI / ACC-Orlando multiple-award IDIQ with a $2.4B program ceiling and a five-year period of performance, providing worldwide training and training-assistance services (exercise planning, training operations, and sustainment of training aids, devices, simulations, and ranges) [S6]. It also holds an MTCCS (Mission Training Complex Capabilities Support) IDIQ and won the Joint Base San Antonio Mission Training Complex task order (July 30) for operator, instructor, technical, and administrative mission-command training support [S26].
+
+### PP2 - Army Redstone test and target incumbency: ATS-2 and TSMO
+
+In July 2018 the U.S. Army Contracting Command - Redstone awarded Trideum the Aerial Target Systems 2 (ATS-2) multiple-award IDIQ, worth over $93M over five years, for RDT&E and support of unmanned aerial target systems [S7]. Under ATS-2, Trideum supports the Army Threat Systems Management Office with towed-target data-logger hardware, test, and training, deploying QinetiQ aerial targets at Norfolk VA, Yuma AZ, and Sarasota and Pensacola FL [S8].
+
+### PP3 - CVATE cyber test-environment prototype at ATEC
+
+Trideum holds the Cybersecurity Vulnerability Assessment Test Environment (CVATE) prime contract, prototyping a cyber test environment inside the system-of-systems test capability being established at ATEC's Redstone Test Center [S9].
+
+### PP4 - RAMP rapid-prototyping IDIQ, $192M ceiling
+
+Trideum holds the Rapid Acquisition of Materials for Prototyping (RAMP) multiple-award IDIQ from Army Contracting Command - Aberdeen Proving Ground, a $192M ceiling over a three-year period [S10].
+
+### PP5 - EWAAC prime seat, AFLCMC Armament, $46B ceiling
+
+On March 14, 2025 Trideum was named a prime on the Air Force Enterprise-Wide Agile Acquisition Contract (EWAAC), an AFLCMC Armament Directorate multiple-award IDIQ with a $46B ceiling and a period of performance through September 9, 2031, for expedited acquisition of weapons-system requirements [S11]. This is a shared-ceiling hunting license; no Eglin or AFTC task-order execution is shown in public materials to date.
+
+### PP6 - Nemean Trideum Joint Venture: 8(a) mentor-protégé, nine awards
+
+Trideum is the mentor in the SBA-approved Nemean Trideum Joint Venture (NTSS JV), formed July 2021 with Nemean Solutions, LLC, an 8(a) Native-Hawaiian-Owned, veteran-operated small business in Sierra Vista, AZ; NTSS JV II launched in late 2024 as the second JV under the mentor-protégé program [S20][S23]. The JV won a Joint Test and Evaluation contract (May 2022, work in MS, NV, and VA) [S21], the $90,490,182 National Simulation Center Support Operations task order (start September 6, 2024; Fort Leavenworth, Fort Gregg-Adams, Fort Cavazos), beating four competitors [S22], and the White Sands Test Center TEAS contract (up to $58.9M, awarded October 1, 2025, contract W51EW725CA003), described as the JV's ninth collaborative award [S23].
+
+### PP7 - Best-value win, protest-tested (GAO B-419668)
+
+GAO denied Aerospace Training Systems Partners' protest of an Army award to Trideum under RFP W56HZV-20-R-L850 for Army Modeling and Simulation Office M&S services; the agency found a meaningful technical distinction (Trideum rated "good" with four strengths and two weaknesses, ATSP "marginal") that justified paying a 29% price premium for Trideum's proposal [S19].
+
+### PP8 - Vehicle portfolio well beyond its size
+
+Trideum holds OASIS+ Unrestricted (GSA contract 47QRCA25DS240) and OASIS+ Total Small Business, legacy OASIS Small Business Pool 3, a GSA MAS (GS-10F-0130T; 47QRAD20D3095), a SeaPort-NxG Unrestricted prime position for engineering and program-management services, the $46B EWAAC IDIQ, and SOSSEC OTA-consortium membership [S12][S13][S14][S15][S11][S29].
+
+### PP9 - Scale, ownership, and growth profile
+
+Founded February 28, 2005; became 100% employee-owned (ESOP) in 2024; third-party trackers put headcount around 400 to 500 (PitchBook ~500, RocketReach ~397, Tracxn ~395; revenue estimates vary widely and look unreliable) [S1][S3][S4]. Named to the Inc. 5000 twelve times (2024 rank No. 4,992, ranked on 2020-2023 revenue growth) and a 2025 honoree [S5].
+
+### PP10 - Leadership transition, 2025
+
+Co-founder Van Sullivan stepped aside as CEO to become Chairman effective August 31, 2025; President Favio Lopez (previously COO) became CEO [S16]. Robert "Hoot" Gibson joined as Chief Operating Officer and Robi Gjelstrup joined as Vice President, Growth [S17][S18].
+
+### PP11 - Distributed-LVC test build for ATEC
+
+Trideum helped the Army build a tactically relevant live-virtual-constructive simulated test environment featuring near-real-time data collection, analytics, and visualization; ATEC demonstrated a Multi-Domain Operations Distributed LVC initial operational capability across its sites (led by Redstone Test Center and Aberdeen Test Center) in October 2023 [S24].
+
+### PP12 - Subcontract relationships
+
+Trideum subcontracts to Raytheon Intelligence & Space on the U.S. Army Central Command Training Support Services contract and to Jacobs Technology on the U.S. Army Intelligence Center of Excellence effort [S27][S28].
+
+## Recent Developments
+
+- 2025-11 (reported) - Nemean Trideum JV II won the White Sands Test Center TEAS contract (up to $58.9M; awarded October 1, 2025; contract W51EW725CA003), the JV's ninth collaborative award [S23].
+- 2025-10 - Attained CMMC Level 2 for its enterprise environment [S25].
+- 2025-08-31 - Co-founder Van Sullivan moved from CEO to Chairman; President Favio Lopez became CEO [S16].
+- 2025 - Robert "Hoot" Gibson joined as COO; Robi Gjelstrup joined as VP of Growth [S17][S18].
+- 2025-03-14 - Named a prime on the Air Force EWAAC IDIQ (AFLCMC Armament, $46B ceiling, through September 9, 2031) [S11].
+- 2025-01 (reported) - Awarded a SeaPort-NxG Unrestricted prime position (engineering and program-management services) [S15].
+- 2024-09-06 - Nemean Trideum JV won the $90.5M National Simulation Center Support Operations task order, beating four competitors [S22].
+- 2024 - Awarded OASIS+ Unrestricted and OASIS+ Total Small Business; became 100% employee-owned; named to the Inc. 5000 for the 12th time [S12][S13][S4][S5].
+- 2024-07-30 - Won the JBSA Mission Training Complex task order under its MTCCS IDIQ [S26].
+
+## Sources
+
+- [S1] Trideum Corporation company overview (privately owned small business; founded February 28, 2005 by Van Sullivan, Kurt Lessmann, Lewis Hundley; 100% employee-owned; M&S, T&E, capabilities analysis, training development; HQ Huntsville with offices in Orlando, Leavenworth KS, Killeen TX) - https://www.trideum.com/ and https://cm.hsvchamber.org/list/member/trideum-corporation-6601 and https://www.simulationinformation.com/members/trideum-corporation/ (accessed 2026-07-17 via web search; direct fetch of trideum.com returned 403)
+- [S2] Trideum Corporation "Celebrates 20 Years of Excellence and Innovation" (founded 2005; 20-year milestone in 2025) - https://www.trideum.com/trideum-celebrates-20-years/ (accessed 2026-07-17 via web search; direct fetch returned 403)
+- [S3] Third-party size/revenue trackers (no audited public figures; private ESOP): PitchBook (~500 employees) - https://pitchbook.com/profiles/company/128501-38 ; RocketReach (~397 employees) - https://rocketreach.co/trideum-corporation-profile_b5d8e5c9f42e5d0b ; Tracxn (~395 employees) - https://tracxn.com/d/companies/trideum ; Growjo (revenue est.) - https://growjo.com/company/Trideum_Corporation ; HQ 675 Discovery Dr NW Ste 300, Huntsville AL 35806 (accessed 2026-07-17 via web search)
+- [S4] Trideum employee ownership (100% employee-owned via ESOP, effective 2024) - https://www.trideum.com/trideum-announces-employee-ownership/ and Certified EO profile https://www.certifiedeo.com/company/trideum-corporation (accessed 2026-07-17 via web search; certifiedeo direct fetch returned 403)
+- [S5] Inc. 5000 recognition: 12th appearance (2024 rank No. 4,992; ranked on 2020-2023 revenue growth) and 2025 honoree - https://www.trideum.com/inc-5000-list-includes-trideum-for-12th-time/ and https://www.inc.com/profile/trideum-corporation (accessed 2026-07-17 via web search)
+- [S6] ETSC award (Enterprise Training Services Contract; multiple-award IDIQ; $2.4B program ceiling; five-year PoP; ACC-Orlando in support of PEO STRI; worldwide training and training-assistance services) - https://www.trideum.com/trideum-corporation-awarded-prime-contract-to-provide-global-training-support-to-u-s-army/ and https://www.prweb.com/releases/trideum_corporation_awarded_prime_contract_to_provide_global_training_support_to_u_s_army/prweb15642074.htm (accessed 2026-07-17 via web search; direct fetch of prweb returned 403)
+- [S7] ATS-2 award (Aerial Target Systems 2 multiple-award IDIQ; over $93M; five-year PoP; U.S. Army Contracting Command - Redstone; announced July 11, 2018; unmanned aerial target systems RDT&E and support) - https://www.trideum.com/trideum-corporation-awarded-prime-aerial-target-systems-2-support-contract/ and USAspending IDV W900KK18D0005 https://www.usaspending.gov/award/CONT_IDV_W900KK18D0005_9700 (accessed 2026-07-17 via web search; usaspending direct fetch returned 403)
+- [S8] Towed Target Data Logger under ATS-2 (Army Threat Systems Management Office; GPS data-logger receivers for tow-target flights; QinetiQ aerial targets; work at Norfolk VA, Yuma AZ, Sarasota and Pensacola FL; 2020) - https://www.trideum.com/u-s-army-selects-trideum-to-provide-towed-target-data-logger-hardware-and-test-support/ and https://www.qinetiq.com/en/news/trideum-awarded-prime-contract-supporting-us-army-target-management-office-deploying-qinetiq-target-systems-aerial-targets and https://ukdefencejournal.org.uk/trideum-awarded-us-army-target-contract-with-qinetiq-aerial-targets/ (accessed 2026-07-17 via web search)
+- [S9] CVATE prime contract (Cybersecurity Vulnerability Assessment Test Environment; prototype cyber test environment within the system-of-systems test capability at ATEC's Redstone Test Center) - https://www.trideum.com/trideum-corporation-awarded-cybersecurity-vulnerability-assessment-test-environment-cvate-prime-contract/ and https://www.prweb.com/releases/Trideum_Corporation_Awarded_Cybersecurity_Vulnerability_Assessment_Test_Environment_CVATE_Prime_Contract/prweb15712581.htm (accessed 2026-07-17 via web search; direct fetch returned 403)
+- [S10] RAMP prime contract (Rapid Acquisition of Materials for Prototyping; multiple-award IDIQ; $192M ceiling; three-year PoP; Army Contracting Command - Aberdeen Proving Ground) - https://www.trideum.com/trideum-corporation-awarded-rapid-acquisition-of-materials-for-prototyping-ramp-prime-contract/ (accessed 2026-07-17 via web search; direct fetch returned 403)
+- [S11] USAF EWAAC prime selection (Enterprise-Wide Agile Acquisition Contract; AFLCMC Armament Directorate; multiple-award IDIQ; $46B ceiling; PoP through September 9, 2031; announced March 14, 2025) - https://www.trideum.com/prime-usaf-ewaac-contact/ and https://www.trideum.com/contract-usaf-ewaac/ and https://www.linkedin.com/posts/trideum-corporation_ewaac-usaf-aflcmc-activity-7315733149898932225-MsyH (accessed 2026-07-17 via web search)
+- [S12] OASIS+ Unrestricted award (GSA MA-IDIQ MAC; GSA contract 47QRCA25DS240; 2024) - https://www.trideum.com/awarded-oasis-unrestricted-contract/ and https://www.trideum.com/oasis-plus-unrestricted-contract/ (accessed 2026-07-17 via web search; direct fetch returned 403)
+- [S13] OASIS+ Total Small Business award (GSA MA-IDIQ MAC; access via GSA eBuy) - https://www.trideum.com/awarded-oasis-total-small-business-contract/ (accessed 2026-07-17 via web search; direct fetch returned 403)
+- [S14] Legacy OASIS Small Business Pool 3 and GSA MAS (OASIS SB Pool 3 engineering services; GSA MAS GS-10F-0130T and 47QRAD20D3095) - https://www.trideum.com/trideum-among-gsa-list-of-oasis-small-business-pool-3-contractors/ and GSA eLibrary contractor record for Trideum Corporation (accessed 2026-07-17 via web search)
+- [S15] SeaPort-NxG Unrestricted prime (U.S. Navy IDIQ MAC; engineering services and program-management services; reported January 2025) - https://www.trideum.com/awarded-seaport-nxg-contract/ and https://www.trideum.com/seaport-nxg-contract/ (accessed 2026-07-17 via web search; direct fetch returned 403)
+- [S16] Leadership: "Favio Lopez Steps Up as CEO of Trideum Corporation" (co-founder Van Sullivan stepped aside as CEO effective August 31, 2025, becoming Chairman; Lopez previously President and COO) - https://www.trideum.com/favio-lopez-named-ceo-trideum-corporation/ and https://www.prweb.com/releases/trideum-corporation-announces-the-promotion-of-favio-lopez-to-president-and-chief-operating-officer-892062571.html (accessed 2026-07-17 via web search)
+- [S17] "Robert 'Hoot' Gibson Joins Trideum Corporation as Chief Operating Officer" - https://www.trideum.com/robert-hoot-gibson-joins-trideum-corporation-as-chief-operating-officer/ (accessed 2026-07-17 via web search; direct fetch returned 403)
+- [S18] "Robi Gjelstrup Joins Trideum Corporation as Vice President, Growth" - https://www.trideum.com/robi-gjelstrup-joins-trideum-corporation/ (accessed 2026-07-17 via web search; direct fetch returned 403)
+- [S19] GAO bid protest B-419668, B-419668.2, Aerospace Training Systems Partners, LLC (protest of Army award to Trideum under RFP W56HZV-20-R-L850 for Army Modeling and Simulation Office M&S services; denied; agency paid a 29% price premium for Trideum's higher-rated proposal; Trideum rated "good" [four strengths, two weaknesses], ATSP "marginal" [two strengths, five weaknesses, three significant weaknesses]) - https://www.gao.gov/products/b-419668,b-419668.2 (accessed 2026-07-17 via web search; direct fetch returned 403)
+- [S20] Nemean Trideum Joint Venture formation (Nemean Solutions, LLC of Sierra Vista AZ and Trideum Corporation of Huntsville AL formed NTSS JV, July 2021; SBA mentor-protégé; Nemean is 8(a) Native-Hawaiian-Owned and veteran-operated; Trideum brings T&E, M&S, and training past performance) - https://www.nemeansolutions.com/news/2021/7/13/nemean-solutions-llc-and-trideum-corporation-form-nemean-trideum-joint-venture-llc and https://www.nemeansolutions.com/ntss-jv (accessed 2026-07-17 via web search)
+- [S21] NTSS JV Joint Test and Evaluation award (multi-year, multimillion-dollar contract supporting joint military test and evaluation across Mississippi, Nevada, and Virginia; announced late May 2022) - https://www.trideum.com/ntss-joint-venture-is-awarded-multi-year-contract-to-support-jte/ and https://www.nemeansolutions.com/news/2022/5/27/nemean-trideum-joint-venture-llc-ntss-jv-awarded-joint-test-and-evaluation-contract (accessed 2026-07-17 via web search)
+- [S22] NTSS JV National Simulation Center Support Operations task order ($90,490,182; start date September 6, 2024; capability development, fielding, exercise/user support, home-station training, and VV&A at Fort Leavenworth KS, Fort Gregg-Adams VA, Fort Cavazos TX; JV beat four other offerors) - https://www.trideum.com/us-army-selects-ntss-jv-for-nsc-support-operations-task-order/ and https://orangeslices.ai/nemean-and-trideum-jv-beats-out-4-to-win-90-5m-us-army-national-simulation-center-support-operation-task/ (accessed 2026-07-17 via web search)
+- [S23] NTSS JV II White Sands TEAS award (Test Engineering and Analysis Services for White Sands Test Center and WSMR tenants; definitive contract worth up to $58.9M; awarded October 1, 2025; contract W51EW725CA003; described as NTSS JV's ninth collaborative award; NTSS JV II started late 2024 as second JV under the SBA-approved Nemean Trideum mentor-protégé program) - https://www.nemeansolutions.com/news/2025/11/4/nemean-trideum-joint-venture-ii-ntss-jv-ii-awarded-new-prime-teas-contract-for-white-sands-test-center-wstc and https://www.highergov.com/contract/W51EW725CA003/ (accessed 2026-07-17 via web search)
+- [S24] Distributed-LVC test capability at ATEC (Trideum helped build a tactically relevant live-virtual-constructive simulated test environment with near-real-time data collection, analytics, and visualization; ATEC demonstrated a Multi-Domain Operations Distributed LVC initial operational capability, led by Redstone Test Center and Aberdeen Test Center, October 2023) - https://trideum.com/what-we-do/live-virtual-and-constructive-lvc/ and https://www.army.mil/article/271659/rtc_supports_army_modernization_efforts_through_atec (accessed 2026-07-17 via web search)
+- [S25] Trideum news feed / 2025 archive (item: attained CMMC Level 2 for its enterprise environment, October 2025) - https://www.trideum.com/news/ and https://www.trideum.com/2025/ (accessed 2026-07-17 via web search; direct fetch returned 403)
+- [S26] Mission Command / MTCCS training work (JBSA Mission Training Complex task order awarded July 30 under Trideum's Mission Training Complex Capabilities Support [MTCCS] IDIQ; operator, instructor, technical, and administrative mission-command training support) - https://www.trideum.com/u-s-army-selects-trideum-for-mission-command-training-contract/ and https://www.trideum.com/trideum-awarded-army-mission-command-training-contract/ and https://www.halldale.com/defence/15678-trideum-wins-us-army-contract (accessed 2026-07-17 via web search; halldale direct fetch returned 403)
+- [S27] Subcontract to Raytheon Intelligence & Space (support to the U.S. Army Central Command Training Support Services contract) - https://www.trideum.com/trideum-corporation-awarded-sub-contract-by-raytheon/ (accessed 2026-07-17 via web search; direct fetch returned 403)
+- [S28] Subcontract to Jacobs Technology, Inc. (U.S. Army Intelligence Center of Excellence) - https://www.trideum.com/trideum-corporation-awarded-u-s-army-intelligence-center-of-excellence-subcontract-with-jacobs-technology-inc/ (accessed 2026-07-17 via web search; direct fetch returned 403)
+- [S29] SOSSEC, Inc. member profile for Trideum Corporation (OTA consortium membership) - https://sossecinc.com/company/trideum-corporation/ (accessed 2026-07-17 via web search)
+- [S30] Halldale Group: "Trideum Corporation wins multiple Orlando-based contracts" (PEO STRI / ACC-Orlando training context, 2018) - https://www.halldale.com/articles/15182-trideum-corporation-wins-multiple-orlando-based-contracts (accessed 2026-07-17 via web search; direct fetch returned 403)

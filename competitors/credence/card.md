@@ -1,0 +1,243 @@
+---
+id: credence
+name: Credence Management Solutions
+slug: credence
+aliases: [Credence, Credence Management Solutions LLC, Credence Dynamo Solutions]
+tier: 2
+status: draft
+relationship: competitor
+owner: "CI Owner"
+last_reviewed: 2026-07-17
+approved_by: null
+approved_date: null
+example: false
+markets: [seta-advisory, digital-engineering, systems-engineering, software-engineering, cyber, c5isr, rdte-support]
+agencies: [usaf-afmc, ussf-ssc, army]
+vehicles: [oasis-plus, gsa-mas, astro, agency-idiq]
+size: large
+set_asides: [mentor-protege-jv]
+parent: null
+jv_partners: ["Credence Dynamo Solutions LLC (SBA 8(a) mentor-protege JV with Dynamo Technologies)", "Credence Streamline Solutions LLC"]
+hq: "Vienna, VA"
+revenue_est: "$500M+ (2024-2025, est.; company and third-party claims, no audited public figure)"
+employees_est: "~1,200-1,800 (2025-2026, est., after early-2025 layoffs)"
+website: "https://credence-llc.com"
+external_ids: {}
+---
+
+## Overview
+
+Credence Management Solutions is a founder-owned federal services firm headquartered in Vienna, VA, started in 2005 by Sid Chowdhary (CEO) and run since late 2011 with president Prashant Gaur as a two-principal shop; it has grown entirely organically, with no acquisitions or outside capital in public records [S1][S2][S3][S4]. Scale today: $500M+ claimed revenue, #61 on the 2025 Washington Technology Top 100, roughly 1,200 to 1,800 staff (est.) after the 2025 USAID layoffs [S4][S5][S6][S23]. The business has three lanes: Department of the Air Force acquisition and engineering support (a deep EPASS task-order portfolio across AFLCMC plus Space Force staff support), global health and international development (the USAID franchise, gutted in 2025), and federal civilian and defense IT (DLA, NIH, State) [S9][S10][S11][S13][S24][S25][S26]. Their offices sit on top of AFLCMC's field operating locations: Fairborn OH at Wright-Patterson, Warner Robins GA at Robins, and Fort Walton Beach FL in the Eglin community, plus Vienna and DC [S7]. We collide with them in the AFLCMC A&AS ecosystem where our legacy Oasis Systems business is an anchor incumbent, in DAF digital and cyber staff support, and now at Space Systems Command, where they took a $200M+ command staff support order and held it through protests [S9][S11][S13][S19]. The relationship is not purely adversarial: at Eglin they are listed beside Astrion as teaming partners on Odyssey's EB (Armament Directorate) EPASS task [S33]. They claim to prime 95 percent of their work and were the self-described top performer on OASIS SB Pools 1 and 3 with roughly 50 OASIS prime task orders [S8]. With their biggest single franchise (USAID) destroyed in 2025, their growth engine has one obvious place to point: defense services, which means at us.
+
+## Threat Summary
+
+Credence wins staff-heavy acquisition-support competitions on price, speed, and vehicle position, inside AFLCMC and now at Space Force. They hold a decade-deep EPASS portfolio (their tenth EPASS task order came in May 2022, and the 2023 "Franken-Cutter" award consolidated two programs plus CROWS support) [S9][S10], and they reach set-aside work we cannot touch through an 8(a) mentor-protege JV that took the $337.6M C2ISR EPASS order on OASIS SB in October 2024 [S11][S12]. At SSC they beat small-business A&AS peers for a $200-222M command staff support order and survived two GAO protests, one of which forced a re-evaluation of whether their professional compensation was priced too low; that is the clearest public signal of how they compete on rates [S13][S14][S15][S16]. OASIS+ Unrestricted across six domains, including Enterprise Solutions (they say one of only 29 awardees), gives them a seat at the big consolidated orders we prime or chase [S18]. What they do not have: hands-on test and evaluation, range, aviation and missile engineering, or any documented footprint at AFTC, Redstone, MDA, NAVAIR/NAVSEA, or NASA. Expect them wherever an evaluation reduces to staffing plans and price; do not expect them (yet) where facilities, instrumentation, and deep technical past performance decide.
+
+## Their Discriminators
+
+- Rate competitiveness in professional-services evaluations: lean, founder-owned cost structure with no outside investors to feed, and a documented willingness to price professional compensation at levels competitors formally challenge [S14] (analysis; see Pricing Posture).
+- Continuity story inside AFLCMC: ten-plus EPASS task orders across HQ AFMC, C2ISR, CROWS, and other directorates, with offices at all three main AFLCMC hubs, so evaluators see a known quantity [S7][S9][S10][S11].
+- A vehicle-and-JV lattice that covers every on-ramp: legacy OASIS SB and Unrestricted, OASIS+ Unrestricted (six domains), ASTRO, ITES-3S, GSA MAS, DLA JETS 2.0, plus an 8(a) mentor-protege JV to keep set-aside channels open after size graduation [S8][S11][S12][S18][S26][S34].
+- Founder-led speed: two principals since 2011 make teaming, pricing, and bid decisions without a board or private-equity approval chain [S3][S4] (judgment).
+- Workforce brand that recruits: Washington Post #1 government technology services Top Workplace and #2 overall for 2025, Inc. 5000 honoree [S36].
+- Demonstrated bounce-back capacity: within months of the USAID collapse they booked a $107M State Department contract and a $118.6M DLA task order against 18 bidders [S25][S26].
+
+## Strengths
+
+- EPASS franchise depth: tenth EPASS task order by May 2022 (HQ AFMC A&AS at Wright-Patterson); the December 2023 Franken-Cutter award merged two of their EPASS programs and added CROWS support, serving 17+ organizations with acquisition, engineering, scientific, financial, logistics, test, intelligence, and security-management staff [S9][S10].
+- $337,639,354 C2ISR Division EPASS task order (FA872124FB005, October 2024) via Credence Dynamo Solutions on OASIS SB, supporting AFLCMC's PEO Digital portfolio C2ISR Division work at Robins AFB [S11][S12].
+- Space Force beachhead: $200-222M SSC Advanced Systems and Development Directorate command staff support order (directorate HQ at Kirtland AFB with divisions at LA AFB, Hill AFB, and JSC), defended through BTAS and Quantech GAO protests and a corrective-action re-evaluation [S13][S14][S15][S16][S17].
+- OASIS+ Unrestricted position (47QRCA25DU090, awarded December 17, 2024): six domains including Enterprise Solutions, Management & Advisory, Technical & Engineering, R&D, Intelligence Services, and Logistics; first documented order is the $23.8M DAF Zero Trust Functional Management Office support task (August 2025) [S18][S19].
+- Vehicle breadth beyond OASIS+: legacy OASIS SB Pools 1 and 3 (self-described top performer, ~50 OASIS prime task orders, 95 percent prime), legacy OASIS Unrestricted, GSA ASTRO, Army ITES-3S (Unrestricted and SB), multiple GSA MAS contracts, DLA JETS 2.0 [S8][S26][S34].
+- JV production line: Credence Dynamo Solutions has taken a $74M Army resource-management order, a $45.8M Army PMOSE task on OASIS SB, ISR services support at Shaw AFB ($28.6M cumulative through option year two), and a prime GEOINT support contract [S12][S29][S30][S37].
+- AI/ML toehold at DLA: Defense Automatic Addressing System AI/ML task plus an AI/ML services contract [S27]; they also advertise Advanced Battle Management System support [S35].
+- Growth and recognition: $500M+ claimed revenue as one of the few fully organically grown WT Top 100 firms, Washington Post Top Workplaces #1 in government technology services for 2025, Inc. 5000 honoree [S4][S5][S36].
+- Protest-hardened: their two biggest known franchises (GHTASC and SSC CSS) both survived multi-round GAO challenges [S13][S14][S21].
+
+## Weaknesses
+
+### W1 — Their biggest franchise was destroyed in 2025 and the replacement book is a fraction of it
+
+Credence held an $800M USAID global health task order (GHTASC, won 2022) and a ~$899M USAID Bureau for Humanitarian Assistance support task order (2024) [S20][S21][S22]. The January 2025 stop-work orders hit immediately: NPR reported Credence, one of three main institutional-support staffing contractors to USAID, laid off nearly 400 employees within days [S23]. USAID formally ceased operations July 1, 2025, with roughly 83 percent of its programs canceled and the remainder moved to State [S24]. Documented replacement wins since (a $107M State refugee-processing contract, a $118.6M DLA task order) total well under the ceiling value of what collapsed [S25][S26]. That lost revenue creates pressure to win defense work fast, and pressure like that produces buy-in pricing and overreach (judgment).
+
+### W2 — The portfolio is advisory staff support, not hands-on technical delivery
+
+Every major DoD win in public view is A&AS or staff support: EPASS acquisition, financial, logistics, and security-management support to AFLCMC offices [S9][S10][S11], command staff support at SSC [S13][S16], resource management and program-management support for the Army [S29]. Public sources reviewed for this card show no prime work at AFTC, no Redstone (AvMC/AMCOM/SMDC) presence, nothing at MDA, NAVAIR, NAVSEA, or NASA, and no operated labs, ranges, test facilities, or fielded hardware story (needs internal input: FPDS pull to confirm the absence before treating it as settled). Where an evaluation weighs test conduct, instrumentation, or engineering execution rather than staffing plans, they have little to cite.
+
+### W3 — Growth scaffolding rides small-business channels they have outgrown
+
+The marquee Air Force wins ride OASIS SB, either directly from their legacy pools or through the Credence Dynamo 8(a) mentor-protege JV [S8][S11][S12]. As a graduated large business, their direct small-business channel dies with the legacy OASIS SB ordering window, SBA joint-venture rules limit how much of a set-aside job the mentor can perform, and the protege relationship has a regulatory shelf life. Their unrestricted successor position (OASIS+ U, December 2024) is real but young: one documented order as of this writing [S18][S19]. The transition years are the window to beat them in full-and-open competition before their unrestricted past performance accumulates (judgment on timing; facts cited).
+
+### W4 — Professional compensation drew formal realism scrutiny, and they cut staff fast under stress
+
+In the SSC CSS protests, GAO's outcome-prediction ADR concluded the agency had not properly evaluated Credence's professional compensation plan under FAR 52.222-46 (the provision aimed at lowballed professional salaries on recompetes); GSA re-evaluated in corrective action and reaffirmed the award, and the final protest was denied [S14]. The award stood, but the record documents that their compensation levels were contestable ground. Separately, the January 2025 stop-work response was near-immediate layoffs of ~400 people [S23]. For incumbent workforces deciding whose offer letter to sign at transition, both facts are usable (judgment on the use; facts cited).
+
+### W5 — No presence in our anchor technical communities
+
+Their listed offices are Vienna, Washington DC, Fairborn, Warner Robins, and Fort Walton Beach [S7]. Nothing in Huntsville, at Edwards, in the Hanscom/Lexington cluster, at Pax River, or in Albuquerque appears in public listings, and their documented Eglin-community role is as one of eight subcontractor partners on Odyssey's Armament Directorate EPASS team, not a prime seat [S7][S33]. Recruiting and surging cleared technical staff in those communities without a local bench is slow and expensive (judgment).
+
+## Our Counter-Positioning
+
+- Make evaluations technical (W2). Push customers to score hands-on engineering execution: test conduct, instrumentation, lab and range operation, integration work, prime technical past performance in the mission area. Their EPASS-style citations are administrative and program-office support; ours are not. This is the single sharpest separator.
+- Time captures to their vehicle transition (W3). Legacy OASIS SB orders and the 8(a) JV channel are wasting assets. In full-and-open recompetes on OASIS+ or agency IDIQs, they show up with thin unrestricted past performance; force citations to be prime, recent, and comparable in contract type and size.
+- Force JV transparency (W3). Where they bid through a mentor-protege JV, drive questions about managing-venturer workshare, SBA performance-of-work compliance, and which entity's people and processes actually execute.
+- Contest staffing economics (W4). Ask for total compensation plans evaluated per FAR 52.222-46, comparison to incumbent salary levels, and program-level retention data. Pair our named key personnel and retention record against their protest-documented compensation scrutiny (needs internal input: our retention figures by program).
+- Sell stability against their 2025 shock (W1). Corporate steadiness, backlog quality, and staff continuity through funding turbulence are now legitimate discriminators; ask evaluators to weigh them.
+- Out-local them (W5). In Huntsville, at Edwards, at Eglin's test wing, and in the Hanscom community, our badge-in-hand density and community tenure beat a proposal-time hiring plan. Make on-site presence a scored item.
+- Manage the teammate line at Eglin. We sit on the same Odyssey EB team [S33]; assume they see part of our staffing and rate behavior there, and be deliberate about what they can observe. Where they grow ambitions from sub to prime in armament-adjacent scopes, treat them as a named threat early (needs internal input: EB workshare boundaries).
+
+## Objection Handling
+
+(Anticipated pushback, team judgment; replace with actual field feedback as it accumulates.)
+
+- **They say:** "They'll do it cheaper." **We say:** Ask what the labor mix and compensation plan look like at that price. In their highest-profile recent win, the government had to re-run the cost evaluation of their professional compensation under FAR 52.222-46 before the award stuck. Underpaying professionals on a technical services contract is how incumbent capture fails and quality drains out; ask every offeror for comp-to-incumbent comparisons and retention history.
+- **They say:** "They're everywhere at AFLCMC; the customer knows them." **We say:** Knowing the program office is not the same as doing the engineering. Their portfolio is advisory and administrative support; ask offerors to cite prime-executed technical work, with named facilities, instrumentation, and test products, of this scope.
+- **They say:** "They're a top workplace; they'll staff it fast." **We say:** Staffing speed matters less than staying power. When their largest customer issued stop-work orders, roughly 400 staff were laid off within days. Ask for continuity commitments and program retention rates, not recruiting awards.
+- **They say:** "They rebuilt after USAID; they're financially fine." **We say:** Their documented replacement wins are a small fraction of the ceilings they lost, which is exactly when a firm gets aggressive on price to rebuild volume. Buy-in pricing is a performance risk the evaluation can and should test.
+- **They say:** "Their small-business JV can take this set-aside." **We say:** Then the evaluation should confirm SBA workshare compliance: who is the managing venturer, what share the protege actually performs, and whose past performance is really being offered. If the answer is "the large mentor does the work," that is a compliance and continuity question, not a discriminator.
+
+## Trap-Setting Questions
+
+- "Can offerors provide a total compensation plan per FAR 52.222-46, including a direct comparison of proposed salaries to current incumbent compensation, and describe how they will retain incumbent personnel at those levels?"
+- "What prime-executed technical past performance, as opposed to advisory and assistance or staff-augmentation support, can offerors cite in this mission area within the last five years?"
+- "For offerors proposing as a joint venture: which member is the managing venturer, what percentage of labor will each member perform, and how will SBA joint-venture performance-of-work requirements be met and reported?"
+- "Describe the offeror's record of workforce continuity through stop-work orders, funding gaps, or agency reorganizations in the last three years, including any reductions in force and their size."
+- "How many of the offeror's current employees are resident and badged within commuting distance of the place of performance today, and what fraction of proposed key personnel are already on site?"
+- "What experience does the offeror have operating government test facilities, laboratories, ranges, or instrumentation as the responsible prime, and what data rights and configuration control did the government hold?"
+
+## Ghosting Library
+
+### G1 — Hands-on execution versus staff augmentation
+
+- Ghost: "Offerors should distinguish advisory and administrative support experience from hands-on engineering execution, and should cite prime-performed efforts in which their personnel operated test facilities, laboratories, instrumentation, or mission systems of comparable scope and complexity."
+- Targets: W2
+- Proof: PP1
+
+### G2 — Joint-venture workshare transparency
+
+- Ghost: "Offerors proposing as a joint venture should identify the managing venturer, the percentage of work each member will perform, their approach to meeting SBA joint-venture performance-of-work requirements, and whose corporate experience, processes, and personnel will actually execute the effort."
+- Targets: W3
+- Proof: PP3
+
+### G3 — Professional compensation realism
+
+- Ghost: "Offerors should submit a total compensation plan consistent with FAR 52.222-46 that demonstrates realism against incumbent salary and benefit levels, and should explain how proposed compensation will retain the incumbent workforce through transition and the life of the contract."
+- Targets: W4
+- Proof: PP4
+
+### G4 — Corporate stability and concentration risk
+
+- Ghost: "Offerors should describe corporate revenue stability, including any material concentration in a single customer or program, and their demonstrated record of retaining program personnel through stop-work orders, funding disruptions, and customer reorganizations."
+- Targets: W1
+- Proof: PP6
+
+## Pricing Posture
+
+No wrap-rate or evaluated-price intel is on file. The public record gives three data points. First, in the SSC CSS protests, GAO's ADR found the agency had not properly evaluated their professional compensation plan under FAR 52.222-46; the award survived corrective-action re-evaluation, which reads as compensation priced low enough to litigate but high enough to sustain [S14]. Second, in an earlier task-order protest they filed, the agency paid a 4.3 percent price premium to select a technically superior competitor over them, meaning they were the cheaper offeror and lost on merit [S31]. Third, they win crowded price-shootout IT competitions, taking the $118.6M DLA JETS 2.0 task against 18 bidders [S26]. Judgment, labeled as such: treat them as a low-to-mid-rate competitor that prices professional labor aggressively and relies on volume and lean overhead rather than classic LPTA buy-in; post-USAID revenue pressure raises the odds of outright buy-in behavior on strategic defense pursuits. (needs internal input: rate observations from shared EPASS, SSC, or OASIS+ competitions.)
+
+## Win/Loss vs Us
+
+## Intel & Proof Points
+
+### PP1 — EPASS portfolio built on OASIS SB, now spanning AFLCMC's hubs
+
+By May 2022 Credence announced its tenth EPASS project award under OASIS SB (HQ AFMC A&AS at Wright-Patterson) [S9]. The December 2023 Franken-Cutter award combined two of their existing EPASS programs and added Cyber Resiliency Office for Weapon Systems (CROWS) support, with Wright-Patterson as primary place of performance and support to 17+ organizations across acquisition, engineering, scientific, research, financial, logistics, test, intelligence, and security-management functions [S10]. Offices in Fairborn, Warner Robins, and Fort Walton Beach track the AFLCMC footprint [S7].
+
+### PP2 — Franken-Cutter consolidation shows scope creep by consolidation
+
+The Franken-Cutter structure (two EPASS programs merged plus CROWS) demonstrates their play of consolidating adjacent A&AS scopes under one task order, growing footprint without a new competition per scope [S10].
+
+### PP3 — The JV engine: Credence Dynamo Solutions
+
+Credence Dynamo Solutions LLC, a joint venture of Credence and Dynamo Technologies described in trade reporting as an SBA-approved 8(a) mentor-protege JV, won the $337,639,354.76 EPASS task order FA872124FB005 for AFLCMC's PEO Digital portfolio C2ISR Division (October 2024, on OASIS SB; Credence's release places the work at Robins AFB) [S11][S12]. The same JV holds a $74M Army resource-management order (2022), a $45.8M Army project-management/operations/systems-engineering task on OASIS SB, ISR services support at Shaw AFB ($11.79M option-year-two modification reported June 2026, $28.6M cumulative, completion July 15, 2029), and a prime GEOINT support contract [S29][S30][S37]. A second JV entity, Credence Streamline Solutions LLC, appears in federal vendor records [S12].
+
+### PP4 — SSC command staff support win, held through a compensation-plan fight
+
+GSA (on behalf of USSF Space Systems Command) issued task order TOR 47QFPA24R0001 for command staff support to Credence; OrangeSlices reports $200.3M and Bloomberg Government $222M [S15][S16]. BTAS's protest was denied (B-422624.2/.6) [S13]. Quantech's protest triggered outcome-prediction ADR in which GAO said the agency had not properly evaluated Credence's professional compensation plan per FAR 52.222-46; GSA took corrective action, re-evaluated, reaffirmed the award, and GAO denied the final protest (B-422624.10) [S14]. The supported directorate (Advanced Systems and Development) is headquartered at Kirtland AFB with divisions at Los Angeles AFB, Hill AFB, and Johnson Space Center [S16][S17].
+
+### PP5 — OASIS+ Unrestricted, six domains, Enterprise Solutions seat
+
+Credence's OASIS+ Unrestricted contract 47QRCA25DU090 runs a base period of December 17, 2024 to December 16, 2029 (option to 2034) across six domains: Enterprise Solutions (they say one of only 29 awardees), Management & Advisory, Technical & Engineering, R&D, Intelligence Services, and Logistics [S18]. First documented order: DAF Zero Trust Functional Management Office support services, FA489025F0076, up to $23.8M, awarded August 16, 2025 [S19].
+
+### PP6 — USAID franchise and its collapse
+
+Credence won the $800M GHTASC task order for USAID global health support (7200AA21N00004, 2022), defending it through a corrective-action cycle and Tetra Tech GAO protests (including B-420305.7, denied) [S20][S21]. In 2024 they added the ~$899M Bureau for Humanitarian Assistance support task order (7200AA24N00001) [S22]. After the January 2025 stop-work orders, NPR reported Credence laid off nearly 400 employees within days [S23]. USAID formally shut down July 1, 2025; about 83 percent of programs were canceled and the rest moved to State [S24].
+
+### PP7 — Post-collapse pivot wins
+
+May 2025: $107M State Department Refugee Processing Center technology, business, and operations services contract (period to April 2030, seven offers) [S25]. October 28, 2025: $118.6M DLA JETS 2.0 Enterprise Sourcing, Medical, and Contingency Hosting Services task order, 18 bidders [S26]. April 2025: $7.3M NIH analytical services and operations SME support [S28].
+
+### PP8 — They lose when evaluators pay for technical merit
+
+In B-415960 (protest they filed with ACT-I), the agency selected QuantiTech despite a 4.3 percent price premium because the awardee's proposal was "noticeably superior" technically, even though Credence held the better past-performance rating; GAO found no basis to sustain [S31]. Precedent that best-value tradeoffs beat their price position when technical discriminators are real.
+
+### PP9 — Active protester, zero sustained
+
+GAO protests filed by Credence and found in the public docket were all denied: B-417389.2 (Air Force BRAC program-management A&AS order to Cherokee Nation Technologies), the B-415960 series (QuantiTech), and B-420408 (AFSOC aircrew instruction support order to OBXtek) [S31]. Their JV also protested under the NIH CIO-SP4 solicitation (docket B-419956.105) [S32]. Expect a protest if we beat them on a large order; expect them to defend wins hard.
+
+### PP10 — They sit inside our teaming perimeter at Eglin
+
+Odyssey Systems' EB (AFLCMC Armament Directorate) EPASS team lists eight partners: ARS, Astrion, Canvas, COLSA, Credence, DCS Corporation, HX5, and Torch. Credence also partners with Odyssey on the AFLCMC/WI (ISR & SOF Directorate) EPASS effort [S33].
+
+### PP11 — Vehicle inventory
+
+Legacy OASIS SB Pools 1 and 3 (self-described top performer; ~50 OASIS prime task orders; 95 percent of work performed as prime, per their 2019 brochure) [S8]; legacy OASIS Unrestricted (Pool 3 contract posted; GHTASC reported as an Unrestricted Pool 1 order) [S20][S34]; OASIS+ Unrestricted six domains [S18]; GSA ASTRO [S34]; Army ITES-3S Unrestricted and SB [S34]; GSA MAS contracts 47QRAD20DU304, 47QRAD20DU108, 47QTCA19D00AX [S34]; DLA JETS 2.0 task-order wins [S26].
+
+### PP12 — Scale, growth, and workforce brand
+
+$500M+ claimed annual revenue and "one of the very few completely organically grown companies" on the WT Top 100 (per The Org profile); #61 on the 2025 Washington Technology Top 100; headcount estimates range 1,182 to 1,763 across third-party trackers (2025-2026); Washington Post 2025 Top Workplaces #1 in government technology services and #2 overall; Inc. 5000 honoree 2025 [S4][S5][S6][S36]. They also advertise Advanced Battle Management System support [S35] and hold DLA AI/ML work (Defense Automatic Addressing System AI/ML task, completion September 2026, plus an AI/ML services contract) [S27].
+
+## Recent Developments
+
+- 2026-06 (reported) — Credence Dynamo Solutions received an $11,792,724 option-year-two modification for ISR services support at Shaw AFB; $28,612,601 cumulative, completion 2029-07-15 [S30].
+- 2025-10-28 — $118.6M DLA JETS 2.0 Enterprise Sourcing, Medical, and Contingency Hosting Services task order (18 bidders) [S26].
+- 2025-08-16 — First documented OASIS+ Unrestricted order: DAF Zero Trust FMO support services, up to $23.8M (FA489025F0076) [S19].
+- 2025-07-01 — USAID formally ceased operations; remaining programs merged into State; ~83 percent of programs canceled. Their global health and humanitarian franchise did not survive in its prior form [S24].
+- 2025-05 — $107M State Department Refugee Processing Center technology, business, and operations services contract (to 2030-04) [S25].
+- 2025 — GAO denied Quantech's protest of the SSC command staff support order after corrective-action re-evaluation of Credence's professional compensation plan; award reaffirmed [S14][S15].
+- 2025-04 — $7.3M NIH analytical services and operations SME support contract (through 2026-01) [S28].
+- 2025 — Washington Post Top Workplaces: #1 government technology services, #2 overall; Inc. 5000 honoree [S36].
+- 2025-01-28 — NPR: nearly 400 Credence employees laid off following USAID stop-work orders [S23].
+- 2024-12-17 — OASIS+ Unrestricted award (47QRCA25DU090), six domains including Enterprise Solutions [S18].
+- 2024-10 — Credence Dynamo Solutions won the $337.6M C2ISR Division EPASS task order (FA872124FB005) on OASIS SB [S11].
+- 2024 — ~$899M USAID Bureau for Humanitarian Assistance support task order (7200AA24N00001) [S22].
+
+## Sources
+
+- [S1] Company profile aggregators: Crunchbase, CB Insights, PitchBook (founded 2005; Vienna, VA HQ; founder-led; described among the larger privately held govcon firms; PitchBook lists 1,182 employees) — https://www.crunchbase.com/organization/credence-management-solutions-llc and https://www.cbinsights.com/company/credence-management-solutions and https://pitchbook.com/profiles/company/128718-73 (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S2] WashingtonExec interview with founder Sid Chowdhary, October 2011 ("Starting My Own Business Was the Lowest Risk Option"; founder background; founding described circa 2007 in this early account) — https://washingtonexec.com/2011/10/the-founder-of-credence-management-sid-chowdhary-starting-my-own-business-was-the-lowest-risk-option/ (accessed 2026-07-17 via web search)
+- [S3] Credence release: "Prashant Gaur Joins Credence as President" (2011-10-21; ex-PwC federal partner, ex-DoD Director of Enterprise Integration, past ACT-IAC president); Federal News Network interview with Gaur (2015) — https://credence.ai/prashant-gaur-joins-credence-as-president/ and https://federalnewsnetwork.com/all-news/2015/01/prashant-gaur-president-credence/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S4] The Org leadership profiles (Chowdhary founder/CEO; Gaur president, listed in places as president & CEO; "$500M+ annual revenue... one of the very few completely organically grown companies on the Washington Technology Top 100") — https://theorg.com/org/credence-management-solutions/org-chart/siddhartha-chowdhary and https://theorg.com/org/credence-1/org-chart/prashant-gaur (accessed 2026-07-17 via web search)
+- [S5] Washington Technology Top 100 company rank page for Credence Management Solutions (#61, 2025) — https://www.washingtontechnology.com/rankings/company/177/top-100/2025/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S6] Third-party headcount estimates: Revelio Labs (1,763, Dec 2025), RocketReach (1,314), LeadIQ (~1.2K, Apr 2026) — https://www.reveliolabs.com/companies/credence-management-sols/employees/ and https://rocketreach.co/credence-management-solutions-llc-profile_b5c294ccf42e0ecf and https://leadiq.com/c/credence-management-solutions-llc/5a1d972a230000540085bdb1 (accessed 2026-07-17 via web search)
+- [S7] Craft.co office locations listing (Vienna VA HQ, Washington DC, Fairborn OH, Warner Robins GA, Fort Walton Beach FL) — https://craft.co/credence-management-solutions/locations (accessed 2026-07-17 via web search)
+- [S8] Credence OASIS capability brochure, 2019 (top performer under OASIS SB Pools 1 and 3; nearly 50 prime task orders under the OASIS program; 95 percent of work performed as prime; supporting USG customers since 2005; 2013 GovCon Small Business Contractor of the Year) — https://credence-llc.com/wp-content/uploads/2020/01/Credence-OASIS-Brochure_2-5-19.pdf (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S9] Credence release: "Credence Wins EPASS HQ AFMC A&AS Contract at Wright-Patterson AFB" (May 2022; their tenth EPASS project award under OASIS SB) — https://credence.ai/credence-wins-epass-hq-afmc-aas-contract-at-wright-patterson-afb/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S10] Credence release: "Credence Continues Its Work With the Air Force Life Cycle Management Center on the Franken-Cutter Program" (December 2023; combines two existing Credence EPASS programs plus CROWS support; primary POP Wright-Patterson; 17+ organizations; acquisition, engineering, scientific, research, financial, logistics, test, intelligence, and security-management support) — https://credence-llc.com/credence-continues-support-to-the-air-force-life-cycle-management-center-on-the-franken-cutter-program/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S11] OrangeSlices AI: "Dynamo Technologies and Credence JV nabs $338M US Air Force C2ISR Division EPASS Support task on OASIS SB" (FA872124FB005, $337,639,354.76, AFLCMC PEO Digital C2ISR Division); Credence release: "Credence Wins EPASS AFLCMC/HBG (C2ISR) Division AAS Contract at Robins AFB" (October 2024) — https://orangeslices.ai/dynamo-technologies-and-credence-jv-nabs-338m-us-air-force-c2isr-division-epass-support-task-on-oasis-sb/ and https://credence.ai/credence-wins-epass-aflcmc-hbg-c2isr-division-aas-contract-at-robins-afb/ (accessed 2026-07-17 via web search)
+- [S12] Credence Dynamo Solutions LLC (JV of Credence, mentor, and Dynamo Technologies, protege; described in trade reporting as an SBA-approved 8(a) mentor-protege joint venture); Credence Streamline Solutions LLC vendor record — https://credencedynamosolutions.com/ and https://govtribe.com/vendors/credence-streamline-solutions-llc-9lmf6 (accessed 2026-07-17 via web search)
+- [S13] GAO decision B-422624.2, B-422624.6: BTAS, Inc. protest of GSA task order TOR 47QFPA24R0001 (command staff support for USSF Space Systems Command) issued to Credence; denied — https://www.gao.gov/products/b-422624.2,b-422624.6 (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S14] GAO decision B-422624.10: Quantech Services protest of the same SSC order; outcome-prediction ADR found the agency had not properly evaluated Credence's professional compensation plan under FAR 52.222-46; GSA corrective action re-evaluated and reaffirmed the award; final protest denied — https://www.gao.gov/products/b-422624.10 and decision PDF https://www.gao.gov/assets/880/878499.pdf (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S15] Bloomberg Government: "Credence Holds on to $222 Million Space Force Staff Contract" — https://news.bgov.com/federal-contracting/credence-holds-on-to-222-million-space-force-staff-contract (accessed 2026-07-17 via web search; headline and summary only)
+- [S16] OrangeSlices AI: "$200M US Air Force Advanced Systems and Development Directorate Command Staff Support (CSS)" contract award ($200.3M) and protest-update posts — https://orangeslices.ai/contract-award-200m-us-air-force-advanced-systems-and-development-directorate-command-staff-support-css/ and https://orangeslices.ai/protest-update-200m-us-air-force-advanced-systems-and-development-directorate-command-staff-support-css/ (accessed 2026-07-17 via web search)
+- [S17] Kirtland AFB: Advanced Systems and Development Directorate unit page (directorate at Kirtland AFB; operating divisions at Los Angeles AFB, Hill AFB, Johnson Space Center) — https://www.kirtland.af.mil/Units/Advanced-Systems-and-Development-Directorate/ (accessed 2026-07-17 via web search)
+- [S18] Credence release: "Credence Wins OASIS+ Unrestricted IDIQ" (six domains including Enterprise Solutions, Management & Advisory, Technical & Engineering, R&D, Intelligence Services, Logistics; one of 29 Enterprise Solutions awardees); Credence OASIS+ vehicle page (contract 47QRCA25DU090; base 2024-12-17 to 2029-12-16, option to 2034-12-16) — https://credence-llc.com/credence-wins-oasis-unrestricted-idiq/ and https://credence.ai/who-we-are/how-to-buy/gsa-oasis-plus/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S19] HigherGov contract record: "Department of the Air Force (DAF) Zero Trust (ZT) Functional Management Office (FMO) Support Services" (47QRCA25DU090-FA489025F0076, up to $23.8M, awarded 2025-08-16); GovTribe delivery order record — https://www.highergov.com/contract/47QRCA25DU090-FA489025F0076/ and https://govtribe.com/award/federal-contract-award/delivery-order-47qrca25du090-fa489025f0076 (accessed 2026-07-17 via web search)
+- [S20] USAspending award record: GHTASC task order 7200AA21N00004 to Credence (USAID Global Health, on their GSA contract 47QRAD20DU108; program coverage describes it as an $800M OASIS Unrestricted Pool 1 order); GHTASC program site ("Team Credence" with Public Health Institute; GHTP-to-GHTASC transition) — https://www.usaspending.gov/award/CONT_AWD_7200AA21N00004_7200_47QRAD20DU108_4732 and https://ghtasc.org/as-one-effort-draws-to-a-close-team-credence-continues-and-expands-its-global-health-work/ (accessed 2026-07-17 via web search)
+- [S21] Washington Technology: "Credence can work on $800M task order as USAID fixes mistakes" (November 2022 corrective-action cycle); GAO decision B-420305.7 (Tetra Tech protest of Credence's continued performance during corrective action; denied; an earlier Tetra Tech challenge to the 7- vs 8-year term was also denied) — https://www.washingtontechnology.com/companies/2022/11/credence-can-work-800m-task-order-usaid-fixes-mistakes/380011/ and https://www.gao.gov/products/b-420305.7 (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S22] GovCon Wire: "Credence Books $899M USAID Humanitarian Assistance Support Task Order"; OrangeSlices AI: "$900M USAID Bureau for Humanitarian Assistance Support Contract (BHASC)"; USAspending award 7200AA24N00001 — https://www.govconwire.com/articles/credence-books-899m-usaid-humanitarian-assistance-support-task-order and https://orangeslices.ai/contract-award-900m-usaid-bureau-for-humanitarian-assistance-support-contract-bhasc/ and https://www.usaspending.gov/award/CONT_AWD_7200AA24N00001_7200_47QRAD20DU108_4732 (accessed 2026-07-17 via web search)
+- [S23] NPR, 2025-01-28: "Nearly 400 USAID contract employees laid off after Trump's 'stop work' order" (Credence named; one of three main institutional-support staffing contractors; $800M global health contract; layoffs within days of stop-work) — https://www.npr.org/sections/goats-and-soda/2025/01/28/g-s1-45132/usaid-contract-employees-layoffs-trump (accessed 2026-07-17 via web search)
+- [S24] NPR, 2025-07-01: "USAID officially shuts down and merges remaining operations with State Department" (~83 percent of programs canceled; remaining programs administered by State) — https://www.npr.org/2025/07/01/nx-s1-5451372/usaid-officially-shuts-down-and-merges-remaining-operations-with-state-department (accessed 2026-07-17 via web search)
+- [S25] OrangeSlices AI: "Credence beats out 6 to win $107M State Department Refugee Processing Center Technology, Business and Operations Services contract" (May 2025 to April 2030) — https://orangeslices.ai/credence-beats-out-6-to-win-107m-state-department-refugee-processing-center-technology-business-and-operations-services-contract/ (accessed 2026-07-17 via web search)
+- [S26] OrangeSlices AI: "Credence beats out 17 to win $119M DLA Enterprise Sourcing, Medical, and Contingency Hosting Services task on JETS 2.0" ($118.6M, announced 2025-10-28, 18 bidders) — https://orangeslices.ai/credence-beats-out-17-to-win-119m-dla-enterprise-sourcing-medical-and-contingency-hosting-services-task-on-jets-2-0/ (accessed 2026-07-17 via web search)
+- [S27] OrangeSlices AI: "Credence wins DLA Defense Automatic Addressing System Artificial Intelligence / Machine Learning task on JETS" ($8.3M, completion 2026-09-24) and "Credence wins DLA Artificial Intelligence / Machine Learning Services Contract" — https://orangeslices.ai/credence-wins-dla-defense-automatic-addressing-system-artificial-intelligence-machine-learning-task-on-jets/ and https://orangeslices.ai/credence-wins-dla-artificial-intelligence-machine-learning-services-contract/ (accessed 2026-07-17 via web search)
+- [S28] OrangeSlices AI: "NIH awards Analytical Services and Operations SME support contract to Credence" ($7.3M, April 2025 to January 2026) — https://orangeslices.ai/nih-awards-analytical-services-and-operations-sme-support-contract-to-credence/ (accessed 2026-07-17 via web search)
+- [S29] ExecutiveBiz: "Credence Dynamo Solutions Lands $74M Army Contract for Resource Management Support" (March 2022); OrangeSlices AI: "Dynamo Technologies and Credence JV scores $46M US Army Project Management, Operations and Systems Engineering (PMOSE) task on OASIS SB" ($45.8M) — https://executivebiz.com/2022/03/credence-dynamo-solutions-lands-74m-army-contract-for-resource-management/ and https://orangeslices.ai/dynamo-and-credence-jv-scores-46m-us-army-project-management-operations-and-systems-engineering-pmose-task-on-oasis-sb/ (accessed 2026-07-17 via web search)
+- [S30] G2Xchange Defense: "Credence Dynamo Solutions nabs US Air Force Intelligence, Surveillance, and Reconnaissance Services contract modification" ($11,792,724 option year two, Shaw AFB, $28,612,601 cumulative, completion 2029-07-15; reported from the June 2026 DoD contracts digest); Defense Daily contract-award item ($10,737,025 earlier modification) — https://app.g2xchange.com/defense/posts/credence-dynamo-solutions-nabs-us-air-force-intelligence-surveillance-and-reconnaissance-services-contract-modification and https://www.defensedaily.com/contract-awards/contract-award-credence-dynamo-solutions-llc-vienna-virginia-10737025/ (accessed 2026-07-17 via web search)
+- [S31] GAO decisions on protests filed by Credence, all denied: B-417389.2 (Air Force BRAC program-management A&AS order to Cherokee Nation Technologies); B-415960 et al. (with Advanced Concepts and Technologies International, vs QuantiTech; awardee "noticeably superior" technically and worth a 4.3 percent price premium despite Credence's superior past-performance rating); B-420408, B-420408.2 (AFSOC aircrew instruction support order to OBXtek) — https://www.gao.gov/products/b-417389.2 and https://www.gao.gov/products/b-415960,b-415960.2,b-415960.3,b-415960.4,b-415960.5 and https://www.gao.gov/products/b-420408,b-420408.2 (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S32] GAO bid protest docket B-419956.105: Credence Dynamo Solutions, LLC, under NIH solicitation 75N98121R00001 (CIO-SP4) — https://www.gao.gov/docket/b-419956.105 (accessed 2026-07-17 via web search)
+- [S33] Odyssey Systems EB contract transition page (AFLCMC Armament Directorate EPASS; teaming partners listed: ARS, Astrion, Canvas, COLSA, Credence, DCS Corporation, HX5, Torch) and WI contract transition page (AFLCMC/WI ISR & SOF Directorate EPASS; Credence a partner) — https://odysseyconsult.com/eb-contract-transition/ and https://odysseyconsult.com/wi-contract-transition/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S34] Credence contract-vehicle pages: legacy GSA OASIS Unrestricted (Pool 3 contract document posted), GSA ASTRO, Army ITES-3S (Unrestricted and SB); GSA eLibrary contract numbers 47QRAD20DU304, 47QRAD20DU108, 47QTCA19D00AX — https://credence-llc.com/contract-vehicles/gsa-oasis-u/ and https://credence-llc.com/wp-content/uploads/2020/06/U_Pool_3_Contract.pdf and https://credence-llc.com/contract-vehicles/gsa-astro/ and https://credence-llc.com/contract-vehicles/army-ites-3s/ and https://www.gsaelibrary.gsa.gov/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S35] Credence release: "Credence to Support Air Force Advanced Battle Management System" (date not retrieved) — https://credence-llc.com/credence-to-support-air-force-advanced-battle-management-system/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S36] Credence release: "#1 Government Technology Services Top Workplace and #2 Overall Top Workplace in 2025 Rankings by The Washington Post"; Inc. 5000 2025 honoree profile — https://credence.ai/credence-recognized-as-1-government-technology-services-top-workplace-and-2-overall-top-workplace-in-2025-rankings-by-the-washington-post/ and https://www.inc.com/profile/credence_management_solutions (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S37] Credence release: "Credence Dynamo Solutions Wins Prime Contract for Geospatial Intelligence Work" — https://credence-llc.com/credence-dynamo-solutions-wins-prime-contract-to-support-geospatial-intelligence-work/ (accessed 2026-07-17 via web search; direct fetch blocked)

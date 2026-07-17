@@ -1,0 +1,233 @@
+---
+id: leidos
+name: Leidos
+slug: leidos
+aliases: ["Leidos Holdings, Inc.", "Leidos, Inc.", "Dynetics"]
+tier: 1
+status: draft
+relationship: competitor
+owner: "CI Owner"
+last_reviewed: 2026-07-17
+approved_by: null
+approved_date: null
+example: false
+markets: [test-evaluation, digital-engineering, systems-engineering, mission-engineering, software-engineering, rdte-support, missile-defense, sustainment-logistics, enterprise-it, cyber, modeling-simulation, c5isr, space-operations, autonomy, aviation-engineering, counter-uas]
+agencies: [army, army-devcom, army-amcom, usaf-afmc, navsea, dhs]
+vehicles: [seaport-nxg, rs3, oasis-plus, agency-idiq]
+size: large
+set_asides: []
+parent: null
+jv_partners: []
+hq: "Reston, VA"
+revenue_est: "$17.2B (FY2025, ended 2026-01-02); FY2026 guidance $18.0-$18.4B"
+employees_est: "~48,000 (2025)"
+website: "https://www.leidos.com"
+external_ids: {}
+---
+
+## Overview
+
+Leidos Holdings, Inc. (Reston, VA) is among the largest US federal technology and services primes, with FY2025 revenue of roughly $17.2B, about 48,000 employees, and 87% of revenue from the US government [S1][S2]. As reported in its FY2025 10-K the company runs four segments (National Security & Digital, Health & Civil, Commercial & International, Defense Systems); beginning FY2026 it realigned to Intelligence & Digital, Health, Homeland, and Defense [S2][S5]. Its scale came from consolidation: the 2013 SAIC separation (driven by systems-engineering conflict-of-interest limits), the 2016 purchase of Lockheed Martin's IS&GS business (about $5B, roughly doubling the company), Dynetics in 2020 ($1.65B), and Gibbs & Cox in 2021 [S6]. We rarely meet them on their enterprise-IT franchises (DISA DoDNet, DHS, VA, FAA), but we collide directly where a defense-engineering services scope sits next to their footprint: Air Force sustainment and avionics test systems, Army aviation and missile work at Redstone through Dynetics, digital modernization, and missile-defense architecture [S8][S9][S12][S15][S16]. Dynetics puts Leidos in our Huntsville backyard with more than 3,000 engineers building hypersonic glide bodies, air-defense launchers, and missiles for the same DEVCOM/AvMC, AMCOM, and PEO customers we support [S7][S8][S9]. On the large consolidated recompetes we bid or sub on, Leidos is the default giant: a deep past-performance library, a full menu of vehicles (RS3, SeaPort-NxG, Alliant 2, OASIS+), and a balance sheet that recently absorbed Kudu Dynamics and a $2.4B energy-infrastructure acquisition [S17][S18][S19]. Where we win is not scale. It is independence from their product baselines, mission focus, and a resident test-enterprise bench they do not staff everywhere they compete.
+
+## Threat Summary
+
+Leidos hurts us most as the low-risk default on very large, consolidated, multi-agency programs, and wherever Dynetics-built hardware pulls the surrounding engineering work along with it. Their marquee position is the roughly $11.5B, ten-year Defense Enclave Services (DES) program consolidating the DoD Fourth Estate onto DoDNet, a scope so large that scale and prior performance dominate the evaluation and squeeze mid-size primes out of the prime lane [S12]. At Redstone they are not a distant competitor: Dynetics holds the Army common-hypersonic glide body ($670.5M), Indirect Fires Protection Capability (IFPC) launcher production, and related missile work, which gives Leidos both hardware revenue and an engineering staff embedded in our core Army aviation-and-missile customer base [S8][S9]. On the Air Force side they run F-16 avionics test-system and Cloud One digital work, and they are positioning for a $4B to $5B slice of Golden Dome from their existing radar, sensing, counter-UAS, and air-defense portfolio [S14][S15][S16]. Where they seldom beat us is a focused, labor-driven test-and-evaluation, SETA, or mission-engineering competition scored on dedicated key personnel, resident local presence, and independence from the systems under test, and their product/OEM conflicts, portfolio sprawl, and recompete churn give us clean, scoreable discriminators.
+
+## Their Discriminators
+
+- Scale and past-performance breadth. As one of the largest federal primes ($17.2B FY2025, about $48B backlog), they can carry consolidated, high-ceiling programs at low perceived risk, which is exactly what wins big enterprise recompetes [S1][S3].
+- Incumbency reach-back. Entrenched positions across DISA, DHS, VA, FAA, and DoD give them existing accreditations, cleared staff, and enterprise relationships they pull into adjacent bids [S2][S12].
+- Dynetics vertical integration. They can both build the missile, hypersonic, and air-defense hardware and provide the surrounding engineering, attractive to a customer who wants one accountable prime for hardware plus integration [S7][S8][S9].
+- Full-spectrum digital and cyber. AI, offensive-cyber and electromagnetic-spectrum capability (bolstered by the Kudu Dynamics acquisition) plus digital-engineering and MBSE marketing let them wrap a technology story around any defense program [S17][S24].
+- Vehicle and balance-sheet strength. Positions on RS3, SeaPort-NxG, Alliant 2, and OASIS+, plus capital for capability acquisitions, keep them pre-qualified on most large task-order competitions [S18][S19].
+
+## Strengths
+
+- Enterprise-IT franchise scale: the roughly $11.5B, ten-year DES program consolidates about 22 defense agencies onto DoDNet (projected to reach roughly 370,000 users), a consolidated-recompete anchor they have defended through multiple GAO protests [S12].
+- Redstone hardware plus engineering mass through Dynetics: more than 3,000 people in Huntsville producing the Army common-hypersonic glide body and thermal protection ($670.5M, through October 2029), IFPC air-defense launchers, and missile components [S7][S8][S9].
+- Air Force sustainment and cloud footprint: a $475M F-16 avionics product-support integration award covering automatic test systems, support equipment, and test program sets, plus an up-to-$987M AFLCMC F-16 foreign-military-sales IDIQ and a $455M Cloud One digital award [S14][S15].
+- Government concentration and backlog: 87% of FY2025 revenue from the US government and about $48.4B of total backlog give predictable reach-back and staffing depth [S2][S3].
+- Missile-defense positioning: management estimates $4B to $5B of near-term Golden Dome funding aligns with their radar, space-sensing, counter-UAS, and air-defense portfolio [S16].
+- Digital modernization pipeline: recent DISA awards including a $142M Compartmented Enterprise Services (CESO) modernization and a $35M Cross-Domain Enterprise Services deal extend the enterprise-IT base [S13].
+- Capital-backed capability growth: the $293M-$300M Kudu Dynamics acquisition (AI-enabled cyber) and the $2.4B Entrust Solutions Group acquisition (energy infrastructure, about 3,100 staff) show a balance sheet that buys its way into new markets [S17][S18].
+- Vehicle access across services: prime positions on RS3 (Army C4ISR), SeaPort-NxG (Navy), Alliant 2 (GSA GWAC), and OASIS+ [S19].
+
+## Weaknesses
+
+### W1 - Product and OEM conflicts on independent test and government-side engineering
+
+Through Dynetics, Leidos builds the hardware it and others test: the Army common-hypersonic glide body and thermal protection system, IFPC air-defense launchers, missiles, and related subsystems, alongside maritime autonomy and sensor work [S7][S8][S9]. On any scope that calls for independent test and evaluation, objective assessment, or government-side engineering advice touching those baselines, they carry an organizational-conflict-of-interest burden that a non-OEM services prime does not. When the same company builds the glide body, the launcher, or the system under test, the government has to police a mitigation plan we never trigger, and the 2013 SAIC separation exists precisely because that conflict is real and hard to manage [S6].
+
+### W2 - Prime-scale overhead and wrap rate on labor-driven competitions
+
+Leidos is a $17.2B prime carrying corporate overhead, indirect structure, and shareholder margin expectations (FY2025 adjusted EBITDA margin around 14%) [S1]. On engineering-services, SETA, and test-enterprise competitions where evaluated price turns on the fully burdened labor rate rather than on hardware content or enterprise reach-back, a large prime's wrap is beatable by a focused mid-size firm. This is team judgment, not documented rate intelligence, but it is a repeatable pattern where the buy is dominated by direct labor. (needs internal input: any observed evaluated-price or wrap-rate data from shared task-order competitions.)
+
+### W3 - Portfolio sprawl and diverging strategic attention
+
+The NorthStar 2030 strategy pushes capital and management attention into energy infrastructure, commercial, and managed-health markets that are not the defense-engineering-services fight we are in [S4]. The $2.4B Entrust acquisition doubled a roughly $600M energy-infrastructure business, and Kudu added a commercial-flavored cyber line [S18][S17]. On a focused test-enterprise, digital-engineering, or Redstone recompete, a dedicated engineering company can credibly argue that the customer's mission is a rounding error inside a diversified $17B-plus portfolio, while for us it is the core of the business.
+
+### W4 - Federal-budget turbulence and recompete/incumbency churn
+
+Leidos is exposed to the same budget pressure it competes into: DOGE-driven contract terminations (about $56.5M reported), GSA reviews of consulting spend across Leidos and nine other firms, and continuing-resolution and shutdown risk in FY2026 [S23]. Incumbency is not guaranteed either: Leidos moved to lay off 93 workers at its Ashburn security operation as a roughly $100M CBP contract it held went to recompete [S22]. Capture teams can frame continuity and low transition risk as real, scoreable criteria that a churned incumbent cannot simply assume.
+
+### W5 - Thin dedicated bench at the Air Force test enterprise relative to their mass
+
+Their center of gravity is enterprise IT (DISA DoDNet), health and civil programs, and Dynetics hardware in Huntsville, not a resident engineering-services bench at the Air Force test centers where our people sit [S12][S7]. Their verified Air Force footprint near our lanes is sustainment and avionics test-system integration managed from Reston, not staffed test-and-evaluation and SETA presence embedded at the ranges [S15]. That geography is a scoreable gap wherever local, badged, on-site engineering support is valued. (needs internal input: confirm Leidos and Dynetics actual on-site headcount and active task orders at Eglin, Edwards, and across AFTC before asserting a specific staffing gap in a proposal; note Dynetics gives them genuine resident mass at Redstone, so this argument is strongest at the USAF test centers, not at Huntsville.)
+
+## Our Counter-Positioning
+
+- Lead with OEM independence against W1. We build none of the missiles, glide bodies, launchers, or sensors under test, so our test planning, verification, and engineering advice carries no product agenda and no conflict-mitigation plan the customer has to audit. Push evaluation language on objectivity, independence, and data rights wherever their hardware sits on the program. This is our single cleanest discriminator at Redstone, where their local presence is strong but their independence is not.
+- Force focused, labor-scored terms against W2 and W3. Where the buy is dominated by direct engineering labor and dedicated key personnel, insist on fully burdened rate realism, named on-contract staff, and evidence that the customer's mission gets dedicated senior attention rather than a matrixed slice of a diversified portfolio.
+- Sell continuity against W4. On recompetes, position low transition risk and stable, dedicated staffing against a prime whose incumbency has churned and whose portfolio is absorbing budget shocks and consulting-spend reviews.
+- Win the local-bench argument against W5 at the USAF test centers. Our people are badged and resident at AFTC (Eglin, Edwards) and the Redstone customer community today. Make staffed local presence, on-site clearance density, and surge-in-place a scored factor where it applies, and be honest internally that at Redstone the winning wedge against them is independence and focus, not proximity.
+- Deconflict where Dynetics is genuinely the OEM. On hypersonics, air-defense, and missile hardware the winnable ground is the independent government-side engineering, test, and integration wrap, not the baseline. Consider teaming or deconfliction there rather than a head-on prime bid. (needs internal input: any existing teaming, NDA, or deconfliction history with Leidos or Dynetics business units.)
+
+## Objection Handling
+
+- **They say:** "Leidos brings scale and reach-back a mid-size firm can't match." **We say:** Scale spread across a $17B, multi-market portfolio is a staffing promise, not a staffing plan. Ask every offeror what percentage of named key personnel are dedicated full time to this effort and resident at your site. That is the question a focused engineering team wins.
+- **They say:** "Dynetics already builds the hardware, so they understand the system." **We say:** That is exactly why the government keeps independent test and engineering separate from the company that manufactures the item. We give your program office an advocate with no product revenue at stake and inherit system knowledge through the artifacts and data you already own.
+- **They say:** "They hold DES and the big enterprise contracts, so they own this mission." **We say:** Enterprise-IT consolidation experience is not test-enterprise or mission-engineering delivery. Score relevance at the size and services scope of this actual effort, not corporate breadth on unrelated programs.
+- **They say:** "A large incumbent is the safe, low-risk choice." **We say:** Ask what has changed on their side. Recent recompete losses, workforce reductions, and budget-driven terminations make continuity a live question. A dedicated team with stable, named staff is the lower-risk path on a labor-driven scope.
+
+## Trap-Setting Questions
+
+- "How will the evaluation ensure that offerors who manufacture the hardware, munitions, or systems under test identify and mitigate organizational conflicts of interest, so the government preserves independent test and engineering advice?"
+- "What percentage of proposed key personnel will be dedicated full time and resident within commuting distance of the government site at contract start, rather than matrixed from a broad corporate portfolio?"
+- "How will offerors demonstrate continuity and transition-risk mitigation, given recent workforce reductions and recompete turnover among large incumbents?"
+- "How will cited past performance be checked for relevance at the size and services scope of this effort, as opposed to enterprise-IT or hardware-integration heritage on much larger programs?"
+- "How will offerors show that this mission receives dedicated senior management attention, rather than being one line inside a diversified commercial-and-federal portfolio?"
+
+## Ghosting Library
+
+### G1 - Independence from the manufacturing baseline
+
+- Ghost: "Offerors should identify any organizational conflicts of interest arising from their ownership or manufacture of the hardware, munitions, or systems relevant to this effort, and describe how their mitigation approach preserves objective, independent test, evaluation, and engineering advice to the Government throughout the period of performance."
+- Targets: W1
+- Proof: PP4
+
+### G2 - Continuity and transition risk on recompete
+
+- Ghost: "Offerors should describe how they will ensure continuity and stability of engineering support across the full period of performance, including dedicated, named key personnel and a transition approach that mitigates risk where prior efforts have experienced workforce turnover or reduction."
+- Targets: W4
+- Proof: PP12
+
+### G3 - Dedicated mission focus
+
+- Ghost: "Offerors should demonstrate how this effort will receive dedicated senior management attention and committed resources, rather than being supported as a minor element of a large, diversified commercial and federal portfolio, and how that focus is reflected in staffing, governance, and reach-back."
+- Targets: W3
+- Proof: PP11
+
+### G4 - Resident engineering presence at the Government test site
+
+- Ghost: "Offerors should demonstrate an established, currently staffed engineering presence at or near the Government test site, including resident headcount, cleared personnel on site, and facilities available at contract start, rather than reliance on a distributed corporate footprint managed from a remote headquarters."
+- Targets: W5
+- Proof: PP2
+
+## Pricing Posture
+
+Facts: Leidos is a roughly $17.2B prime running an adjusted EBITDA margin near 14%, with its highest-margin work in managed-health and civil services (Health & Civil non-GAAP operating margins in the low-to-mid 20% range in FY2025 commentary) rather than in labor-driven defense engineering [S1][S23]. Judgment, labeled as such: a prime of this size typically wraps higher than a focused mid-size services firm on labor-rate-driven test, SETA, and mission-engineering competitions, so they are most beatable where evaluated price turns on the burdened rate rather than on hardware content or enterprise reach-back. Expect them to price most aggressively on large consolidated enterprise buys where scale, backlog, and past performance let them absorb margin pressure, and where Dynetics hardware programs can subsidize adjacent engineering. We hold no documented rate intelligence on their engineering-services entities. (needs internal input: wrap-rate or evaluated-price observations from any shared competitions on RS3, SeaPort-NxG, AMCOM/Redstone vehicles, or the Air Force test enterprise.)
+
+## Win/Loss vs Us
+
+<!-- AUTO-GENERATED at build time from winloss/ records. Optional prose
+below the marker adds context; leave empty otherwise. -->
+
+## Intel & Proof Points
+
+### PP1 - Scale, government concentration, and backlog
+
+Leidos reported FY2025 (fiscal year ended January 2, 2026) revenue of about $17.2B with roughly $17.5B in net bookings, and raised FY2026 revenue guidance to $18.0B-$18.4B; the company employs about 48,000 people and is headquartered in Reston, VA [S1][S3]. In its FY2025 10-K, Leidos states that 87% of FY2025 revenue came from the US government across the Army, Navy, Air Force, Space Force, intelligence agencies, DISA, DHS, FAA, TSA, CBP, VA, DHA, and others [S2].
+
+### PP2 - DES/DISA flagship consolidation program
+
+Leidos holds the Defense Enclave Services (DES) program, an approximately $11.5B, ten-year DISA award to consolidate the DoD Fourth Estate onto the modernized DoDNet, spanning about 22 defense agencies and field activities and projected to support roughly 370,000 users; Leidos has defended the award and follow-on task orders through GAO protest challenges [S12].
+
+### PP3 - Dynetics Huntsville hardware and engineering mass
+
+Dynetics, a Leidos company headquartered in Huntsville, AL, employs more than 3,000 people and operates research, development, and manufacturing facilities at Redstone, embedding Leidos in the Army aviation-and-missile customer community where our test and engineering work is performed [S7].
+
+### PP4 - Army common-hypersonic glide body
+
+Dynetics received a $670.5M cost-plus-fixed-fee Army contract to produce the common-hypersonic glide body and thermal protection system, with work in Huntsville running through October 31, 2029; hypersonics was a stated strategic rationale for the 2020 Dynetics acquisition [S8].
+
+### PP5 - Army air and missile defense: IFPC launchers and components
+
+The Army's PEO Missiles and Space issued Leidos a delivery order for 18 IFPC Increment 2 launchers (mobile ground-based systems to defeat cruise missiles and UAS), running through December 2026, alongside a separate roughly $204M award for missile launch-system components produced in Huntsville and other sites [S9].
+
+### PP6 - Air Force F-16 avionics test-system integration
+
+The Air Force Sustainment Center awarded Leidos a $475M F-16 avionics product-support integration contract covering single-point integration of automatic test systems, support equipment, and test program sets used to diagnose and sustain F-16 avionics; trade coverage cited the avionics-shops scope at up to about $620M [S15].
+
+### PP7 - Air Force Cloud One
+
+The Air Force awarded Leidos a $455M contract in December 2025 to power the next-generation Cloud One architecture, extending its Air Force digital-modernization footprint [S14].
+
+### PP8 - Additional DISA digital-modernization awards
+
+Leidos received a $142M DISA award (February 2026) to modernize IT operations for the Compartmented Enterprise Services Office (CESO), delivering integrated engineering, software development, IT operations, and cybersecurity, and a $35M Cross-Domain Enterprise Services modernization deal (June 2025) [S13].
+
+### PP9 - Golden Dome positioning
+
+Leidos management has said roughly $4B to $5B of near-term Golden Dome funding aligns with its existing portfolio in radar, space sensing, counter-UAS, and air defense, and that the company is targeting niche contributions rather than the prime integrator role [S16].
+
+### PP10 - Kudu Dynamics acquisition (AI cyber)
+
+Leidos closed the acquisition of Kudu Dynamics on May 23, 2025 for a final purchase consideration of about $293M (announced at $300M), adding AI-enabled offensive cyber, electromagnetic-spectrum operations, and vulnerability-research capability [S17].
+
+### PP11 - Entrust Solutions Group acquisition (energy infrastructure)
+
+Leidos completed the approximately $2.4B acquisition of ENTRUST Solutions Group on March 30, 2026, adding more than 3,100 professionals and roughly doubling its energy-infrastructure engineering business (previously about $600M), a market outside the defense-engineering-services fight [S18].
+
+### PP12 - Recompete churn and workforce reduction
+
+Leidos moved to lay off 93 workers at its Ashburn, VA security operation as a roughly $100M CBP contract it held went to recompete, evidence that its incumbency is not automatic and that transition and continuity are live risks [S22].
+
+### PP13 - Federal-budget and DOGE exposure
+
+Leidos absorbed roughly $56.5M in DOGE-driven contract terminations, and the GSA reviewed consulting spend across Leidos and nine other firms against a $65B consulting-cut target; FY2026 also carried continuing-resolution and shutdown risk [S23].
+
+### PP14 - Army test-station equipment (GETS)
+
+Leidos won a roughly $48.8M hybrid Army contract for General Electronic Test Station (GETS) equipment, including hardware, software, upgrades, and spares, with work in Huntsville and at overseas sites through December 31, 2029 [S11].
+
+### PP15 - Contract-vehicle access
+
+Leidos holds prime positions on Army RS3 (C4ISR and knowledge-based engineering services), Navy SeaPort-NxG, GSA Alliant 2 (a GWAC with a ceiling reported up to $75B), and the GSA OASIS/OASIS+ services vehicles [S19].
+
+## Recent Developments
+
+- 2026-03 - Closed the approximately $2.4B ENTRUST Solutions Group acquisition, roughly doubling energy-infrastructure engineering and adding about 3,100 staff [S18].
+- 2026-02 - Won a $142M DISA CESO IT-operations modernization award [S13].
+- 2026-Q1 - Reported Q1 FY2026 revenue of $4.4B and about $48.4B backlog, raised FY2026 guidance to $18.0B-$18.4B, and noted Defense revenue held up as integrated air-defense growth offset a wind-down of certain airborne-surveillance programs [S3].
+- 2025-12 - Won a $455M Air Force Cloud One award [S14].
+- 2025-11 - Q3 FY2025 commentary framed Golden Dome as a $4B-$5B near-term opportunity aligned to the existing portfolio [S16].
+- 2025-05 - Closed the Kudu Dynamics acquisition (about $293M) for AI-enabled cyber; separately won the $475M F-16 avionics product-support integration contract [S15][S17].
+- 2025 - Announced 93 layoffs at Ashburn as a roughly $100M CBP contract went to recompete, and absorbed about $56.5M in DOGE contract terminations amid GSA consulting-spend reviews [S22][S23].
+- 2024-12 - Received three DISA DES awards to launch the next DoDNet migration phase; separately awarded an up-to-$987M AFLCMC F-16 foreign-military-sales sustainment IDIQ [S12][S15].
+
+## Sources
+
+- [S1] Leidos FY2025 (fiscal year ended 2026-01-02) full-year results: revenue ~$17.2B, ~$17.5B net bookings, ~14% adjusted EBITDA margin, ~48,000 employees, HQ Reston VA - Leidos investor release "Leidos Posts Strong Fourth Quarter and Fiscal Year 2025 Results" and GovConWire "Leidos Closes FY25 With $17.2B Revenue, $17.5B Net Bookings" - https://investors.leidos.com/news-releases/news-release-details/leidos-posts-strong-fourth-quarter-and-fiscal-year-2025-results and https://www.govconwire.com/articles/leidos-fy2025-17-2b-revenue-financial-report (accessed 2026-07-17 via web search; direct fetch blocked, HTTP 403)
+- [S2] Leidos FY2025 Form 10-K (filed 2026-02-17): 87% of FY2025 revenue from the US government; customer list spanning Army, Navy, Air Force, Space Force, intelligence agencies, DISA, DHS, FAA, TSA, CBP, VA, DHA, HHS, DoE, EPA, DARPA, IARPA; four reportable segments (National Security & Digital, Health & Civil, Commercial & International, Defense Systems) - https://www.sec.gov/Archives/edgar/data/1336920/000133692025000006/ldos-20250103.htm and https://investors.leidos.com/static-files/cbc3d462-7b50-486b-a9f4-502e8a4c1c20 (accessed 2026-07-17 via web search; direct fetch blocked, HTTP 403)
+- [S3] Leidos Q1 FY2026 results: revenue $4.4B, total backlog ~$48.369B (funded $9.598B), FY2026 guidance raised to $18.0B-$18.4B, Defense revenue ~$883M with integrated air-defense growth offsetting airborne-surveillance wind-down - StockTitan "Leidos posts strong first quarter results and raises full year" and GovConWire "Leidos Reports $4.4B Q1 FY26 Revenue" and Grafa Q1 2026 summary - https://www.stocktitan.net/news/LDOS/leidos-posts-strong-first-quarter-results-and-raises-full-year-pjfgql6a2918.html and https://www.govconwire.com/articles/leidos-q1-fy26-revenue-guidance-contract-wins and https://grafa.com/en/news/united-states/leidos-q1-2026-earnings-guidance-raise (accessed 2026-07-17 via web search)
+- [S4] Tom Bell (CEO since 2023) and the NorthStar 2030 strategy (five growth pillars: space and maritime; energy infrastructure; digital modernization and cyber; highly customized critical mission software; managed health services) - Leidos leadership bio, Wash100 2026, Washington Technology "Strategic discipline drives Leidos' continued Top 100 dominance," GovConWire NorthStar 2030 coverage - https://www.leidos.com/company/leadership/bell and https://www.wash100.com/winners/2026/tom-bell/ and https://www.washingtontechnology.com/companies/2025/06/strategic-discipline-drives-leidos-continued-top-100-dominance/405964/ and https://www.govconwire.com/articles/leidos-q1-revenue-thomas-bell-northstar-2030-strategy (accessed 2026-07-17 via web search)
+- [S5] FY2026 segment realignment (from National Security & Digital / Health & Civil / Commercial & International / Defense Systems to Intelligence & Digital / Health / Homeland / Defense; prior-year results recast) - Leidos FY2025 10-K static file and Q1 FY2026 results release - https://investors.leidos.com/static-files/cbc3d462-7b50-486b-a9f4-502e8a4c1c20 and https://investors.leidos.com/news-releases/news-release-details/leidos-posts-strong-first-quarter-results-and-raises-full-year (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S6] Corporate history: 2013 SAIC separation (driven by systems-engineering/OCI limits), 2016 Lockheed Martin IS&GS acquisition (>$5B, roughly doubled the company), 2020 Dynetics acquisition ($1.65B), 2021 Gibbs & Cox acquisition (~$375M-$380M) - Pestel-analysis Leidos history, Holland & Knight press release on Gibbs & Cox, Leidos insights and ExecutiveGov coverage - https://pestel-analysis.com/blogs/brief-history/leidos and https://www.hklaw.com/en/news/pressreleases/2021/05/holland-knight-guides-leidos-holdings-on-380-million-acquisition and https://www.leidos.com/insights/leidos-completes-acquisition-gibbs-cox and https://executivegov.com/2021/05/leidos-completes-380m-acquisition-of-gibbs-and-cox-roger-krone-quoted/ (accessed 2026-07-17 via web search)
+- [S7] Dynetics Huntsville workforce and footprint (>3,000 employees; Huntsville HQ; R&D and manufacturing at Redstone) - Leidos in Alabama page and Leidos/Dynetics careers page - https://www.leidos.com/alabama and https://careers.leidos.com/pages/Dynetics (accessed 2026-07-17 via web search; direct fetch blocked; headcount figures vary ~2,300-3,000 across sources)
+- [S8] Dynetics $670.5M Army common-hypersonic glide body and thermal protection system (Huntsville; through Oct 31, 2029); hypersonics as strategic rationale for the Dynetics acquisition - GovConWire, InsideDefense, Military Embedded Systems - https://www.govconwire.com/articles/dynetics-670m-army-contract-for-hypersonic-system and https://insidedefense.com/insider/dynetics-wins-army-contract-hypersonic-glide-body-and-protection and https://militaryembedded.com/radar-ew/sensors/hypersonics-a-strategic-benefit-of-leidos-dynetics-acquisition (accessed 2026-07-17 via web search)
+- [S9] Army IFPC Increment 2 launcher delivery order (18 units, through Dec 2026) and ~$204M missile launch-system components award (Huntsville, Chanhassen MN, Dallastown PA) - ExecutiveBiz IFPC launcher delivery order, GovConWire launcher-assets contract, Leidos insights on the advanced air-defense system - https://executivebiz.com/2025/04/leidos-army-ifpc-launcher-delivery-order/ and https://www.govconwire.com/articles/leidos-dynetics-army-contract-for-launcher-assets and https://www.leidos.com/insights/leidos-building-advanced-air-defense-system-army (accessed 2026-07-17 via web search)
+- [S10] Leidos $12.4M contract supporting a special-operations small cruise missile program (Huntsville) - 256 Today - https://256today.com/leidos-awarded-12-4-million-contract-supporting-special-operations-missile-program/ (accessed 2026-07-17 via web search)
+- [S11] Leidos ~$48.8M hybrid Army contract for General Electronic Test Station (GETS) equipment, hardware/software/upgrades/spares, work in Huntsville AL, Kuwait, Qatar, Saudi Arabia, Switzerland, UAE, through Dec 31, 2029 - ExecutiveGov "Leidos Secures $48M Army Contract for Test Station Equipment" - https://www.executivegov.com/articles/leidos-48m-army-contract-test-station-equipment (accessed 2026-07-17 via web search)
+- [S12] Defense Enclave Services (DES): ~$11.5B, ten-year DISA program consolidating the DoD Fourth Estate onto DoDNet (~22 defense agencies, ~370,000 users), and Leidos surviving GAO protests on its major DISA recompetes - Leidos DES page, Washington Technology "Protest ruling details why DISA chose Leidos for $11B IT contract," FedScoop "Leidos survives protest," Leidos insights and Intelligence Community News on three DISA DES awards - https://www.leidos.com/des and https://www.washingtontechnology.com/contracts/2022/06/protest-ruling-details-why-disa-chose-leidos-11b-it-contract/368644/ and https://fedscoop.com/leidos-survives-protest-dodin/ and https://www.leidos.com/insights/leidos-receives-three-disa-awards-launch-next-phase-it-transformation-end-user-migrations and https://intelligencecommunitynews.com/leidos-receives-three-disa-awards-for-des/ (accessed 2026-07-17 via web search)
+- [S13] DISA CESO IT-operations modernization $142M (Feb 2026) and Cross-Domain Enterprise Services $35M (June 2025) - GovConWire "Leidos Secures $142M DISA IT Operations Modernization Contract" and StockTitan coverage - https://www.govconwire.com/articles/leidos-disa-contract-ceso-it-operations and https://www.stocktitan.net/news/LDOS/leidos-enhancing-information-sharing-decision-making-across-u-s-2exc8ifqxpsx.html (accessed 2026-07-17 via web search)
+- [S14] Air Force $455M Cloud One award (Dec 11, 2025) - ClearanceJobs "Air Force Awards Leidos $455M to Power Next-Gen Cloud One Architecture" - https://news.clearancejobs.com/2025/12/11/air-force-awards-leidos-455m-to-power-next-gen-cloud-one-architecture/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S15] F-16 avionics product-support integration $475M (Air Force Sustainment Center, ~May 2025; automatic test systems, support equipment, test program sets), trade coverage citing the avionics-shops scope up to ~$620M, and a separate up-to-$987M AFLCMC F-16 foreign-military-sales sustainment IDIQ (Dec 2024) - GovConWire F-16 avionics win, Leidos insights, Air Force Technology "$620m support contract for USAF's F-16 avionics shops," ExecutiveBiz "$987M AFLCMC Contract for F-16 Sustainment," Military Embedded Systems - https://www.govconwire.com/articles/leidos-475m-usaf-f16-avionics-support-contract-win and https://www.leidos.com/insights/leidos-provide-us-air-force-f-16-avionics-product-support and https://www.airforce-technology.com/news/leidos-support-usaf-f-16-avionics-shops/ and https://executivebiz.com/2024/12/leidos-aflcmc-contract-award/ (accessed 2026-07-17 via web search)
+- [S16] Golden Dome positioning: management estimate of ~$4B-$5B near-term funding aligned to Leidos' radar, space-sensing, counter-UAS, and air-defense portfolio, targeting niche rather than prime-integrator roles - Potomac Officers Club "Inside Golden Dome," Breaking Defense "How industry is lining up for big Golden Dome business," GovConWire Q3 2025 Defense Systems/Golden Dome coverage - https://www.potomacofficersclub.com/articles/golden-dome-govcon-competition-rtx-leidos/ and https://breakingdefense.com/2025/08/how-industry-is-lining-up-for-big-golden-dome-business/ and https://www.govconwire.com/articles/leidos-q3-2025-revenue-growth-defense-systems-golden-dome (accessed 2026-07-17 via web search)
+- [S17] Kudu Dynamics acquisition closed May 23, 2025, final consideration ~$293M (announced $300M), AI-enabled offensive cyber / electromagnetic-spectrum operations / vulnerability research - GovConWire "Leidos Buys Cyber Firm Kudu Dynamics for $300M," Leidos investor release, Cooley deal coverage - https://www.govconwire.com/articles/leidos-cyber-firm-kudu-dynamics and https://investors.leidos.com/news-releases/news-release-details/leidos-acquires-kudu-dynamics-advancing-ai-capabilities-cyber and https://www.cooley.com/news/coverage/2025/2025-05-28-kudu-dynamics--announces-300-million-sale-to-leidos (accessed 2026-07-17 via web search)
+- [S18] ENTRUST Solutions Group acquisition completed March 30, 2026 for ~$2.4B (from Kohlberg), adding >3,100 professionals and roughly doubling a ~$600M energy-infrastructure engineering business - GovConWire "Leidos Closes $2.4B ENTRUST Acquisition," Leidos insights, StockTitan - https://www.govconwire.com/articles/leidos-entrust-acquisition-energy-grid and https://www.leidos.com/insights/leidos-completes-24-billion-acquisition-entrust and https://www.stocktitan.net/sec-filings/LDOS/8-k-leidos-holdings-inc-reports-material-event-b04979f5e029.html (accessed 2026-07-17 via web search)
+- [S19] Contract-vehicle positions: Army RS3 (C4ISR and knowledge-based engineering services), Navy SeaPort-NxG, GSA Alliant 2 (GWAC, ceiling reported up to $75B), GSA OASIS/OASIS+ - Leidos contract-vehicles pages, Intelligence Community News "GSA awards Leidos Alliant 2 GWAC," Leidos Navy undersea-warfare (SeaPort) insight - https://www.leidos.com/company/contract-vehicles and https://www.leidos.com/company/contract-vehicles/alliant2 and https://www.leidos.com/company/contract-vehicles/oasis and https://intelligencecommunitynews.com/gsa-awards-leidos-alliant-2-gwac/ and https://www.leidos.com/insights/us-navy-selects-leidos-undersea-warfare-systems-contract (accessed 2026-07-17 via web search; AMCOM EXPRESS holding for Leidos/Dynetics not confirmed in this session)
+- [S20] Leidos leadership team: Thomas Bell (CEO), Chris Cage (EVP & CFO, with the company since 1996), Cindy Gruensfelder (President, Defense Systems Sector), Steve Hull (President, Digital Modernization Sector), Liz Porter (President, Health & Civil Sector), Jim Carlini (CTO) - Leidos leadership pages, The Org leadership team, Potomac Officers Club leaders profile - https://www.leidos.com/company/leadership/cage and https://theorg.com/org/leidos/teams/leadership-team-1 and https://www.potomacofficersclub.com/articles/leidos-holdings-inc-leaders-founders-and-executives/ (accessed 2026-07-17 via web search)
+- [S21] GAO bid protest B-421560.14/.16, ManTech Advanced Systems International protest of a DOJ/FBI digital-and-IT-services task order awarded to Leidos; dismissed in part and denied in part (Jan 24, 2025), Leidos retained the award - https://www.gao.gov/products/b-421560.14,b-421560.16 (accessed 2026-07-17 via web search; GAO full text not retrieved in this session)
+- [S22] Leidos to lay off 93 workers at its Ashburn, VA security operation as a ~$100M CBP contract it held went to recompete - Virginia Business "Leidos to lay off 93 workers at Ashburn security operation" - https://virginiabusiness.com/leidos-to-lay-off-93-workers-at-ashburn-security-operation/ (accessed 2026-07-17 via web search)
+- [S23] DOGE and budget exposure: ~$56.5M in DOGE-driven Leidos contract terminations, GSA review of consulting spend across Leidos and nine other firms against a $65B consulting-cut target, Health & Civil non-GAAP operating margins in the low-to-mid 20% range, and FY2026 continuing-resolution/shutdown risk - TBR "DOGE Federal IT Vendor Impact Series: Leidos," AInvest analysis, Congressional Research Service R48832 on the FY2026 shutdown - https://tbri.com/blog/doge-federal-it-vendor-impact-series-leidos/ and https://www.ainvest.com/news/leidos-10-drop-560k-contract-cancellation-pipeline-warning-2602/ and https://www.congress.gov/crs-product/R48832 (accessed 2026-07-17 via web search)
+- [S24] Leidos digital-engineering, model-based systems engineering (MBSE), and test-and-evaluation capability marketing (MBSE tools, executable models, automated validation and test pipelines, digital system models supporting validation before deployment) - Leidos careers MBSE and Test & Evaluation role descriptions - https://careers.leidos.com/jobs/17552520-model-based-systems-engineer and https://careers.leidos.com/jobs/17865540-test-and-evaluation-lead (accessed 2026-07-17 via web search; cited as capability positioning, not a specific contract award)

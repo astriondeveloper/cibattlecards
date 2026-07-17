@@ -18,21 +18,46 @@ markets:
   - training-simulation
   - rdte-support
   - seta-advisory
+  - autonomy
+  - c5isr
+  - missile-defense
+  - modeling-simulation
+  - aviation-engineering
+  - counter-uas
+  - electronic-warfare
+  - enterprise-it
 
 agencies:
   - usaf-aftc
   - usaf-afmc
+  - usaf-afrl
   - ussf-ssc
   - navair
   - navsea
+  - army
   - army-atec
   - army-devcom
+  - army-amcom
+  - army-smdc
+  - army-peo-stri
+  - army-peo-c3t
+  - usaf-afotec
+  - navy-nrl
+  - navy-niwc
+  - usmc
+  - sda
+  - dia
+  - dla
+  - disa
+  - nga
   - mda
   - darpa
   - nasa
   - dtra
   - dhs
   - faa
+  - socom
+  - usace
 
 vehicles:
   - oasis-plus
@@ -42,6 +67,13 @@ vehicles:
   - seaport-nxg
   - rs3
   - agency-idiq
+  - astro
+  - amcom-express
+  - oasis-sb
+  - oasis-unrestricted
+  - ites-3s
+  - ota-consortium
+  - alliant-2
 
 set_asides:
   - small-business
