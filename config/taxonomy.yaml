@@ -23,6 +23,7 @@ markets:
   - missile-defense
   - modeling-simulation
   - aviation-engineering
+  - counter-uas
 
 agencies:
   - usaf-aftc
@@ -31,6 +32,7 @@ agencies:
   - ussf-ssc
   - navair
   - navsea
+  - army
   - army-atec
   - army-devcom
   - army-amcom
