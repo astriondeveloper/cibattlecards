@@ -1,0 +1,229 @@
+---
+id: lockheed-martin
+name: Lockheed Martin Corporation
+slug: lockheed-martin
+aliases: [Lockheed Martin, LMT, Lockheed]
+tier: 3
+status: draft
+relationship: competitor
+owner: "CI Owner"
+last_reviewed: 2026-07-17
+approved_by: null
+approved_date: null
+example: false
+markets: [test-evaluation, training-simulation, sustainment-logistics, aviation-engineering, missile-defense, space-operations, systems-engineering, mission-engineering, digital-engineering, modeling-simulation, software-engineering, c5isr]
+agencies: [usaf-aftc, usaf-afmc, navair, mda, army, army-amcom, army-peo-stri, ussf-ssc]
+vehicles: [agency-idiq]
+size: large
+set_asides: []
+parent: null
+jv_partners: []
+hq: "Bethesda, MD"
+revenue_est: "$75.0B (2025); $71.0B (2024)"
+employees_est: "~123,000 (Dec 2025)"
+website: "https://www.lockheedmartin.com"
+external_ids: {}
+---
+
+## Overview
+
+Lockheed Martin is the largest defense prime in the world, with $75.0B in 2025 net sales, a record $194B backlog (roughly 2.5 times annual sales), and about 123,000 employees, headquartered in Bethesda, MD under chairman, president and CEO Jim Taiclet [S2][S3][S4]. It is organized into four platform-and-product segments: Aeronautics ($28.6B in 2024, home of F-35), Rotary and Mission Systems ($17.3B, Sikorsky rotorcraft plus mission systems, training, and C5ISR), Missiles and Fire Control ($12.7B), and Space ($12.5B) [S1]. Its identity is hardware: it builds and sustains aircraft, interceptors, satellites, and helicopters, and its services revenue is overwhelmingly the sustainment, training, and engineering that hangs off those baselines. It is deliberately not a broad services house: in 2016 it divested its pure IT and technical-services arm, Information Systems & Global Solutions (a ~$5.6B business), to Leidos, shedding exactly the SETA, IT, and engineering-services book we live in [S6]. That is why Lockheed is a watch-tier competitor for us rather than a head-to-head one. We collide only at the services scope adjacent to its platforms: OEM sustainment and sustaining engineering, platform-tied training and simulation (its Orlando training business and RMS mission-systems bench), program-adjacent systems and mission engineering at MDA and Space Force where it is the product prime, and its own developmental-test and Skunk Works footprint at our AFTC anchor sites at Edwards and Palmdale [S7][S12][S17]. The sharpest edge for us is independence: as the OEM of the systems under test, it carries organizational-conflict and proprietary-data baggage that a non-OEM services prime never triggers.
+
+## Threat Summary
+
+Lockheed rarely shows up against us in a straight SETA or test-services competition; it sold that business to Leidos in 2016 [S6]. It hurts us in three narrower ways. First, pull-through: on any scope wrapped around an aircraft, interceptor, satellite, or rotorcraft it built, it is the default for the surrounding sustainment, training, and sustaining-engineering work, and it will argue only the OEM can do it. Second, footprint: it is physically present and entrenched at our anchor customers as the platform prime (F-35 developmental test at Edwards, Skunk Works at Palmdale, the NGI interceptor for MDA, Sikorsky in Army aviation, Lockheed Space for Space Force), so program-adjacent engineering gravitates to it [S12][S13][S17]. Third, brand and balance sheet: a $75B prime can promise scale and reach-back that intimidates a program office [S2]. Where it does not beat us is on the merits of a services competition: it carries OCI as the system's OEM, it fought the government over F-35 data rights and lost ground, its flagship execution has slipped (F-35 TR-3, classified-program charges), and when a scope is modular-open-systems or services integration rather than a platform, it neither dominates nor reliably wins [S9][S11][S10][S14].
+
+## Their Discriminators
+
+- OEM pull-through: it owns the F-35, C-130, Sikorsky rotorcraft, missile, interceptor, and satellite baselines, which makes it the presumptive incumbent for the sustainment, training, and sustaining-engineering wrapped around each one [S1][S12].
+- Proprietary system knowledge and data: on platforms where it controls the technical baseline and data rights, customers perceive that only the OEM can safely modify, sustain, or test the system [S11].
+- Prime scale and balance sheet: a $75.0B, $194B-backlog prime that can carry very large programs and absorb risk mid-size firms cannot [S2].
+- A real training, simulation, and mission-systems bench in RMS: the Orlando Training and Logistics Solutions business, ACES wargaming, and live-virtual-constructive simulation across 1,000-plus programs [S7].
+- Deep digital-engineering muscle from the multibillion-dollar 1LMX model-based-enterprise transformation and Skunk Works digital acceleration, credible when a customer wants digital-thread pedigree [S8].
+- Entrenchment in strategic missions our anchor customers care about most: homeland missile defense as the NGI prime through IOC in FY2028, and national-security space [S12][S15].
+
+## Strengths
+
+- Scale no mid-size services firm matches: $75.0B in 2025 sales (up 6%), a record $194B backlog, $5.0B net earnings, and 2026 guidance of $77.5B-$80.0B [S2].
+- Dominant platform franchises that pull through services: Aeronautics at $28.6B (F-35), plus missiles, Sikorsky rotorcraft, and space, each generating a sustainment-and-engineering tail [S1].
+- The world's largest fighter-sustainment enterprise around the F-35, an installed base that guarantees decades of OEM sustainment and sustaining-engineering demand even amid cost criticism [S9].
+- A genuine training, logistics, sustainment, and modeling-and-simulation bench in RMS: about 35,000 employees, 1,000-plus programs, 25-plus locations, the Orlando training business, ACES wargaming, and LVC simulation [S7].
+- Digital-engineering credibility from 1LMX, a roughly seven-year, company-wide model-based-enterprise and digital-thread program spanning about 122,000 employees [S8].
+- Homeland-missile-defense entrenchment: MDA selected Lockheed over Northrop for the Next Generation Interceptor in April 2024, sole contractor through flight testing toward IOC in Q4 FY2028 [S12].
+- Growing national-security-space position, reinforced by the October 2024 Terran Orbital acquisition adding small-satellite design, production, and on-orbit support [S15].
+- Cleared workforce and classified-program mass, including large classified efforts in Missiles and Fire Control and Aeronautics [S18].
+
+## Weaknesses
+
+### W1 - Platform-OEM conflict of interest blocks independent test, evaluation, and engineering
+
+Lockheed builds the aircraft, interceptors, satellites, and rotorcraft it also tests and sustains, and it runs its own developmental test of those systems (the F-35 Integrated Test Force at Edwards and Patuxent River; Skunk Works at Palmdale) [S17]. As the NGI interceptor OEM for MDA and the F-35 OEM, it cannot provide independent, government-side assessment of its own systems without an organizational-conflict-of-interest burden a non-OEM services prime does not carry [S12][S11]. On any scope that calls for objective test, independent verification, or government-side engineering advice touching a Lockheed baseline, the government has to police a mitigation plan we simply never trigger.
+
+### W2 - Proprietary data-rights lock-in draws active government pushback
+
+Lockheed's platforms were bought under a total-systems approach that left it controlling intellectual property and spares, to the point that uniformed maintainers cannot access the technical data to perform much F-35 maintenance [S11]. The government is now actively countering that: the Air Force began acquiring F-35 IP in April 2024, the Joint Program Office settled a roughly five-year data-rights dispute over F-35 test software (gaining authority to run "F-35 in a box" in its own OT&E and training facilities), and the F-47/NGAD award went to a competitor under an open-architecture model explicitly meant to avoid repeating the F-35 experience [S11]. Independent, open, government-owned engineering is exactly the direction the customer is moving, and Lockheed's lock-in posture is a documented liability.
+
+### W3 - It divested its services arm and now bids services only as platform pull-through
+
+Lockheed deliberately exited the pure services business: in 2016 it sold Information Systems & Global Solutions, a ~$5.6B IT and technical-services book, to Leidos [S6]. What remains is services attached to its own platforms, not a standalone services P&L competing for SETA, test-enterprise, and engineering-services scopes on their own terms. On a services competition not anchored to a Lockheed baseline, it lacks the dedicated services delivery model, and it does not populate the multiple-award services vehicles where mid-size engineering primes win.
+
+### W4 - When the scope is open-architecture or services integration, its record is uneven
+
+When the evaluation is not anchored to a Lockheed platform, it neither dominates nor reliably prevails. It lost the Air Force TOC-L Phase II command-and-control prototype competition to services integrator SAIC (award ~$293M) and its follow-on OCI protest was denied by GAO in May 2025 [S14]. In Army aviation, the Sikorsky/Boeing team lost FLRAA to Bell and GAO denied Sikorsky's protest, finding the proposal technically unacceptable for failing to provide the required architectural detail [S13]. The pattern: on modular-open-systems and services-led scopes, Lockheed can be beaten, and has been.
+
+### W5 - Flagship program execution has slipped on cost and schedule
+
+The "only the OEM can do it" pitch is undercut by its own recent performance. F-35 deliveries were halted for about a year over the TR-3 software upgrade; all 110 jets delivered in 2024 were late by an average of 238 days [S10]. F-35 sustainment cost estimates rose 44% (from $1.1T to $1.58T), the government declined a performance-based-logistics deal, and GAO faulted the contractor-led model for slow turnaround and spare-parts shortfalls [S9]. In 2024 the company booked about $2B in charges on two classified programs, roughly $1.4B in Missiles and Fire Control and $555M in Aeronautics [S18]. Cost and schedule credibility is contestable ground.
+
+### W6 - Footprint is built around production, not a resident independent-services bench at our anchor desks
+
+Lockheed's mass sits at platform and production centers organized around building and OEM-sustaining hardware: F-35 final assembly at Fort Worth, Skunk Works at Palmdale, the Orlando training business, space in Colorado, Sikorsky in Connecticut [S7][S17]. That geography is built for manufacturing and OEM sustainment, not for a badged, resident engineering-services bench sitting at the AFTC test centers and the Redstone customer community where our people already work. (needs internal input: confirm Lockheed's actual on-site independent-services headcount and any active task-order footprint at Eglin, Edwards, and Redstone before asserting a specific gap in a proposal.)
+
+## Our Counter-Positioning
+
+- Lead with OEM independence against W1. We build no aircraft, interceptor, satellite, or rotorcraft, so our test planning, verification, and engineering advice carries no product agenda and no OCI mitigation plan the customer has to audit. Push evaluation language on objectivity, independence, and data rights wherever a platform OEM sits on the program.
+- Ride the government's open-architecture and data-rights shift against W2. The customer is actively buying back IP and moving to open, government-owned baselines after the F-35 experience. Position us as the vendor-neutral team that delivers open architectures and government-owned technical data, not proprietary lock-in.
+- Exploit the services-sideline gap against W3. They sold their services arm; we are a services-first prime that lives on the engineering, SETA, and test-enterprise vehicles a platform OEM does not populate. Make dedicated services delivery, not platform pull-through, the frame.
+- Force open and services terms against W4. Where scope is modular-open-systems or services integration, their record is beatable on the merits: insist on demonstrated open-systems performance, dedicated key personnel, and unit-level relevance rather than platform heritage.
+- Contest cost and schedule credibility against W5. On sustaining engineering, test, and mission-engineering recompetes, sell disciplined delivery and independent oversight against a competitor whose flagship program slipped on software and absorbed classified-program charges.
+- Win the local-bench argument against W6. Our people are badged and resident at AFTC and Redstone today. Make staffed on-site presence, cleared headcount, and surge-in-place a scored factor.
+- Deconflict where they are genuinely the OEM. On a platform baseline they own, the winnable ground is the independent government-side engineering, test, and integration wrap, not the baseline itself; consider teaming or deconfliction there rather than a head-on prime. (needs internal input: any existing teaming history, NDAs, or deconfliction with Lockheed business units.)
+
+## Objection Handling
+
+- **They say:** "Only the original manufacturer can safely test and sustain this system." **We say:** That is exactly why the government keeps independent test and engineering separate from the baseline owner, and why it is now buying back data rights it once ceded. We give the program office an advocate with no product revenue at stake, working from the open, government-owned data you are entitled to.
+- **They say:** "A prime of our scale brings reach-back you can't match." **We say:** Scale spread across a global platform portfolio is a staffing promise, not a staffing plan. Ask every offeror what percent of named key personnel are dedicated full time and resident at your site. That is where a services-first team wins.
+- **They say:** "We already own this mission." **We say:** Owning the platform is not the same as owning the independent engineering, test, and analysis around it. On open-architecture and services scopes, that separation is deliberate, and it is ours to deliver.
+- **They say:** "The OEM's proprietary knowledge de-risks the work." **We say:** Proprietary control is the risk the customer is now unwinding, from F-35 data-rights disputes to open-architecture next-generation programs. Government-owned, open baselines protect competition and cost for the full life of the system.
+
+## Trap-Setting Questions
+
+- "How will the evaluation ensure that an offeror who also manufactures the platform, interceptor, or system under test identifies and mitigates organizational conflicts of interest, so the Government keeps independent test and engineering advice?"
+- "Will the Government own the technical data and interfaces produced under this effort, and how will offerors demonstrate an open-architecture approach that avoids single-vendor lock-in for the life of the system?"
+- "What percentage of proposed key personnel will be dedicated full time and resident within commuting distance of the Government site at contract start, rather than matrixed from a corporate platform portfolio?"
+- "How will offerors demonstrate relevant past performance on modular-open-systems and services-integration scopes, as distinct from platform or hardware-manufacturing heritage?"
+- "For sustaining engineering and sustainment, how will offerors demonstrate independence from any product line whose sales they also depend on, and how will cost and schedule realism be verified against recent delivery performance?"
+
+## Ghosting Library
+
+### G1 - Independence from the platform baseline
+
+- Ghost: "Offerors should identify any organizational conflicts of interest arising from their role as the original equipment manufacturer of a platform, interceptor, sensor, or system relevant to this effort, and describe how their mitigation approach preserves objective, independent test and engineering advice to the Government."
+- Targets: W1
+- Proof: PP8
+
+### G2 - Open architecture and government-owned data rights
+
+- Ghost: "Offerors should describe how they will deliver open, modular architectures and government-owned technical data and interfaces, so that the Government retains the ability to compete, modify, and sustain the system across its full life cycle without dependence on a single proprietary vendor."
+- Targets: W2
+- Proof: PP8
+
+### G3 - Services-first, dedicated engineering delivery
+
+- Ghost: "Offerors should describe how engineering and sustainment services will be delivered through a dedicated services organization with resources committed to this effort, rather than matrixed from, or pulled through, a broader platform and production portfolio."
+- Targets: W3
+- Proof: PP1
+
+### G4 - Demonstrated performance on open, services-led scopes
+
+- Ghost: "Offerors should demonstrate relevant, recent past performance on modular-open-systems and services-integration efforts of comparable size and scope, as distinct from platform manufacturing or hardware-integration heritage."
+- Targets: W4
+- Proof: PP5
+
+### G5 - Staffed, resident presence at the Government site
+
+- Ghost: "Offerors should demonstrate an established, currently staffed engineering presence at or near the Government site, including resident headcount, cleared personnel on site, and facilities available at contract start, rather than reliance on a distributed corporate production footprint."
+- Targets: W6
+- Proof: PP11
+
+## Pricing Posture
+
+Facts, labeled as such: Lockheed is a $75.0B prime running 2024 segment operating margins in the roughly 8.8% (Aeronautics) to 11.1% (Rotary and Mission Systems) range, with Space near 9.8% [S1][S2]. In 2024 it absorbed about $2B in charges on two classified programs, including fixed-price follow-on options it expects to perform at a loss, evidence of real fixed-price cost exposure on complex development [S18]. Judgment, labeled as such: a platform prime of this size typically wraps higher than a mid-size services firm on labor-rate-driven engineering, SETA, and test-enterprise competitions, so it is beatable where evaluated price turns on wrap rate rather than product content. Expect it to price most aggressively on sustaining-engineering and training work adjacent to its own platforms, where OEM position and program economics can absorb pressure, and to be least competitive on pure services scopes disconnected from a Lockheed baseline. We have no documented rate intelligence on its services-adjacent work. (needs internal input: any evaluated-price or wrap-rate observations from shared task-order competitions at NAVAIR, MDA, Space Systems Command, or Army aviation.)
+
+## Win/Loss vs Us
+
+## Intel & Proof Points
+
+### PP1 - Divested its IT and technical-services arm to Leidos (2016)
+
+Lockheed closed the separation of Information Systems & Global Solutions and its combination with Leidos on August 16, 2016, in a Reverse Morris Trust transaction. IS&GS generated about $5.6B in 2015 net sales; the aggregate transaction value was ~$4.6B and Lockheed received a $1.8B special cash payment. The divestiture removed Lockheed's pure SETA, IT, and technical-services book, which is the market we occupy [S6].
+
+### PP2 - Scale and segment structure (FY2024-FY2025)
+
+Lockheed reported $75.0B in 2025 net sales (up 6%), a record $194B backlog (~2.5x sales), $5.0B net earnings, and 2026 guidance of $77.5B-$80.0B; 2024 sales were $71.0B with a $176B backlog [S2][S1]. FY2024 segment net sales were Aeronautics $28.6B, Rotary and Mission Systems $17.3B, Missiles and Fire Control $12.7B, and Space $12.5B; headcount is about 123,000 [S1][S3].
+
+### PP3 - Next Generation Interceptor prime for MDA (April 2024)
+
+The Missile Defense Agency selected Lockheed Martin over Northrop Grumman to build the Next Generation Interceptor on April 15, 2024, a program reported at roughly $17B, with Lockheed as sole contractor through flight testing toward an initial operational capability in Q4 FY2028 [S12].
+
+### PP4 - Lost FLRAA in Army aviation; protest denied (2022-2023)
+
+The Army selected Bell's V-280 Valor over the Sikorsky (Lockheed Martin)/Boeing SB>1 Defiant for the Future Long-Range Assault Aircraft on December 5, 2022. Sikorsky protested; GAO denied the protest in April 2023, finding the Army reasonably rated Sikorsky's proposal technically unacceptable under the engineering-design/architecture subfactor for insufficient architectural detail. Sikorsky bid ~$4.445B versus Bell's ~$8.087B and did not pursue further action [S13].
+
+### PP5 - Lost TOC-L to a services integrator; OCI protest denied (2025)
+
+Lockheed protested the Air Force's Tactical Operations Center - Light (TOC-L) prototype competition, alleging unmitigated OCIs on the part of SAIC (SAIC's simultaneous role as the cloud-based command-and-control software integrator). The Air Force selected SAIC at ~$293M, and GAO denied Lockheed's protest on May 2, 2025, finding the OCI assessment reasonable [S14].
+
+### PP6 - F-35 sustainment costs rising; government declined PBL (2024)
+
+GAO reported in April 2024 that F-35 sustainment cost estimates had risen 44% (from $1.1T in 2018 to $1.58T in 2023), that the program's lifetime estimate approached $2T, and that DoD declined a performance-based-logistics contract with Lockheed in November 2023, continuing annual sustainment contracts; GAO faulted the contractor-led PBL model for slow turnaround and spare-parts shortfalls, and 30 of 43 GAO recommendations remained unimplemented [S9].
+
+### PP7 - F-35 TR-3 delivery halt; all 2024 deliveries late (2023-2024)
+
+The government stopped accepting TR-3-configured F-35s in July 2023; the halt lasted about a year until a truncated TR-3 software build allowed non-combat-capable deliveries to resume in July 2024. Lockheed delivered 110 F-35s in 2024, all late by an average of 238 days, before delivering a record 191 in 2025 to clear the backlog [S10].
+
+### PP8 - F-35 data-rights lock-in and the government's open-architecture shift (2024-2025)
+
+The F-35's total-systems acquisition left Lockheed controlling IP and spares, leaving uniformed maintainers without the technical-data access to perform much maintenance. The Air Force began acquiring F-35 IP in April 2024; the Joint Program Office settled a roughly five-year data-rights dispute over F-35 test software, gaining authority to run "F-35 in a box" in service-operated OT&E and training facilities; and the F-47/NGAD next-generation fighter was awarded to a competitor under an open-architecture model meant to avoid repeating the F-35 experience [S11].
+
+### PP9 - Classified-program charges (2024)
+
+In 2024 Lockheed booked about $2B in losses on two classified programs: roughly $1.4B on a Missiles and Fire Control program (including ~$1.3B in Q4) and about $555M on an Aeronautics program (including ~$410M in Q4), with fixed-price follow-on options the company expects to perform at a loss [S18].
+
+### PP10 - Training, simulation, and mission-systems bench in RMS
+
+Rotary and Mission Systems runs about 35,000 employees across 1,000-plus programs and 25-plus locations, including the Orlando Training and Logistics Solutions business, ACES wargaming and experimentation, and live-virtual-constructive simulation, serving USAF, Army, USCG, USMC, Navy, and MDA customers. It is backed by the multibillion-dollar, roughly seven-year 1LMX model-based-enterprise transformation across ~122,000 employees [S7][S8].
+
+### PP11 - Developmental-test and Skunk Works footprint at our AFTC anchor sites
+
+Lockheed conducts F-35 developmental flight testing through the Integrated Test Force at Edwards AFB and NAS Patuxent River, and operates its Advanced Development Programs (Skunk Works) at U.S. Air Force Plant 42 in Palmdale, CA, adjacent to Edwards, an OEM presence embedded in the AFTC test enterprise where we support the government side [S17].
+
+### PP12 - Space growth via Terran Orbital; minor Aeronautics divestiture (2024)
+
+Lockheed closed its acquisition of Terran Orbital on October 30, 2024 (~$314M purchase consideration, ~$450M enterprise value) into the Space segment, adding small-satellite design, production, mission operations, and on-orbit support; separately it sold its Aeronautics Commercial Engine Solutions business in September 2024 for $170M [S15][S16].
+
+### PP13 - Leadership
+
+Jim Taiclet is chairman, president and CEO (president and CEO since June 2020, chairman since March 2021) [S4]. Evan Scott became CFO in April 2025, a 26-year Lockheed finance veteran and former Missiles and Fire Control CFO, succeeding Jay Malave, who left for Boeing [S5].
+
+## Recent Developments
+
+- 2026-01 - FY2025 results: $75.0B sales (up 6%), record $194B backlog, $5.0B net earnings; delivered a record 191 F-35s in 2025, clearing the TR-3 backlog [S2][S10].
+- 2025-05 - GAO denied Lockheed's OCI protest of the Air Force's TOC-L award to SAIC (~$293M) [S14].
+- 2025-04 - Evan Scott named CFO, succeeding Jay Malave (who left for Boeing) [S5].
+- 2024-10 - Closed the Terran Orbital acquisition (~$450M enterprise value) into the Space segment [S15].
+- 2024-09 - Sold the Aeronautics Commercial Engine Solutions business for $170M [S16].
+- 2024-07 - F-35 delivery halt lifted with a truncated TR-3 build; all 110 jets delivered in 2024 were late (avg 238 days) [S10].
+- 2024-04 - MDA selected Lockheed over Northrop for the Next Generation Interceptor (~$17B); GAO reported F-35 sustainment costs up 44% and DoD's decision to forgo a PBL [S12][S9].
+- 2024-01 - Booked about $2B in charges on two classified programs (Missiles and Fire Control and Aeronautics) [S18].
+
+## Sources
+
+- [S1] Lockheed Martin Q4/Full-Year 2024 results — total net sales $71.0B (2024) vs $67.6B (2023); record year-end backlog $176B; FY2024 segment net sales Aeronautics $28,618M (8.8% operating margin), Rotary & Mission Systems $17,264M (11.1%), Missiles & Fire Control $12,682M (+13% YoY), Space $12,479M (9.8%) — https://news.lockheedmartin.com/2025-01-28-Lockheed-Martin-Reports-Fourth-Quarter-and-Full-Year-2024-Financial-Results and https://www.prnewswire.com/news-releases/lockheed-martin-reports-fourth-quarter-and-full-year-2024-financial-results-302361911.html and https://www.govconwire.com/articles/lockheed-martin-financial-results-net-sales-backlogs and https://bullfincher.io/companies/lockheed-martin-corporation/revenue-by-segment (accessed 2026-07-17 via web search; direct fetch blocked, HTTP 403)
+- [S2] Lockheed Martin Q4/Full-Year 2025 results — FY2025 net sales $75.0B (+6%); record backlog $194B (~2.5x sales); net earnings $5.0B / $21.49 diluted EPS; cash from operations $8.6B, free cash flow $6.9B; 2026 guidance sales $77.5B-$80.0B — https://news.lockheedmartin.com/2026-01-29-Lockheed-Martin-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results and https://www.prnewswire.com/news-releases/lockheed-martin-reports-fourth-quarter-and-full-year-2025-financial-results-302673106.html and https://www.tradingview.com/news/tradingview:5bd9b1ca421ba:0-lockheed-martin-reports-fourth-quarter-and-full-year-2025-financial-results/ (accessed 2026-07-17 via web search; direct fetch blocked, HTTP 403)
+- [S3] Lockheed Martin employee count ~123,000 as of Dec 31, 2025 (FY2025 Form 10-K, per aggregators) — https://www.sec.gov/Archives/edgar/data/936468/000162828026004195/lmt-20251231.htm and https://www.macrotrends.net/stocks/charts/LMT/lockheed-martin/number-of-employees and https://stockanalysis.com/stocks/lmt/employees/ (accessed 2026-07-17 via web search; SEC direct fetch blocked, HTTP 403)
+- [S4] Headquarters Bethesda, MD; James D. (Jim) Taiclet elected President & CEO effective June 15, 2020 (succeeding Marillyn Hewson) and Chairman effective March 1, 2021 — https://news.lockheedmartin.com/2020-06-15-Jim-Taiclet-Becomes-New-Lockheed-Martin-President-And-CEO and https://www.prnewswire.com/news-releases/lockheed-martin-board-elects-james-d-taiclet-as-chairman-marillyn-a-hewson-to-serve-as-strategic-advisor-and-gregory-m-ulmer-as-executive-vice-president-of-aeronautics-301218189.html (accessed 2026-07-17 via web search)
+- [S5] CFO transition — Evan Scott named CFO effective April 17, 2025 (26-year Lockheed finance veteran, former MFC CFO and Treasurer), succeeding Jesus "Jay" Malave, who departed (later Boeing EVP/CFO effective Aug 15, 2025) — https://news.lockheedmartin.com/2025-04-17-Lockheed-Martin-Announces-Chief-Financial-Officer-Transition and https://the-cfo.io/2025/04/18/lockheed-martin-appoints-evan-scott-cfo-after-malave-exit/ and https://www.stocktitan.net/news/LMT/lockheed-martin-announces-chief-financial-officer-3y3k3foqlegk.html (accessed 2026-07-17 via web search)
+- [S6] IS&GS divestiture to Leidos — closed August 16, 2016; Reverse Morris Trust; Information Systems & Global Solutions had ~$5.6B net sales in 2015; aggregate transaction value ~$4.6B; Lockheed received a $1.8B special cash payment — https://news.lockheedmartin.com/2016-08-16-Lockheed-Martin-Successfully-Closes-Transaction-to-Separate-and-Combine-IT-and-Technical-Services-Businesses-with-Leidos and https://investors.leidos.com/news-releases/news-release-details/leidos-announces-closing-merger-lockheed-martins-isgs-business and https://www.sec.gov/Archives/edgar/data/0000936468/000119312517036192/d290249d10k.htm (accessed 2026-07-17 via web search)
+- [S7] Rotary and Mission Systems / Training, Logistics & Sustainment — RMS ~35,000 employees, 1,000+ programs, 25+ locations; Training and Logistics Solutions in Orlando, FL; ACES wargaming; live-virtual-constructive simulation; customers include USAF, Army, USCG, USMC, Navy, MDA — https://www.lockheedmartin.com/en-us/who-we-are/business-areas/rotary-and-mission-systems.html and https://www.lockheedmartin.com/en-us/capabilities/training-logistics-sustainment.html and https://en.wikipedia.org/wiki/Lockheed_Martin_Rotary_and_Mission_Systems and https://www.executivebiz.com/articles/get-to-know-the-lockheed-martin-rotary-and-mission-systems-rms (accessed 2026-07-17 via web search)
+- [S8] 1LMX digital transformation — multibillion-dollar, ~7-year, company-wide model-based enterprise with an integrated digital thread across design/build/sustain, spanning ~122,000 employees; plus Skunk Works digital acceleration — https://www.lockheedmartin.com/en-us/news/features/2024/1LMX-Digital-Transformation-and-Operational-Improvements.html and https://www.lockheedmartin.com/en-us/news/features/2024/Skunk-Works-Digital-Acceleration-to-Transform-Acquisition.html and https://www.executivebiz.com/articles/lockheed-maria-demaree-1lmx-digital-transformation (accessed 2026-07-17 via web search)
+- [S9] GAO-24-106703, "F-35 Sustainment: Costs Continue to Rise While Planned Use and Availability Have Decreased" (Apr 2024) — sustainment cost estimate up 44% ($1.1T in 2018 to $1.58T in 2023); program lifetime ~$2T; DoD declined a performance-based-logistics contract with Lockheed (Nov 2023); 30 of 43 GAO recommendations unimplemented; GAO faulted the contractor-led PBL model — https://www.gao.gov/products/gao-24-106703 and https://www.defenseone.com/business/2024/04/f-35-program-costing-more-and-doing-less-gao-says/395747/ and https://www.defensenews.com/air/2024/04/15/f-35s-to-cost-2-trillion-as-pentagon-plans-longer-use-says-watchdog/ and https://breakingdefense.com/2024/04/f-35-programs-lifetime-price-tag-tops-2-trillion-pentagon-wants-jets-to-fly-longer/ (accessed 2026-07-17 via web search; GAO direct fetch blocked, HTTP 403)
+- [S10] F-35 TR-3 (Tech Refresh 3) delivery halt — government stopped accepting TR-3 F-35 deliveries July 2023; ~1-year halt lifted July 2024 with a truncated TR-3 build (non-combat-capable jets for training); 110 F-35s delivered in 2024, all late (avg 238 days); record 191 delivered in 2025 clearing the backlog; GAO-25-107632 on late deliveries — https://breakingdefense.com/2023/09/more-f-35-delivery-delays-likely-as-lockheeds-tech-update-slips-to-2024/ and https://www.defensenews.com/air/2026/01/15/lockheed-delivered-record-191-f-35s-as-it-cleared-out-tr-3-backlog/ and https://www.airforce-technology.com/news/f-35-tr-3-configuration-delivery-is-back-on-track-after-delays/ and https://www.gao.gov/assets/gao-25-107632.pdf (accessed 2026-07-17 via web search)
+- [S11] F-35 IP / data-rights and OEM lock-in — total-systems acquisition left Lockheed controlling IP and spares; uniformed maintainers lack technical-data access; Air Force began acquiring F-35 IP (April 2024); Joint Program Office settled a ~5-year data-rights dispute over F-35 test software (government gained authority to run "F-35 in a box" in service OT&E/training); F-47/NGAD awarded to a competitor (Mar 2025) under an open-architecture model to avoid repeating F-35 — https://insidedefense.com/share/220902 and https://www.overtdefense.com/2024/04/23/f-35-joint-program-office-and-lockheed-martin-resolve-joint-simulation-environment-data-rights-dispute/ and https://www.pogo.org/analyses/has-the-pentagon-learned-from-the-f-35-debacle and https://www.eurasiantimes.com/u-s-corrects-f-35-mistakes-in-6th-gen-f-47-fighter-jet-with-split-cca-awards-open-architecture/ (accessed 2026-07-17 via web search)
+- [S12] Next Generation Interceptor (NGI) — MDA selected Lockheed Martin over Northrop Grumman on April 15, 2024 (~$17B), sole contractor through flight testing toward IOC in Q4 FY2028; teamed with Aerojet Rocketdyne — https://breakingdefense.com/2024/04/lockheed-wins-competition-to-build-next-gen-interceptor/ and https://insidedefense.com/share/210872 and https://thedefensepost.com/2024/04/18/lockheed-next-gen-interceptor/ and https://www.army-technology.com/news/lockheed-martin-northrop-grumman-ngi-programme/ (accessed 2026-07-17 via web search)
+- [S13] FLRAA — Army selected Bell's V-280 Valor over the Sikorsky (Lockheed Martin)/Boeing SB>1 Defiant on December 5, 2022; Sikorsky protested Dec 28, 2022; GAO denied the protest (April 2023), finding the proposal technically unacceptable under the engineering-design/architecture subfactor for insufficient architectural detail; Sikorsky bid ~$4.445B vs Bell ~$8.087B; no further action — https://breakingdefense.com/2023/04/gao-denies-sikorsky-boeing-flraa-protest-bell-army-clear-to-proceed/ and https://www.defensenews.com/industry/2023/04/18/sikorsky-wont-sue-us-army-after-gao-rejected-protest-over-future-helo/ and https://euro-sd.com/2023/04/news/30983/gao-denies-sikorskys-flraa-protest-leaving-v-280-valor-in-the-clear/ (accessed 2026-07-17 via web search)
+- [S14] TOC-L protest (GAO B-423294) — Lockheed protested the Air Force's Tactical Operations Center - Light (TOC-L) prototype fair-opportunity request, alleging unmitigated OCIs on SAIC (SAIC as the cloud-based command-and-control (CBC2) software integrator); Air Force selected SAIC at ~$293M; GAO denied the protest May 2, 2025, finding the OCI assessment reasonable (government retained technical approvals, CBC2 as GFE, SAIC recommendations independently validated) — https://www.gao.gov/products/b-423294 and https://www.fedcontractpros.com/blog/gao-denies-lockheed-martins-oci-protest-in-toc-l-competition and https://www.washingtontechnology.com/contracts/2025/05/gao-says-saic-can-still-compete-command-control-prototype-contract/405090/ and https://usaherald.com/gao-rejects-lockheeds-air-force-bid-protest/ (accessed 2026-07-17 via web search; GAO direct fetch blocked, HTTP 403)
+- [S15] Terran Orbital acquisition — announced Aug 15, 2024; closed Oct 30, 2024; ~$314M purchase consideration (~$450M enterprise value); folded into the Space segment; adds small-satellite design, production, mission operations, and on-orbit support — https://news.lockheedmartin.com/2024-08-15-Lockheed-Martin-to-Acquire-Terran-Orbital and https://www.prnewswire.com/news-releases/lockheed-martin-to-acquire-terran-orbital-302223551.html and https://www.joint-forces.com/space-and-aero/77000-lockheed-martin-completes-terran-orbital-acquisition (accessed 2026-07-17 via web search)
+- [S16] Commercial Engine Solutions (CES) divestiture — Lockheed completed the sale of its CES business (part of Aeronautics) on Sep 9, 2024, for $170M cash (per FY2024 10-K discussion) — https://www.sec.gov/Archives/edgar/data/936468/000093646825000009/lmt-20241231.htm (accessed 2026-07-17 via web search; SEC direct fetch blocked, HTTP 403)
+- [S17] Skunk Works / flight test — Lockheed Martin Skunk Works (Advanced Development Programs) at U.S. Air Force Plant 42 in Palmdale, CA; F-35 developmental flight testing by the F-35 Integrated Test Force at Edwards AFB and NAS Patuxent River (flight sciences, envelope expansion, stores separation, mission systems) — https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II and https://en.wikipedia.org/wiki/Skunk_Works and https://simpleflying.com/lockheed-martin-palmdale-operations-guide/ (accessed 2026-07-17 via web search)
+- [S18] Classified-program charges (2024) — Lockheed booked ~$2B in losses on two classified programs: ~$1.4B on a Missiles & Fire Control program (incl. ~$1.3B in Q4) and ~$555M on an Aeronautics program (incl. ~$410M in Q4); the MFC program has fixed-price follow-on options expected to be performed at a loss — https://breakingdefense.com/2025/01/lockheed-hit-by-2b-in-charges-on-two-classified-programs/ and https://www.stocktitan.net/news/LMT/lockheed-martin-reports-fourth-quarter-and-full-year-2024-financial-8p52h9iythbe.html and https://www.airandspaceforces.com/secret-lockheed-program-lose-1-billion/ (accessed 2026-07-17 via web search)

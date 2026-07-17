@@ -1,0 +1,252 @@
+---
+id: saic
+name: SAIC
+slug: saic
+aliases: ["Science Applications International Corporation", "SAIC, Inc."]
+tier: 1
+status: draft
+relationship: competitor
+owner: "CI Owner"
+last_reviewed: 2026-07-17
+approved_by: null
+approved_date: null
+example: false
+markets: [test-evaluation, modeling-simulation, digital-engineering, systems-engineering, mission-engineering, software-engineering, space-operations, missile-defense, cyber, c5isr, enterprise-it, rdte-support, seta-advisory, sustainment-logistics, aviation-engineering]
+agencies: [army, army-devcom, army-amcom, usace, navsea, usaf-afmc, ussf-ssc, sda]
+vehicles: [amcom-express, oasis-unrestricted, oasis-plus, gsa-mas, agency-idiq]
+size: large
+set_asides: []
+parent: null
+jv_partners: []
+hq: "Reston, VA"
+revenue_est: "$7.26B (FY2026, ended 2026-01-30); FY2025 $7.48B; FY2027 guidance ~$7.0-7.2B"
+employees_est: "~24,000 (FY2025 10-K); ~23,000 (2026)"
+website: "https://www.saic.com"
+external_ids: {}
+---
+
+## Overview
+
+SAIC (Science Applications International Corporation, Reston VA) is a roughly $7.3B, ~24,000-person federal technology integrator running two segments, Defense and Intelligence and Civilian [S1][S2]. It is the "New SAIC" spun off in 2013 when the old SAIC renamed itself Leidos and distributed this business to shareholders, a separation driven explicitly by organizational-conflict-of-interest limits on systems-engineering work [S24]. Scale since came from the 2019 Engility acquisition ($2.5B, which roughly doubled its intelligence and space revenue) and the 2020 Unisys Federal purchase ($1.2B of enterprise IT) [S23]. We collide with SAIC across most of our core lanes, but the sharpest overlap is at Redstone, where SAIC holds two large DEVCOM AvMC S3I awards for modeling-and-simulation systems engineering ($800M) and hardware-in-the-loop and M&S development ($3.6B), plus AMCOM EXPRESS and Software Engineering Directorate heritage [S10][S11][S12]. On the Air Force side we meet them in digital engineering and prototyping (HOPE 2.0 TENCAP, $928M; COBRA CJADC2, $1.4B) rather than at the AFTC ranges, where we found no evidence of a resident SAIC bench [S13][S14]. They are also in our space and Navy-test adjacencies through Space Force ground-radar sustainment (GMASS, $574M), SDA program integration, and a Navy propulsion-test-facility contract [S15][S17]. The strategic backdrop matters: SAIC ousted its CEO in October 2025, installed former Leidos CFO Jim Reagan, reorganized five business groups into three, and declared a pivot away from commodity enterprise IT toward mission IT and engineering, all while revenue is contracting [S6][S7][S8]. Where we win is not scale. It is resident test-enterprise presence, independence, mission focus, and stability against a competitor mid-reorganization and losing incumbent recompetes.
+
+## Threat Summary
+
+SAIC hurts us most at Redstone and on large multi-domain digital-engineering and M&S buys, where it is an entrenched incumbent with directly relevant past performance and a full menu of vehicles. Its AvMC S3I positions ($800M and $3.6B, both run through GSA OASIS and Army Contracting Command-Redstone) put SAIC people inside the Aviation and Missile Center software, simulation, and systems-engineering directorate we support, doing live-virtual-constructive M&S, MBSE, missile-defense and multi-domain system-of-systems work [S10][S11]. Its 2025 wins (HOPE 2.0 rapid-prototyping mission engineering for AF TENCAP, COBRA digital engineering for CJADC2) show a company positioning as the fast, all-domain prototyping integrator, which is the same story we tell in digital and mission engineering [S13][S14]. Where SAIC seldom beats us is a focused, labor-driven test-and-evaluation, SETA, or range-enterprise competition scored on dedicated key personnel resident at the government site and independence from the systems under test. And SAIC is beatable right now on continuity: it is shrinking (FY2026 revenue down ~3%, FY2027 guided to further decline), churning leadership and structure, and losing incumbent recompetes it once held, giving us clean, scoreable discriminators on stability, focus, and local presence [S3][S6][S18].
+
+## Their Discriminators
+
+- Redstone incumbency in M&S and systems engineering. The AvMC S3I awards give SAIC deep, current AvMC past performance and an embedded engineering staff in the exact directorate and customer community we serve [S10][S11].
+- All-domain rapid-prototyping brand. HOPE 2.0 (AF TENCAP) and COBRA (CJADC2) let SAIC market a "concept to combat" prototyping and mission-integration story across air, land, sea, space, and cyber [S13][S14].
+- Scale and vehicle breadth. A ~$7.3B integrator with ~$24B backlog, positions on OASIS+, legacy OASIS, AMCOM EXPRESS, and GSA MAS, and past performance that pre-qualifies it on most large task-order competitions [S3][S28].
+- Space and intelligence heritage from Engility. Space Force ground systems, SDA program integration, and IC mission work that SAIC pulls into adjacent bids [S15][S16][S23].
+- AI and cyber positioning. The SilverEdge acquisition adds agentic-AI and cyber capability (SOAR, MynAI) that SAIC wraps around mission-IT and national-security programs [S21].
+
+## Strengths
+
+- Redstone AvMC entrenchment: a $3.6B, eight-year hardware-in-the-loop and M&S development award and an $800M M&S systems-engineering award, both for the DEVCOM AvMC S3I Directorate, performed primarily in Huntsville [S10][S11].
+- Air Force digital-engineering and prototyping momentum: HOPE 2.0, a $928M five-year AF TENCAP RDT&E mission-engineering contract for near-program-of-record prototypes across ~65 agencies and commands [S13].
+- Multi-domain C2 franchise: COBRA, a $1.4B five-year task order to accelerate CJADC2 modernization through digital engineering, rapid prototyping, test, and modeling-and-simulation [S14].
+- Space footprint: GMASS, a $574M Space Systems Command ground-based radar maintenance and sustainment contract (UEWR and PARCS radars, Colorado Springs, through March 2030), a $390M systems-engineering-and-integration task order, and SDA PWSA Tranche 3 program integration [S15].
+- Navy test and hardware: a Navy propulsion-test-facility operate-maintain-upgrade contract and MK48 Mod 7 heavyweight-torpedo production (up to ~$1.1B), adding Navy T&E-adjacent and hardware content [S17].
+- Backlog and cash: ~$23.8B backlog, book-to-bill above 1.0, and strong free cash flow support staffing depth and reach-back [S5].
+- Vehicle access: OASIS+ Unrestricted (awarded December 2024), legacy GSA OASIS, AMCOM EXPRESS BPA, and GSA MAS [S28].
+- Portfolio sharpening: the SilverEdge acquisition (AI and cyber) and the earlier divestiture of the logistics and supply-chain business signal deliberate concentration on higher-value engineering and mission IT [S21][S22].
+
+## Weaknesses
+
+### W1 - Growing conflict exposure where SAIC builds or integrates what others must independently assess
+
+SAIC increasingly produces and integrates the systems around which independent test and government-side engineering advice is given: MK48 Mod 7 torpedo hardware for the Navy and CJADC2 command-and-control integration and prototyping under COBRA [S17][S14]. On any scope that calls for independent T&E, objective assessment, or government-side engineering touching those baselines, SAIC carries an organizational-conflict-of-interest question that a non-building services prime does not. The irony is documented: this very company exists because the old SAIC had to split off its systems-engineering business in 2013 to escape exactly these conflicts, and that separation reportedly unlocked nearly $25B of previously blocked addressable market [S24].
+
+### W2 - Prime-scale overhead and wrap on labor-driven competitions
+
+SAIC is a ~$7.3B prime carrying corporate overhead, indirect structure, and shareholder-margin expectations (FY2026 adjusted EBITDA margin ~9.7%) [S3]. On engineering-services, SETA, and test-enterprise competitions where evaluated price turns on the fully burdened labor rate rather than on scale or hardware content, a large prime's wrap is beatable by a focused mid-size firm. This is team judgment rather than documented rate intelligence, but it is a repeatable pattern where the buy is dominated by direct labor. (needs internal input: any observed evaluated-price or wrap-rate data from shared task-order competitions, especially on Redstone OASIS/EXPRESS work.)
+
+### W3 - Shrinking top line and procurement-delay exposure
+
+SAIC is contracting. FY2026 revenue fell ~3% to $7.26B, and management set initial FY2027 guidance to a further 2-4% decline, explicitly attributing the cut to procurement delays and unfavorable customer award decisions [S3]. It is simultaneously walking away from ~10% of its revenue base in commodity enterprise IT as part of the mission-IT pivot [S8]. A shrinking, repositioning competitor is one whose promised reach-back and investment on any single program deserve scrutiny, and whose "safe incumbent" narrative is weaker than its size suggests.
+
+### W4 - Losing incumbent recompetes and protests
+
+SAIC's incumbency is not holding. It lost the $1.4B CASTLE-NET recompete for Army Corps of Engineers IT to Accenture Federal Services and had its GAO protest denied in May 2026, despite having been the incumbent under the predecessor task order since 2021 [S18]. Separately, the Air Force excluded SAIC (again the incumbent) from a $972M modeling-and-simulation competition on self-scoring, and GAO denied SAIC's protest in July 2025 [S19]. Trade reporting has SAIC dropping to roughly 11th among federal contractors after losing a major DoD IT vehicle recompete and divesting non-core lines [S20]. Continuity and low transition risk are live, scoreable criteria a churned incumbent cannot simply assume.
+
+### W5 - Leadership and structure in flux
+
+SAIC removed CEO Toni Townes-Whitley "without cause" in October 2025 after two years, installed former Leidos CFO Jim Reagan (interim, then permanent in February 2026), and consolidated five business groups into three effective January 2026 [S6][S7]. A company changing its chief executive and its entire operating structure while redefining its portfolio around "mission IT" is one whose senior attention and account continuity are legitimately in question on a multi-year program [S8]. We can credibly argue that our customer's mission gets steadier, more senior attention from a focused firm than from one mid-reorganization.
+
+### W6 - Thin resident presence at the Air Force test enterprise
+
+SAIC's Air Force center of gravity is TENCAP and CJADC2 prototyping and mission integration (HOPE 2.0, COBRA), and its space work is Space Systems Command ground-radar sustainment and SDA program integration [S13][S15]. We found no evidence of a resident, badged SAIC test-and-evaluation bench at AFTC (Eglin, Edwards) where our people sit. That geography is a scoreable gap wherever local, on-site, cleared engineering support is valued. (needs internal input: confirm SAIC's actual on-site headcount and active task orders across AFTC before asserting a specific staffing gap in a proposal; their Redstone presence is genuinely strong, so this argument is strongest at the USAF test centers, not at Huntsville.)
+
+## Our Counter-Positioning
+
+- Lead with independence against W1. We build no torpedoes, no C2 baselines, and no systems under test, so our test planning, verification, and engineering advice carries no product agenda and no conflict-mitigation plan the customer has to police. Push evaluation language on objectivity, independence, and data rights wherever their hardware or integration sits on the program.
+- Force focused, labor-scored terms against W2. Where the buy is dominated by direct engineering labor and dedicated key personnel, insist on burdened-rate realism and named on-contract staff so a prime wrap cannot hide behind scale.
+- Sell stability and continuity against W3, W4, and W5. Position steady, dedicated staffing and low transition risk against a competitor that is shrinking, mid-reorganization, on its second CEO in a year, and losing incumbent recompetes. Make "who has actually held their programs through change" a live question.
+- Win the local-bench argument against W6 at the USAF test centers. Our people are badged and resident at AFTC (Eglin, Edwards) today. Make staffed local presence, on-site clearance density, and surge-in-place a scored factor where it applies, and be honest internally that at Redstone the winning wedge is independence and focus, not proximity, because SAIC's local mass there is real.
+- Deconflict at Redstone where SAIC is the entrenched M&S/HWIL incumbent. On the S3I baselines the winnable ground is the independent test, verification, and engineering wrap, and any scope where a fresh, non-incumbent team lowers customer risk. Consider teaming or lane-splitting rather than a head-on prime bid on their strongest turf. (needs internal input: any existing teaming, NDA, or deconfliction history with SAIC business units.)
+
+## Objection Handling
+
+- **They say:** "SAIC already runs the AvMC modeling and simulation work, so they know the environment." **We say:** Incumbency on the M&S baseline is exactly why the government values an independent test and engineering voice with no stake in defending that baseline. Score dedicated key personnel and independence, not just familiarity.
+- **They say:** "SAIC is a $7 billion integrator with the scale to carry this." **We say:** Scale that is shrinking and reorganizing is not the same as dedicated capacity. Ask every offeror what percentage of named key personnel are committed full time and resident at your site, and how their program survived the offeror's latest restructuring.
+- **They say:** "They bring an all-domain, concept-to-combat prototyping brand." **We say:** Marketing breadth is not delivery relevance. Score past performance at the size and services scope of this actual effort, with named staff, not corporate campaign themes.
+- **They say:** "A large incumbent is the low-risk choice." **We say:** Ask what has changed on their side. A new CEO, a five-into-three reorganization, a declared exit from part of their business, and recent lost recompetes make continuity the real risk question. A stable, focused team is the lower-risk path.
+
+## Trap-Setting Questions
+
+- "How will the evaluation ensure that offerors who build or integrate the hardware, munitions, or command-and-control systems relevant to this effort identify and mitigate organizational conflicts of interest, so the Government preserves independent test and engineering advice?"
+- "What percentage of proposed key personnel will be dedicated full time and resident within commuting distance of the Government site at contract start, rather than matrixed from a broad corporate portfolio?"
+- "How will offerors demonstrate account and staffing continuity through recent or ongoing corporate reorganizations and leadership changes, and what is their plan to protect this program from that turbulence?"
+- "How will offerors demonstrate continuity and transition-risk mitigation, given recent turnover of incumbents on comparable recompetes?"
+- "How will cited past performance be validated for relevance at the size and services scope of this effort, as opposed to prototyping or integration heritage on much larger, differently scoped programs?"
+
+## Ghosting Library
+
+### G1 - Independence from the systems under test
+
+- Ghost: "Offerors should identify any organizational conflicts of interest arising from their production, integration, or ownership of the hardware or command-and-control systems relevant to this effort, and describe how their mitigation approach preserves objective, independent test, evaluation, and engineering advice to the Government throughout the period of performance."
+- Targets: W1
+- Proof: PP7
+
+### G2 - Continuity and transition risk on recompete
+
+- Ghost: "Offerors should describe how they will ensure continuity and stability of engineering support across the full period of performance, including dedicated, named key personnel and a transition approach that mitigates risk where prior efforts have experienced incumbent turnover."
+- Targets: W4
+- Proof: PP8
+
+### G3 - Program insulation from corporate reorganization
+
+- Ghost: "Offerors should describe how this effort will be insulated from organizational restructuring, executive transition, or portfolio realignment on the offeror's side, and demonstrate the governance and dedicated resourcing that keep senior management attention and staffing stable throughout performance."
+- Targets: W5
+- Proof: PP12
+
+### G4 - Resident engineering presence at the Government test site
+
+- Ghost: "Offerors should demonstrate an established, currently staffed engineering presence at or near the Government test site, including resident headcount, cleared personnel on site, and facilities available at contract start, rather than reliance on a distributed corporate footprint or a prototyping team managed from elsewhere."
+- Targets: W6
+- Proof: PP4
+
+### G5 - Dedicated resourcing independent of a contracting portfolio
+
+- Ghost: "Offerors should demonstrate that the resources, reach-back, and investment committed to this effort are dedicated and durable, and not subject to reduction as the offeror repositions or contracts other parts of its business."
+- Targets: W3
+- Proof: PP1
+
+## Pricing Posture
+
+Facts: SAIC is a ~$7.3B prime running an adjusted EBITDA margin near 9.7%, a services-weighted margin profile lower than product-heavy primes and consistent with a labor-driven integrator [S3]. FY2026 revenue declined ~3% and FY2027 was guided to a further decline, with management pairing the revenue cut to procurement delays and unfavorable award decisions against a promise of higher margins through efficiency [S3]. Judgment, labeled as such: a prime of this size typically wraps higher than a focused mid-size services firm on labor-rate-driven test, SETA, and mission-engineering competitions, so SAIC is most beatable where evaluated price turns on the burdened rate. A company defending margin while shrinking may bid disciplined rather than buy-in on labor-driven recompetes, but could price aggressively to hold flagship incumbencies (Redstone S3I, space sustainment) it cannot afford to lose. We hold no documented rate intelligence on SAIC's engineering-services entities. (needs internal input: wrap-rate or evaluated-price observations from any shared competitions on OASIS/OASIS+, AMCOM EXPRESS, Redstone vehicles, or the Air Force and space enterprises.)
+
+## Win/Loss vs Us
+
+<!-- AUTO-GENERATED at build time from winloss/ records. Optional prose
+below the marker adds context; leave empty otherwise. -->
+
+## Intel & Proof Points
+
+### PP1 - Scale and a contracting top line
+
+SAIC reported FY2025 (year ended 2025-01-31) revenue of $7.48B with 3.1% organic growth, and FY2026 (ended 2026-01-30) revenue of $7.26B, down ~3%, with adjusted EBITDA of $708M (9.7% margin) [S1][S3]. Management set initial FY2027 guidance at roughly $7.0-7.2B, a 2-4% decline, and FY2027 Q1 (ended 2026-05-01) revenue was $1.91B [S3][S4]. The company employs ~24,000 people and runs two segments, Defense and Intelligence and Civilian, from Reston, VA [S2].
+
+### PP2 - Redstone AvMC S3I incumbency
+
+In April 2021 SAIC won two DEVCOM AvMC Software, Simulation, Systems Engineering and Integration (S3I) Directorate awards through GSA OASIS and Army Contracting Command-Redstone: an $800M five-year modeling-and-simulation systems-engineering contract (live-virtual-constructive M&S, MBSE, missile-defense and multi-domain system-of-systems), and a $3.6B eight-year contract (plus a six-month option) for engineering services supporting hardware-in-the-loop and M&S development, performed primarily in Huntsville [S10][S11].
+
+### PP3 - AMCOM EXPRESS and Software Engineering Directorate heritage
+
+SAIC holds the Army AMCOM EXPRESS (Expedited Professional and Engineering Support Services) BPA and was awarded an approximately $757M single-award task order under it (2015) for Systems and Computer Resources Support to the AMRDEC Software Engineering Directorate at Redstone Arsenal [S12].
+
+### PP4 - HOPE 2.0 AF TENCAP prototyping
+
+In June 2025 SAIC was awarded HOPE 2.0, a $928M five-year contract (July 2025 start) providing RDT&E mission-engineering services to Air Force Tactical Exploitation of National Capabilities (AF TENCAP), producing near-program-of-record prototypes and integrating IC and DoD capabilities across roughly 65 agencies and commands, partnering with a dozen-plus traditional and nontraditional firms [S13].
+
+### PP5 - COBRA CJADC2 digital engineering
+
+In November 2025 SAIC secured COBRA (Collaborative Operations for Battlespace Resilient Architecture), a $1.4B five-year task order to accelerate CJADC2 modernization through digital engineering, rapid prototyping and quick-reaction capabilities, test and evaluation, modeling-and-simulation, and command-and-control integration across all domains [S14].
+
+### PP6 - Space Force and SDA footprint
+
+SAIC holds GMASS, a $574M Space Systems Command ground-based radar maintenance and sustainment contract (Upgraded Early Warning Radars and PARCS, Colorado Springs, through March 2030), a $390M systems-engineering-and-integration task order for the Space Force, and the SDA PWSA Tranche 3 program-integration contract ($55M, 2025 start) [S15].
+
+### PP7 - Navy propulsion test and torpedo hardware
+
+SAIC won a Navy propulsion-test-facility operate-maintain-upgrade contract (~$242M) and produces the MK48 Mod 7 heavyweight-torpedo afterbody and fuel tank, an initial ~$123.7M award with potential total value up to ~$1.1B, giving it both Navy test-facility operations and torpedo hardware content [S17].
+
+### PP8 - Lost the CASTLE-NET recompete and protest
+
+In 2026 SAIC lost the $1.4B CASTLE-NET contract (Army Corps of Engineers IT, cybersecurity, and information-management modernization) to Accenture Federal Services; GAO denied SAIC's protest on 2026-05-19. SAIC had been the incumbent under the predecessor Revolutionary Information Technology Services task order it won in 2021, and because CASTLE-NET is a task order it could not escalate to the Court of Federal Claims [S18].
+
+### PP9 - Excluded from and lost protest over a $972M Air Force M&S competition
+
+In 2025 the Air Force removed incumbent SAIC from competition for an approximately $972M modeling-and-simulation services contract because SAIC did not have the highest score on the two-part self-scoring methodology; GAO denied SAIC's protest in July 2025. The award (to Northrop) was later reopened in December 2025 over conflict-of-interest allegations [S19]. GAO's FY2025 data show 1,688 protests filed and a 14% sustain rate, a hard environment in which to overturn an award [S27].
+
+### PP10 - Federal-contractor ranking slippage
+
+Trade coverage reports SAIC dropping to roughly 11th among federal contractors after losing a major DoD IT vehicle recompete and divesting non-core lines; its FY2023 federal contract obligations were about $5.64B per USAspending-derived figures (secondary source, not verified against primary FPDS) [S20].
+
+### PP11 - CEO transition
+
+SAIC removed CEO Toni Townes-Whitley "without cause" on 2025-10-23 after two years, and appointed former Leidos CFO James (Jim) Reagan interim CEO, made permanent effective 2026-02-17 [S6].
+
+### PP12 - Five-into-three reorganization
+
+Effective 2026-01-31 SAIC consolidated five business groups into three: Army-Navy (ANG), Air Force / Space and Intelligence (AFSI), and Civilian, a restructuring management framed as simplifying structure and sharpening focus [S7].
+
+### PP13 - Pivot away from enterprise IT
+
+In 2026 SAIC declared a partial pivot away from commodity enterprise IT (about 10% of the company) toward "mission IT" and engineering, including systems engineering and technical assistance and mission-planning networks, a repositioning led by CEO Reagan [S8].
+
+### PP14 - SilverEdge acquisition
+
+SAIC agreed in October 2025 to acquire SilverEdge Government Solutions from Godspeed Capital for $205M in cash, adding cybersecurity, software, and AI capability (including the SOAR SaaS suite and the MynAI agentic-AI product) serving the Intelligence Community and DoD [S21].
+
+### PP15 - Portfolio history: divestiture and acquisitions
+
+SAIC sold its logistics and supply-chain business (a DLA-facing line) to ASRC Federal for $356M, closing 2023-05-06 with ~240 employees transferring [S22]. Its scale was built by acquiring Engility in 2019 ($2.5B all-stock, roughly doubling intelligence and space revenue) and Unisys Federal in 2020 ($1.2B of enterprise IT) [S23].
+
+### PP16 - Space-ground and cloud heritage with a protest history
+
+SAIC's space-ground franchise traces to the $655M EDIS satellite-ground-systems program at Kirtland and Schriever: Engility won it in January 2019, Peraton's protest was sustained by GAO in June 2019, and SAIC (having acquired Engility) was re-selected in February 2020 [S16]. On the Air Force side SAIC won the $727M Cloud One contract in 2019 and defended it when GAO denied incumbent Leidos's protest after Leidos was disqualified for an organizational conflict of interest [S25].
+
+## Recent Developments
+
+- 2026-06 - Reported FY2027 Q1 (ended 2026-05-01) revenue of $1.91B and raised FY2027 adjusted EBITDA and adjusted-EPS guidance while reiterating revenue and free-cash-flow guidance [S4].
+- 2026-05 - Lost its GAO protest over the $1.4B CASTLE-NET Army Corps of Engineers IT recompete, clearing Accenture Federal Services to proceed [S18].
+- 2026-03 - Reported FY2026 revenue of $7.26B (down ~3%) and set initial FY2027 guidance to a 2-4% decline, citing procurement delays and unfavorable award decisions [S3].
+- 2026-02 - New CEO Jim Reagan detailed a pivot away from commodity enterprise IT toward mission IT and engineering [S8].
+- 2026-01 - Consolidated five business groups into three (ANG, AFSI, Civilian) [S7].
+- 2025-11 - Won the $1.4B COBRA CJADC2 digital-engineering task order [S14].
+- 2025-10 - Removed CEO Toni Townes-Whitley "without cause"; named ex-Leidos CFO Jim Reagan interim CEO; agreed to acquire SilverEdge Government Solutions for $205M [S6][S21].
+- 2025-07 - Lost its GAO protest after being excluded from the ~$972M Air Force modeling-and-simulation competition on self-scoring [S19].
+- 2025-06 - Won HOPE 2.0, the $928M AF TENCAP prototyping and mission-engineering contract [S13].
+
+## Sources
+
+- [S1] SAIC FY2025 full-year results (year ended 2025-01-31): revenue $7.48B, 3.1% organic growth, net income $362M, adjusted EBITDA $710M (9.5%), diluted EPS $7.17, adjusted diluted EPS $9.13, free cash flow $499M - SAIC "Announces Fourth Quarter and Full Fiscal Year 2025 Results" (GlobeNewswire, 2025-03-17) and SEC Form 8-K exhibit 99.1 - https://www.globenewswire.com/news-release/2025/03/17/3043588/0/en/saic-announces-fourth-quarter-and-full-fiscal-year-2025-results.html and https://www.sec.gov/Archives/edgar/data/1571123/000157112325000019/saic031720258kexhibit991.htm (accessed 2026-07-17 via web search; direct fetch blocked, HTTP 403)
+- [S2] SAIC FY2025 Form 10-K (year ended 2025-01-31): ~24,000 employees including 6,000+ active military or veterans; HQ Reston VA; two reportable segments (Defense and Intelligence; Civilian); defense, space, civilian, and intelligence markets - https://www.sec.gov/Archives/edgar/data/1571123/000157112325000022/saic-20250131.htm (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S3] SAIC FY2026 full-year and Q4 results and initial FY2027 guidance (year ended 2026-01-30): revenue $7.26B down ~3%, net income $358M, adjusted EBITDA $708M (9.7%), diluted EPS $7.70, operating cash flow $609M, free cash flow $577M, Q4 revenue $1.75B; FY2027 guidance ~$7.0-7.2B (2-4% decline) cut for procurement delays and unfavorable award decisions - SAIC FY2026 results (GlobeNewswire/investor release, 2026-03-16), GovConWire "SAIC Logs $7.3B Revenue for FY26," and SEC 8-K - https://investors.saic.com/news-releases/news-release-details/saic-announces-fourth-quarter-and-full-fiscal-year-2026-results and https://www.govconwire.com/articles/saic-fy26-results-q4-revenue and https://www.sec.gov/Archives/edgar/data/1571123/000157112326000025/saic031620268kexhibit991.htm (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S4] SAIC FY2027 Q1 results (quarter ended 2026-05-01): revenue $1.91B (~2% total, 0.5% organic adjusted for SilverEdge), net bookings $2.1B (book-to-bill 1.1), net income $115M, adjusted EBITDA $222M (11.6%), diluted EPS $2.61 (adjusted $3.23), free cash flow $118M, raised adjusted EBITDA and adjusted-EPS guidance - SAIC "Announces First Quarter of Fiscal Year 2027 Results" (GlobeNewswire, 2026-06-01) - https://www.globenewswire.com/news-release/2026/06/01/3304209/0/en/saic-announces-first-quarter-of-fiscal-year-2027-results.html (accessed 2026-07-17 via web search)
+- [S5] SAIC Q3 FY2026 results (quarter ended 2025-10-31): revenue $1,866M down 5.6%, backlog ~$23.8B (funded ~$3.8B), net bookings ~$2.2B (book-to-bill 1.2), ~$515M of space/intelligence awards, NP Propulsion Test Facility Torpedoes booking ~$180M, FY2026 adjusted-EPS guidance raised to $9.80-$10.00 - SAIC "Announces Third Quarter of Fiscal Year 2026 Results" (GlobeNewswire, 2025-12-04) and StockTitan - https://www.globenewswire.com/news-release/2025/12/04/3199655/0/en/saic-announces-third-quarter-of-fiscal-year-2026-results.html and https://www.stocktitan.net/news/SAIC/saic-announces-third-quarter-of-fiscal-year-2026-2xua5244u2k0.html (accessed 2026-07-17 via web search)
+- [S6] SAIC CEO transition: Toni Townes-Whitley departed "without cause" 2025-10-23 after two years; former Leidos CFO James (Jim) Reagan named interim CEO, then permanent effective 2026-02-17 - SAIC "Announces CEO Transition" (GlobeNewswire, 2025-10-23), Washington Technology, Defense Daily - https://www.globenewswire.com/news-release/2025/10/23/3172467/0/en/SAIC-Announces-CEO-Transition.html and https://www.washingtontechnology.com/companies/2025/10/saic-parts-ways-ceo-toni-townes-whitley/409034/ and https://www.defensedaily.com/toni-townes-whitley-departs-saic-ex-leidos-cfo-named-interim-chief/business-financial/ (accessed 2026-07-17 via web search)
+- [S7] SAIC organizational changes: five business groups consolidated into three (Army-Navy / ANG; Air Force, Space and Intelligence / AFSI; Civilian), effective 2026-01-31 - SAIC "Announces Organizational Changes..." (GlobeNewswire, 2025-11-13) and StockTitan - https://www.globenewswire.com/news-release/2025/11/13/3187878/0/en/SAIC-Announces-Organizational-Changes-Intended-to-Simplify-Structure-Sharpen-Focus-and-Deliver-Sustainable-Long-Term-Growth-and-Shareholder-Value-Creation.html and https://www.stocktitan.net/news/SAIC/saic-announces-organizational-changes-intended-to-simplify-structure-1det7ctbm2sm.html (accessed 2026-07-17 via web search)
+- [S8] SAIC pivot away from commodity enterprise IT (~10% of the company) toward "mission IT" and engineering (systems engineering, technical assistance, mission-planning networks), led by CEO Reagan - Washington Technology "SAIC plans partial pivot away from enterprise IT" (2026-02) and "SAIC's CEO highlights mission IT, engineering work as priorities" (2026-03) - https://www.washingtontechnology.com/companies/2026/02/saic-plans-partial-pivot-away-enterprise-it/411404/ and https://www.washingtontechnology.com/companies/2026/03/saics-ceo-highlights-mission-it-engineering-work-priorities/412175/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S9] SAIC leadership roster: James (Jim) Reagan (CEO); Prabu Natarajan (EVP and CFO; bio cites ~$7.3B revenue, ~23,000 employees); Ravi Dankanikote (Chief Growth Officer); Vinnie DiFronzo (EVP, AFSI Business Group); Barbara Supplee (EVP, ANG/Navy Business Group); Srini Attili (EVP, Civilian Business Group); Hilary Hageman (EVP, General Counsel) - SAIC leadership pages, GovConWire, Potomac Officers Club - https://www.saic.com/who-we-are/about-saic/leadership and https://www.govconwire.com/articles/prabu-natarajan-named-saic-evp-cfo-nazzic-keene-quoted and https://www.potomacofficersclub.com/prabu-natarajan-evp-and-chief-financial-officer-at-saic/ (accessed 2026-07-17 via web search)
+- [S10] SAIC $800M DEVCOM AvMC S3I modeling-and-simulation systems-engineering contract (2021-04-07; five-year cost-plus-fixed-fee; GSA OASIS; Army Contracting Command-Redstone; LVC M&S, MBSE, missile-defense and multi-domain system-of-systems) - SAIC/BusinessWire, GovConWire (Gabe Camarillo quoted), Intelligence Community News - https://www.businesswire.com/news/home/20210407005544/en/SAIC-Wins-$800-Million-U.S.-Army-Contract-for-Modeling-Simulation-Systems-Engineering and https://www.govconwire.com/articles/saic-receives-800m-army-modeling-simulation-support-contract-gabe-camarillo-quoted and https://intelligencecommunitynews.com/saic-wins-800m-us-army-modeling-and-simulation-engineering-contract/ (accessed 2026-07-17 via web search; contract dates to 2021, verify current recompete status)
+- [S11] SAIC $3.6B DEVCOM AvMC S3I hardware-in-the-loop and M&S development contract (2021-04-07; eight-year plus six-month option; Huntsville; GSA OASIS; HWIL for development/testing of embedded systems, force protection, trainers, virtual/interactive/multimedia systems) - SAIC/BusinessWire, Nextgov/FCW, Army Technology - https://www.businesswire.com/news/home/20210407005581/en/SAIC-Wins-$3.6-Billion-U.S.-Army-Contract-for-Engineering-Services-Supporting-Hardware-in-the-Loop-and-Modeling-Simulation-Development and https://www.nextgov.com/modernization/2021/04/army-awards-saic-4b-modeling-and-simulation-contracts/173203/ and https://www.army-technology.com/news/saic-hwil-modelling-simulation-development-us-army/ (accessed 2026-07-17 via web search; contract dates to 2021, verify current recompete status)
+- [S12] SAIC AMCOM EXPRESS BPA and ~$757M AMRDEC Software Engineering Directorate Systems and Computer Resources Support task order (2015; single-award fixed-price level-of-effort; Redstone Arsenal) - SAIC investor press release, SAIC AMCOM EXPRESS page, Defense Industry Daily - https://investors.saic.com/press-release/contract-awards/saic-awarded-757-million-systems-and-computer-resources-support-task and https://www.saic.com/who-we-serve/contracts-and-schedules/amcom-express-gsa-bpa and https://www.defenseindustrydaily.com/EXPRESS-Yourself-Up-to-848M-to-SAIC-for-US-Army-AMRDEC-Support-05958/ (accessed 2026-07-17 via web search; task order dates to 2015, treat as heritage)
+- [S13] SAIC HOPE 2.0 $928M AF TENCAP prototype-engineering and mission-integration contract (2025-06-25; five-year; July 2025 start; RDT&E mission engineering; near-program-of-record prototypes; ~65 agencies/commands; partners include Raft and Intuitive) - SAIC/GlobeNewswire, Washington Technology, OrangeSlices - https://www.globenewswire.com/news-release/2025/06/25/3105083/0/en/SAIC-Awarded-928-Million-Prototype-Engineering-and-Mission-Integration-Contract.html and https://www.washingtontechnology.com/contracts/2025/06/saic-books-928m-air-force-tech-prototyping-job/406312/ and https://orangeslices.ai/saic-awarded-928-million-air-force-prototype-engineering-and-mission-integration-contract-hope-2-0-contract-will-support-air-force-tencap/ (accessed 2026-07-17 via web search)
+- [S14] SAIC COBRA $1.4B CJADC2 task order (2025-11; five-year; late-2025 start; Collaborative Operations for Battlespace Resilient Architecture; digital engineering, rapid prototyping and quick-reaction capabilities, test and evaluation, modeling-and-simulation, C2 integration across all domains) - GovConWire, Army Technology, The Defense Post, SAIC investor release - https://www.govconwire.com/articles/saic-cobra-cjadc2-task-order and https://www.army-technology.com/news/saic-cobra-task-order/ and https://thedefensepost.com/2025/11/24/saic-cobra-contract-us-innovation/ and https://investors.saic.com/news-releases/news-release-details/saic-secures-14-billion-cobra-task-order-fast-track-warfighting (accessed 2026-07-17 via web search)
+- [S15] SAIC space awards: GMASS $574M Space Systems Command ground-based radar maintenance and sustainment (UEWR and PARCS; Colorado Springs; through 2030-03-24); $390M systems-engineering-and-integration task order for the Space Force; SDA PWSA Tranche 3 Program Integration $55M (2025-05 start) - Space Systems Command media release, Defense Daily, SAIC investor releases, GlobeNewswire - https://www.ssc.spaceforce.mil/Portals/3/RELEASE%20-%20Space%20Systems%20Command%20Awards%20$574%20Million%20Ground%20Based%20Radar%20contract.pdf and https://www.defensedaily.com/u-s-space-force-awards-saic-nearly-575-million-for-ground-based-radar-sustainment/air-force/ and https://investors.saic.com/news-releases/news-release-details/saic-selected-390-million-task-order-provide-systems-engineering and https://www.globenewswire.com/news-release/2025/05/01/3072376/0/en/SAIC-Awarded-New-55-Million-Mission-Integration-Contract-From-Space-Development-Agency.html (accessed 2026-07-17 via web search)
+- [S16] SAIC/Engility $655M EDIS satellite-ground-systems program (Kirtland and Schriever): Engility won January 2019, Peraton protest sustained by GAO June 2019, SAIC re-selected February 2020 - SpaceNews, Washington Technology - https://spacenews.com/u-s-space-force-awards-655m-ground-systems-contract-to-saic-following-legal-battle/ and https://www.washingtontechnology.com/2020/02/saic-again-takes-655m-air-force-space-support-contract/356832/ (accessed 2026-07-17 via web search; 2019-2020 event, cited as heritage)
+- [S17] SAIC Navy work: propulsion-test-facility operate-maintain-upgrade contract (~$242M) and MK48 Mod 7 heavyweight-torpedo afterbody and fuel-tank production ($123.7M initial, potential total up to ~$1.1B) - Seapower Magazine, ExecutiveGov "top SAIC government contracts" - https://seapowermagazine.org/u-s-navy-awards-saic-242m-contract-to-operate-maintain-and-upgrade-propulsion-test-facility/ and https://www.executivegov.com/articles/what-are-the-top-saic-government-contracts (accessed 2026-07-17 via web search)
+- [S18] SAIC lost the $1.4B CASTLE-NET recompete (Army Corps of Engineers IT/cybersecurity/information-management modernization) to Accenture Federal Services; GAO denied SAIC's protest 2026-05-19; SAIC was incumbent under the Revolutionary Information Technology Services task order won 2021; task order, so no Court of Federal Claims escalation - Washington Technology (2026-05), Govly, Washington Technology (2026-02) - https://www.washingtontechnology.com/contracts/2026/05/saic-loses-protest-fight-over-14b-army-contract-it-once-held/413667/ and https://app.govly.com/public/signals/102117 and https://www.washingtontechnology.com/contracts/2026/02/saic-pushes-back-14b-award-went-accenture/411330/ (accessed 2026-07-17 via web search)
+- [S19] SAIC (incumbent) excluded from an ~$972M Air Force modeling-and-simulation competition on two-part self-scoring; GAO denied SAIC's protest July 2025; the award (to Northrop) later reopened December 2025 over conflict-of-interest allegations - Washington Technology (2025-07, 2025-05, 2025-12) - https://www.washingtontechnology.com/contracts/2025/07/saic-loses-protest-over-927m-incumbent-air-force-contract/407141/ and https://www.washingtontechnology.com/contracts/2025/05/incumbent-saic-fights-exclusion-972m-air-force-contract/405430/ and https://www.washingtontechnology.com/contracts/2025/12/air-force-reopens-972m-northrop-contract-after-conflict-interest-allegations/410129/ (accessed 2026-07-17 via web search; headline value cited as $927M in one piece and $972M in others)
+- [S20] SAIC reported dropping to roughly 11th among federal contractors after losing a major DoD IT vehicle recompete and divesting non-core lines; FY2023 federal contract obligations ~$5.64B (USAspending-derived, via secondary source, not verified against primary FPDS) - Fed-Spend, ExecutiveGov - https://fed-spend.com/blog/what-companies-have-us-military-contracts-2026 and https://www.executivegov.com/articles/what-are-the-top-saic-government-contracts (accessed 2026-07-17 via web search; primary FPDS/USAspending not fetched)
+- [S21] SAIC to acquire SilverEdge Government Solutions from Godspeed Capital for $205M cash (announced 2025-10-06; cybersecurity, software, AI; SOAR SaaS suite and MynAI agentic-AI; Intelligence Community and DoD) - SAIC/GlobeNewswire, GovConWire, The Daily Record - https://www.globenewswire.com/news-release/2025/10/06/3162093/0/en/SAIC-to-Acquire-SilverEdge-Government-Solutions.html and https://www.govconwire.com/articles/saic-silveredge-acquire-godspeed-robert-miller and https://thedailyrecord.com/2025/10/15/saic-acquires-silveredge-205-million-ai-cybersecurity/ (accessed 2026-07-17 via web search; close date not pinned)
+- [S22] SAIC divested its logistics and supply-chain management business (a DLA-facing line) to ASRC Federal for $356M cash, closing 2023-05-06, with ~240 employees transferring and a preliminary pre-tax gain of $233M - SAIC SEC Form 8-K (FY2023) and SAIC FY2023 results - https://www.sec.gov/Archives/edgar/data/1571123/000157112323000070/exhibit99141.htm and https://investors.saic.com/news-releases/news-release-details/saic-announces-fourth-quarter-and-full-fiscal-year-2023-results (accessed 2026-07-17 via web search)
+- [S23] SAIC acquisitions: Engility ($2.5B all-stock including $900M assumed debt; completed 2019-01-14; ~$6.5B pro-forma revenue; roughly doubled intelligence and space revenue) and Unisys Federal ($1.2B; completed 2020-03-13; enterprise-IT modernization/cloud for civilian agencies and DoD) - Defense News, Breaking Defense, BusinessWire, ChannelE2E - https://www.defensenews.com/industry/2018/09/10/saic-subsumes-engility-in-25b-deal/ and https://breakingdefense.com/2019/01/saic-engility-merger-doubles-intel-space-revenue-downplays-vehicles/ and https://www.businesswire.com/news/home/20200316005217/en/SAIC-Completes-Acquisition-of-Unisys-Federal and https://www.channele2e.com/news/saic-buys-unisys-federal-it-services-unit (accessed 2026-07-17 via web search)
+- [S24] SAIC 2013 corporate origin: old SAIC, Inc. split into Leidos Holdings and "New SAIC" (SAIC Gemini), spin-off completed 2013-09-27 with one New-SAIC share per seven Leidos shares; New SAIC took the technical, engineering, and enterprise-IT services business; the split was driven by organizational-conflict-of-interest limits and reportedly expanded addressable market by ~$25B; Anthony Moraco was first SAIC CEO - WashingtonExec, Control Engineering, Leidos anniversary page, Wikipedia - https://washingtonexec.com/2013/09/saic-inc-and-leidos-holdings-inc-split-official-by-sept-27-2013/ and https://www.controleng.com/saic-inc-announces-split-into-saic-and-leidos-to-better-target-services/ and https://www.leidos.com/50th-anniversary-2013-saic-split and https://en.wikipedia.org/wiki/Science_Applications_International_Corporation (accessed 2026-07-17 via web search)
+- [S25] SAIC $727M Air Force Cloud One contract (won 2019; GAO denied incumbent Leidos's protest after Leidos was disqualified for an organizational conflict of interest via a proposed subcontractor; SAIC to migrate ~800 Air Force and Army applications to the cloud) - FedScoop, Washington Technology - https://fedscoop.com/saic-cloud-one-contract-leidos/ and https://washingtontechnology.com/blogs/editors-notebook/2019/12/saic-tops-leidos-air-force-cloud.aspx (accessed 2026-07-17 via web search; 2019 event, cited as heritage)
+- [S26] SAIC TSA Operational Test and Evaluation services ~$100M recompete (forecast) - GovConWire - https://www.govconwire.com/articles/tsa-saic-100m-recompete-contract-ote-forecast (accessed 2026-07-17 via web search)
+- [S27] GAO FY2025 Bid Protest Annual Report context: 1,688 protests filed, 53 sustained, 14% sustain rate, 52% effectiveness rate - GAO report GAO-26-900695 and Crowell & Moring analysis - https://www.gao.gov/products/gao-26-900695 and https://www.crowell.com/en/insights/client-alerts/2025-gao-bid-protest-annual-report-where-have-all-the-protests-gone (accessed 2026-07-17 via web search; GAO full text not retrieved)
+- [S28] SAIC contract vehicles: OASIS+ Unrestricted awardee (December 2024), legacy GSA OASIS Unrestricted (the vehicle used for the AvMC S3I awards), and GSA MAS/schedules - SAIC OASIS+ page, GovConWire, Washington Technology, GSA - https://www.saic.com/who-we-serve/contracts-and-schedules/gsa-oasis-plus and https://www.govconwire.com/articles/gsa-2nd-group-oasis-plus-unrestricted-contract-awardees and https://www.washingtontechnology.com/contracts/2024/12/gsa-unveils-initial-group-28-oasis-unrestricted-winners/401539/ (accessed 2026-07-17 via web search; GSA MAS holding inferred from SAIC contracts-and-schedules page, which was not fetchable this session)
