@@ -1,0 +1,245 @@
+---
+id: torch-technologies
+name: Torch Technologies
+slug: torch-technologies
+aliases: [Torch]
+tier: 1
+status: draft
+relationship: competitor
+owner: "CI Owner"
+last_reviewed: 2026-07-17
+approved_by: null
+approved_date: null
+example: false
+markets: [modeling-simulation, test-evaluation, systems-engineering, software-engineering, missile-defense, rdte-support, seta-advisory, aviation-engineering]
+agencies: [army-devcom, army-amcom, army-smdc, mda, usaf-aftc]
+vehicles: [gsa-mas, rs3, amcom-express, agency-idiq]
+size: large
+set_asides: []
+parent: Starfish Holdings, Inc.
+jv_partners: []
+hq: "Huntsville, AL"
+revenue_est: "not disclosed (private ESOP); third-party estimates $580M-$965M (2023-2024, est.)"
+employees_est: "~1,300-1,500 (2025-2026, est.)"
+website: "https://www.torchtechnologies.com"
+external_ids: {}
+---
+
+## Overview
+
+Torch Technologies is a 100% employee-owned engineering-services company founded in Huntsville in October 2002 by Bill Roark and Don Holder; it sits under ESOP holding company Starfish Holdings alongside Freedom Real Estate & Capital and SIMVANA, and reorganized as a public benefit corporation in 2023 [S1][S2][S24][S29]. Its core business is modeling & simulation, hardware-in-the-loop (HWIL) test, weapons analysis, systems engineering, and RDT&E advisory support, with self-declared primary customers of Army AMCOM and the Missile Defense Agency [S1][S2]. The franchise position is the DEVCOM AvMC S3I directorate at Redstone, where in May 2021 it took three OASIS task orders worth nearly $2.9B: $1.065B HWIL Systems-of-Systems, $1.1B HWIL Missile, and $722M M&S for aviation and missile systems [S3][S4][S5][S6]. It has opened a second front in our USAF test-enterprise home turf, holding the $474.9M TMAS2 Tenants task order for the 96th Test Wing at Eglin and a $186M TMAS Armament task order spanning Eglin and Kirtland [S7][S8]. Headcount is roughly 1,300 to 1,500 (est.), with Washington Technology ranking it #60 on the Top 100 [S26][S34]; offices include Huntsville, Shalimar (FL), Albuquerque, Colorado Springs, Aberdeen, Boston, Detroit, Honolulu, and Patuxent River, with employee-owners at Kwajalein and in Egypt [S1][S2]. This is our most direct size-and-lane peer: same town, same customers (AvMC/AMCOM, MDA, SMDC, and now AFTC), same mid-size prime strategy, same labor pool.
+
+## Threat Summary
+
+Torch hurts us most where Redstone M&S and HWIL incumbency decides the evaluation: they own the S3I simulation franchise through 2028 on two seven-year, billion-dollar task orders, and they keep winning adjacent ACC-Redstone awards, most recently a $195.5M R&D contract for acquisition-lifecycle capability evaluation (January 2026) [S3][S4][S10]. At MDA they ride the TEAMS/TEAMS-Next family as prime and sub, so we meet them across missile-defense M&S, test, and analysis task orders [S14][S15]. The newer and more dangerous move is into the Air Force test enterprise: TMAS2 Tenants at the 96th Test Wing and TMAS Armament A&AS at Eglin and Kirtland put them inside AFTC scopes we consider anchor territory, and AFTC has signaled a follow-on Technical & Management Support Services award to them [S7][S8][S36]. They compound this with an employee-ownership story (retention "well over 90%") that plays well with evaluators worried about staffing continuity, and their task-order wins have survived protests from Huntsville peers [S1][S17][S18]. Expect them head-on at every AvMC/AMCOM, SMDC, and MDA services competition we prime, and increasingly at Eglin.
+
+## Their Discriminators
+
+- Incumbent ownership of the DEVCOM AvMC S3I HWIL and M&S environment: the customer's simulation facilities and model baselines are run by their team under multi-year task orders [S3][S4][S6].
+- The employee-ownership narrative: 100% ESOP since 2011, retention claimed well over 90%, NCEO Top-100 employee-owned ranking, and a "private forever" public-benefit-corporation posture that customers read as workforce stability [S1][S24][S25].
+- Twenty-plus years of continuous missile and aviation M&S past performance with the same Redstone customer community, plus protest-tested source-selection wins [S1][S17][S18].
+- Vehicle breadth for a mid-size: legacy OASIS Full & Open pools 1, 3, 4, 5A, 5B, 6 and SB pools, RS3, AMCOM EXPRESS BPA, GSA MAS, DoD IAC MAC Pool 1, and SMDC D3I Domain 2 [S12][S13][S20][S21][S22][S23].
+- Local-employer goodwill in Huntsville (and now the Eglin community, where their Air Force Weapons Group lead chairs local defense-industry bodies) [S30].
+
+## Strengths
+
+- Near-$2.9B May 2021 sweep of the S3I franchise: $1.065B HWIL Systems-of-Systems and $1.1B HWIL Missile task orders (seven-year PoPs) plus the $722M M&S Aviation and Missile Systems task order (five-year PoP), all executed primarily in Huntsville [S3][S4][S5][S6].
+- Fresh Redstone capture momentum: $195.5M FFP/T&M R&D award for evaluating system capabilities and enhancements across the acquisition lifecycle, awarded January 14, 2026 with completion January 2031 [S10]; a $17M aviation PM-shop mod followed in May 2026 [S11].
+- Established beachhead in the USAF test enterprise: $474.9M TMAS2 Tenants task order supporting 96th Test Wing tenant organizations at Eglin (five-year PoP begun October 1, 2021) and the $186M TMAS Armament A&AS task order at Eglin and Kirtland [S7][S8][S9]; AFTC has published intent to award them a follow-on five-year TMSS A&AS contract [S36].
+- MDA relationship running since at least 2016 ($62.8M A&AS/TEAMS Test Provisioning prime) and continuing across the TEAMS/TEAMS-Next family as prime and subcontractor [S14][S15].
+- SMDC/ARSTRAT position via the D3I Domain 2 multiple-award IDIQ ($504M ceiling; work in Huntsville and Colorado Springs), including a wargames/simulation task order [S13][S35].
+- Prime seat on the DoD IAC MAC ($33B ceiling, Pool 1, awarded December 5, 2024), a broad R&D order channel through FY2027 [S12].
+- Workforce magnet: 100% ESOP, retention claimed well over 90%, repeat best-workplace awards, NCEO #72 (2025) [S1][S25].
+- Orderly, deep succession bench: founder-to-CEO-to-president transitions executed 2019, 2023, and 2026 without outside hires [S27][S28][S29][S31].
+- R&D reach-back beyond its size via a February 2026 partnership with Oak Ridge National Laboratory for rapid prototyping [S32].
+
+## Weaknesses
+
+### W1 — Revenue concentrated in one customer community
+
+Their own materials name Army AMCOM and MDA as the primary customers, and every headline award since 2021 traces to ACC-Redstone or Redstone-adjacent commands (AvMC S3I, SMDC, AMCOM PM shops) [S1][S2][S3][S6][S10]. Wikipedia and company profiles list Navy and Air Force work as secondary [S2]. A Redstone budget squeeze, an S3I insourcing move, or a single franchise loss hits them much harder than a diversified peer; they have nothing documented at NASA, Space Force, or the Navy test enterprise to fall back on.
+
+### W2 — Marquee positions are single task orders on an expiring vehicle, entering recompete windows
+
+The HWIL and M&S franchises are OASIS task orders (the awards are titled "S3I OASIS HWIL") [S3][S4], and their OASIS position is on GSA's legacy Full & Open/SB pools [S20]. The $722M M&S task order's five-year PoP dates from May 2021, and the TMAS2 Tenants five-year PoP began October 1, 2021, so both franchises hit recompete in the 2026 window [S6][S7]; the two HWIL orders run out around 2028 [S3][S4]. Follow-ons must land on successor vehicles, and public materials do not show an OASIS+ position for them (needs internal input: confirm their OASIS+ status via GSA award data). AFTC's stated intent to award them the TMSS follow-on partially closes this at Eglin [S36], but the Army M&S recompetes are live capture targets.
+
+### W3 — Thin prime altitude at MDA relative to JV-armed peers
+
+Their documented MDA prime award is a $62.8M A&AS contract from 2016 [S14]; their own contracts page describes TEAMS/TEAMS-Next participation as "prime and subcontractor" without naming current prime segments [S15]. The big TEAMS-Next segments went to purpose-built JVs and large primes: Specialized Engineering Analyses to nTSI (nou Systems + MTSI, $637M), Systems Test Support to Mobius-Parsons ($567M), Agency Operations to VetTech LLC (~$348M), and PP&A to Strategic Alliance Solutions ($361M) [S16]. At MDA they likely feed on subcontract share rather than owning the franchise (needs internal input: which TEAMS-Next primes they sub to and at what workshare).
+
+### W4 — The Air Force expansion is recent and modest in scale
+
+Their TMAS Armament release says the task order "adds approximately 100 Torch employees" in Shalimar and Albuquerque [S8]. The Air Force Weapons Group is headquartered in Shalimar with employee-owners scattered across seven other cities, and was stood up under an SVP promoted in February 2023 [S30]. Against incumbents with decades of AFTC A&AS history and thousands of cleared staff across Eglin and Edwards, their local bench and AFTC-specific past performance are shallow, and their first TMAS2 wins date only to late 2021 [S7][S8].
+
+### W5 — Founder-era leadership handoff still settling
+
+Since 2019 the top structure has been reshuffled repeatedly: Watson took Torch president/CEO in the January 2019 transition, Roark moved to Starfish CEO and later stepped down to chairman as Watson took the Starfish CEO seat, Walker became Torch president effective January 1, 2023, and a new EVP layer was created in May 2026 [S27][S28][S29][S31]. Each step has been orderly, but the operating company is now led by executives one or two steps removed from the founders while the founder generation exits (judgment: relationship capital with legacy Redstone customers may be aging out with them).
+
+## Our Counter-Positioning
+
+- Time captures to W2. The $722M S3I M&S recompete and any AFTC follow-ons that escape sole-source intent are the openings; get white papers and customer touchpoints in now, and force vehicle questions (successor-vehicle status, continuity plans) into industry days.
+- At Eglin and Kirtland (W4), run up the score on presence: our AFTC bench, badge-in-hand headcount, and test-wing past performance dwarf a roughly 100-person expansion group. Make local staffing density, AFTC CPARS relevance, and surge-in-place scored discriminators.
+- At MDA (W3), position our prime credentials against their sub posture: require prime-executed past performance and disclosed workshare. Consider blocking teaming: if they need a prime to ride, make sure it is not against us.
+- Against the S3I fortress (W1 flip side), do not assault HWIL head-on; win the wrap-around scopes (independent analysis, T&E, software modernization) and position for breadth: we bring cross-service test-enterprise practice (USAF, Navy, MDA, NASA) they cannot cite [S2].
+- Neutralize the ESOP story rather than fight it: put named key personnel, program-level retention data, and transition-in hiring commitments on the table so continuity is evidence-based, not narrative-based (needs internal input: our program retention stats).
+- Recruit-defend in Huntsville: they draw from our exact labor pool with an ownership pitch; flag any pursuit where incumbent capture of our staff is plausible.
+
+## Objection Handling
+
+(Anticipated pushback, team judgment; replace with actual field feedback as it accumulates.)
+
+- **They say:** "Their people never leave; employee-owners give us continuity." **We say:** Continuity is measurable, so score it: ask every offeror for program-level retention on the cited contracts and the named key personnel who will actually sit here. We commit named people with tenure records, not a corporate average (needs internal input: our retention figures).
+- **They say:** "The incumbent team built these simulations; anyone else is transition risk." **We say:** The models, facilities, and data are government property the incumbent operates, not owns. Ask for the data-rights inventory, then evaluate transition plans on evidence. We have executed incumbent-capture transitions of this size (needs internal input: cite specific transitions).
+- **They say:** "They are the hometown favorite with twenty years here." **We say:** We are headquartered in the same town with a comparable local workforce; longevity with one directorate is not breadth. Our team brings practices from the Air Force, Navy, and MDA test enterprises that a single-community incumbent has never had to develop.
+- **They say:** "They can take this work on half a dozen vehicles." **We say:** Vehicle count matters less than where this requirement will actually be placed and who holds that vehicle with capacity; ask offerors to confirm their position on the successor vehicle and their continuity plan if the order must move.
+- **They say:** "They win protests; their wins stick." **We say:** That cuts both ways: their wins draw protests from every peer because margins are thin. The discriminating question is current, scope-relevant past performance, not litigation history.
+
+## Trap-Setting Questions
+
+- "What percentage of proposed key personnel are currently resident and badged at the government site of performance, and how long has each supported this specific customer?"
+- "Can offerors cite past performance executed as the prime contractor, of comparable scope, within this agency in the last five years, and disclose prime-versus-subcontractor workshare on cited efforts?"
+- "What is the offeror's plan for order continuity if the incumbent contract vehicle expires or the follow-on is placed on a successor vehicle the offeror does not hold?"
+- "How many of the offeror's staff supporting this customer community can surge to this effort without degrading their other contracts with the same customer?"
+- "Describe experience delivering comparable engineering and test services across at least three distinct DoD customer communities, and how that cross-enterprise experience will be applied here."
+- "What data rights and configuration control will the government hold over models, simulations, and tools developed or modified under this effort?"
+
+## Ghosting Library
+
+### G1 — Established on-site test-enterprise bench
+
+- Ghost: "Offerors should demonstrate an established, currently staffed presence at the government test site, including on-site headcount, cleared personnel available at award, and the fraction of proposed key personnel already resident and badged at contract start."
+- Targets: W4
+- Proof: PP4
+
+### G2 — Breadth beyond a single customer community
+
+- Ghost: "Offerors should describe past performance delivering comparable engineering, modeling and simulation, and test support across multiple service and agency customer communities, and how enterprise reach-back beyond a single geographic customer base will sustain performance through funding disruptions."
+- Targets: W1
+- Proof: PP10
+
+### G3 — Vehicle and transition continuity
+
+- Ghost: "Offerors should identify the contract vehicle basis of cited incumbent efforts, the expiration dates of those vehicles and orders, and their plan to ensure uninterrupted support if follow-on requirements are placed on a successor vehicle."
+- Targets: W2
+- Proof: PP2
+
+### G4 — Prime-executed past performance
+
+- Ghost: "Offerors should distinguish between efforts performed as the responsible prime contractor and efforts performed as a subcontractor when citing past performance in this mission area, including the scope, workshare, and management responsibilities actually held."
+- Targets: W3
+- Proof: PP8
+
+## Pricing Posture
+
+No wrap-rate or evaluated-price intel is documented. Known facts: their January 2026 ACC-Redstone award is firm-fixed-price/time-and-materials [S10], and in the one public price comparison we have, the Army chose their roughly $10M quote over a competitor's $9M offer on lower performance risk, a decision upheld at the Court of Federal Claims [S18]; that is evidence they can win best-value trade-offs without price-leading. Judgment, labeled as such: a 100% S-corp ESOP with no outside shareholders typically carries a lean cost structure and prices at or below mid-market on labor-rate competitions, and their ownership pitch lets them sell lower fee as "owner discipline." Treat them as rate-competitive but not LPTA buy-in players until data says otherwise. (needs internal input: rate observations from shared AMCOM EXPRESS, OASIS, or RS3 task-order competitions.)
+
+## Win/Loss vs Us
+
+## Intel & Proof Points
+
+### PP1 — S3I HWIL franchise: two task orders totaling ~$2.17B
+
+DEVCOM AvMC S3I awarded Torch the HWIL Systems-of-Systems Development, Integration and Testing task order at $1.065B and the HWIL Missile task order at $1.1B, both with seven-year periods of performance, executed primarily in Huntsville, announced May 2021; both awards ride OASIS [S3][S4][S5].
+
+### PP2 — S3I M&S Aviation and Missile Systems, $722M
+
+Torch was awarded a $722M task order from DEVCOM AvMC S3I for Modeling & Simulation Aviation and Missile Systems, five-year period of performance, announced May 14, 2021; five years puts the recompete window in 2026 [S6][S5].
+
+### PP3 — TMAS2 Tenants at Eglin, $474.9M
+
+The Air Force Test Center awarded Torch the TMAS2 Tenants task order (~$475M; reported $474.9M) for advisory and assistance services to 96th Test Wing tenant organizations at Eglin AFB, with a five-year period of performance beginning October 1, 2021 [S7].
+
+### PP4 — TMAS Armament at Eglin and Kirtland, $186M, ~100 local staff
+
+Torch won a $186M OASIS TMAS Armament task order providing A&AS supporting aerospace RDT&E at AFTC, with a 4+ year period of performance, work primarily at Eglin AFB and Kirtland AFB; their release states it "adds approximately 100 Torch employees" in Shalimar, FL and Albuquerque, NM (contract FA248622F1001; the number indicates a FY2022 placement) [S8][S9]. AFTC has since published intent to award Torch a follow-on five-year Technical & Management Support Services A&AS contract [S36].
+
+### PP5 — $195.5M ACC-Redstone R&D award, January 2026
+
+Torch was awarded a $195,451,542 firm-fixed-price and time-and-materials contract for R&D evaluating system capabilities and enhancements throughout the acquisition lifecycle; estimated completion January 13, 2031; Army Contracting Command Redstone Arsenal is the contracting activity; announced in the January 14, 2026 DoD contracts digest with $6.2M FY26 O&M obligated at award [S10].
+
+### PP6 — DoD IAC MAC Pool 1 prime, $33B ceiling
+
+Torch received a prime seat on Pool 1 of the DoD Information Analysis Center Multiple Award Contract on December 5, 2024 ($33B program ceiling, ordering through September 29, 2027, contracted by AFICA 774 ESS at Offutt AFB), giving them a broad DoD R&D task-order channel [S12].
+
+### PP7 — SMDC D3I Domain 2 position
+
+Torch holds a seat on the SMDC/ARSTRAT Design, Development, Demonstration and Integration (D3I) Domain 2 multiple-award IDIQ ($504M program ceiling; five-year base plus two two-year options; work primarily in Huntsville and Colorado Springs; awarded 2016 with COLSA, CybEx, MEI, Team SdA, and Decisive Analytics also awarded), and has won task orders on it including a $10M Wargames, Simulation & Scenario Development order reported in 2025 [S13][S35].
+
+### PP8 — MDA posture: legacy prime, current prime-and-sub on TEAMS family
+
+Torch won a $62.8M MDA advisory and assistance services contract in September 2016 (five-year PoP; described by the company as TEAMS Test Provisioning) [S14], and its contracts page describes TEAMS/TEAMS-Next participation as prime and subcontractor [S15]. The major TEAMS-Next segments are held by others: nTSI JV $637M Specialized Engineering Analyses (February 2023), Mobius-Parsons $567M Systems Test Support (July 2021), VetTech LLC ~$348M Agency Operations (August 2024), Strategic Alliance Solutions $361M PP&A [S16].
+
+### PP9 — Their Redstone wins survive protests from Huntsville peers
+
+GAO dismissed Intuitive Research & Technology's protest of the Army's FSS task order to Torch for AMRDEC technical research support (TORFQ 2018T-01; B-416820, 2018) after Systems Studies & Simulation took the same fight to the Court of Federal Claims [S17][S19]; separately, COFC upheld a roughly $10M Army task order to Torch for PD Aviation Networks and Mission Planning support over protester Quantum Research, which had offered about $9M [S18].
+
+### PP10 — Concentration and ownership profile
+
+Torch's own profile names Army AMCOM and MDA as primary customers, with Navy and Air Force work secondary [S1][S2]. Scale: roughly 1,300-1,500 employees per third-party trackers (company materials say 1,100+ employee-owners) and third-party revenue estimates of $580M-$965M for 2023-2024 (no audited public figure; private ESOP) [S1][S2][S34]; Washington Technology ranks them #60 on its Top 100, their eighth consecutive year on the list [S26]. 100% ESOP (established 2004, fully employee-owned by end of 2011), public benefit corporation since 2023, retention claimed well over 90%, NCEO #72 (2025) [S1][S24][S25].
+
+### PP11 — Leadership succession chain
+
+January 2019: John Watson became Torch president & CEO while co-founder Bill Roark moved to CEO of parent Starfish Holdings [S27]. January 1, 2023: Brad Walker promoted to Torch president as Watson shifted to Starfish leadership (named Starfish president in 2023) [S28]. Subsequently Roark stepped down as Starfish CEO to chairman and Watson was promoted to Starfish CEO [S29]. February 1, 2023: Sam Burkett promoted to SVP leading the Air Force Weapons Group (Shalimar HQ; 30+ years at Eglin; chairs local defense-community bodies) [S30]. May 6, 2026: Brady Porter promoted to EVP (joined 2004; previously SVP of the Advanced Concept Engineering Group; background in enterprise applications assessing Missile Defense System performance) [S31].
+
+### PP12 — ORNL partnership for prototyping reach-back
+
+In February 2026 Torch and Oak Ridge National Laboratory launched a partnership aimed at rapid prototyping and scalable national-security solutions, extending their R&D depth beyond in-house staff [S32].
+
+### PP13 — Vehicle portfolio
+
+Legacy GSA OASIS Full & Open Pools 1, 3, 4, 5A, 5B, 6 plus SB pools [S20]; RS3 ($37.4B Army C5ISR services MA-IDIQ) [S21]; AMCOM EXPRESS BPA (used for the AMRDEC-era $163M WDI technical and engineering services task order) [S22]; GSA MAS schedule 47QRAD20DU406 [S23]; DoD IAC MAC Pool 1 [S12]; SMDC D3I Domain 2 [S13]. No OASIS+ position appears in public materials reviewed to date [S20] (needs internal input: verify against GSA OASIS+ awardee data).
+
+### PP14 — Aviation PM-shop incumbency with FMS content
+
+May 2026: $17M modification for technical services support to the Army PM Aviation Mission Systems & Architecture, performed at Redstone Arsenal through May 23, 2027; obligated funding mixes FY2010 FMS funds with FY2025/FY2026 Aircraft Procurement Army, indicating foreign-military-sales content in their aviation portfolio [S11].
+
+## Recent Developments
+
+- 2026-05-06 — Brady Porter promoted to executive vice president, a new senior layer under president Brad Walker [S31].
+- 2026-05 — $17M modification for Army PM Aviation Mission Systems & Architecture technical services at Redstone (completion May 2027) [S11].
+- 2026-02 — Partnership with Oak Ridge National Laboratory announced for mission-relevant rapid prototyping [S32].
+- 2026-01-15 — MDA completed its third SHIELD tranche (340 more awardees; 2,440 total seats on the $151B Golden Dome-aligned IDIQ). Torch's participation is not confirmed in public reporting reviewed; SHIELD is where much MDA follow-on work will flow (needs internal input: check SHIELD awardee list for them and for us) [S33].
+- 2026-01-14 — $195.5M ACC-Redstone FFP/T&M R&D award for acquisition-lifecycle capability evaluation, running to January 2031 [S10].
+- 2025-12 — MDA SHIELD tranches one and two awarded (1,014 then 1,086 seats) [S33].
+- 2025 — Ranked #72 on NCEO's Top 100 employee-owned companies list, their fourth appearance [S25].
+- 2025 (reported) — Won the $10M D3I Domain 2 Wargames, Simulation & Scenario Development task order at SMDC [S35].
+- 2024-12-05 — Prime seat on DoD IAC MAC Pool 1 ($33B ceiling, through September 2027) [S12].
+
+## Sources
+
+- [S1] Torch Technologies company profile page (100% employee-owned; founded October 2002; S-corp ESOP 2011; primary customers AMCOM and MDA; retention well over 90%; employee-owner locations incl. Kwajalein and Egypt) — http://www.torchtechnologies.com/company/company-profile/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S2] Wikipedia: Torch Technologies (founded 2002 by Bill Roark and Don Holder; ESOP steps from 2005, 100% by ~2010; 1,100+ employee-owners; offices Aberdeen, Albuquerque, Boston, Colorado Springs, Detroit, Honolulu, Patuxent River, Shalimar; customers AMCOM, MDA, plus Navy and Air Force) — https://en.wikipedia.org/wiki/Torch_Technologies (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S3] Torch news: "Torch Awarded S3I OASIS HWIL SoS Task Order" ($1.065B, DEVCOM AvMC S3I, seven-year PoP) — https://torchtechnologies.com/news/torch-awarded-s3i-oasis-hwil-sos-task-order/ (accessed 2026-07-17 via web search)
+- [S4] Torch news: "Torch Awarded S3I OASIS HWIL Missile Task Order" ($1.1B, seven-year PoP) — https://torchtechnologies.com/news/torch-awarded-s3i-oasis-hwil-missile-task-order/ (accessed 2026-07-17 via web search)
+- [S5] Yellowhammer News: "Huntsville-based Torch Technologies rakes in nearly $3 billion in military contracts" (May 2021 award cluster) — https://yellowhammernews.com/huntsville-based-torch-technologies-rakes-in-nearly-3-billion-in-military-contracts/ (accessed 2026-07-17 via web search)
+- [S6] Huntsville Business Journal, 2021-05-14: "Torch Awarded $722M Aviation And Missile Systems Task Order" (M&S, five-year PoP, S3I); also Yellowhammer News coverage of the $722M award — https://huntsvillebusinessjournal.com/news/2021/05/14/torch-awarded-722m-aviation-and-missile-systems-task-order/ and https://yellowhammernews.com/huntsville-based-torch-technologies-awarded-722m-u-s-army-contract/ (accessed 2026-07-17 via web search)
+- [S7] Torch news: "Torch Awarded TMAS2 Tenants Task Order" (~$475M, reported $474.9M; AFTC A&AS for 96th Test Wing tenant organizations at Eglin AFB; five-year PoP beginning 2021-10-01) — https://torchtechnologies.com/news/torch-awarded-tmas2-tenants-task-order/ (accessed 2026-07-17 via web search)
+- [S8] Starfish Holdings news: "Torch Technologies Wins $186M Technical and Management Advisory Services (TMAS) Armament Task Order" (AFTC RDT&E A&AS; 4+ year PoP; ~100 employees added in Shalimar, FL and Albuquerque, NM; work at Eglin AFB and Kirtland AFB) — https://starfishholdings.com/torch-technologies-wins-186m-technical-and-management-advisory-services-tmas-armament-task-order/ (accessed 2026-07-17 via web search)
+- [S9] HigherGov contract record FA248622F1001 (Torch task order under OASIS IDV GS00Q14OADS737, Eglin contracting office) — https://www.highergov.com/contract/GS00Q14OADS737-FA248622F1001/ (accessed 2026-07-17 via web search)
+- [S10] DoD contracts digest for January 14, 2026 (GlobalSecurity mirror) and trade coverage: $195,451,542 FFP/T&M R&D contract, ACC-Redstone, completion 2031-01-13, $6,205,768 FY26 O&M obligated — https://www.globalsecurity.org/military/library/news/2026/01/dod-contracts_4379809.htm and https://news.clearancejobs.com/2026/01/14/torch-technologies-lands-195m-army-rd-contract/ and https://orangeslices.ai/torch-technologies-wins-196m-army-acquisition-lifecycle-system-capabilities-enhancements-evaluation-support-contract/ (accessed 2026-07-17 via web search)
+- [S11] 256 Today and RocketCityNow coverage: $17M contract modification for Army PM Aviation Mission Systems & Architecture technical services, Redstone Arsenal, completion 2027-05-23, funding incl. $850,333 FY2010 FMS, $2,888,554 FY2025 APA, $13,237,733 FY2026 APA (May 2026) — https://256today.com/huntsvilles-torch-technologies-lands-17-million-army-aviation-support-contract/ and https://www.rocketcitynow.com/article/news/local/torch-technologies-awarded-17m-army-contract-for-aviation-systems-support/525-71f7cbdb-9a33-4e22-877f-b83022db9365 (accessed 2026-07-17 via web search)
+- [S12] Torch news: "Torch Technologies Awarded IAC MAC Prime Contract" and 256 Today: "$33B information analysis prime contract" (DoD IAC MAC Pool 1, awarded 2024-12-05, ordering through 2027-09-29, AFICA 774th ESS Offutt AFB) — https://torchtechnologies.com/news/torch-technologies-awarded-iac-mac-prime-contract/ and https://256today.com/torch-technologies-awarded-33b-information-analysis-prime-contract-from-dod/ (accessed 2026-07-17 via web search)
+- [S13] Army.mil: "D3I Domain 2 contract awarded" (2016); SMDC D3I award information sheet; Torch D3I Domain 2 contract page ($504M ceiling MA-IDIQ, five-year base + two two-year options, Huntsville and Colorado Springs; co-awardees COLSA, CybEx, MEI Technologies, Team SdA, Decisive Analytics) — https://www.army.mil/article/162671 and https://www.smdc.army.mil/Portals/38/Documents/SBO/D3I_Award_Information.pdf and https://torchtechnologies.com/contracts/d3i-domain-2/ (accessed 2026-07-17 via web search)
+- [S14] Washington Technology, September 2016: "Torch Technologies wins $62.8M advisory, assistance contract" (MDA, five-year PoP); Starfish Holdings news: "Torch Wins $62M TEAMS Test Provisioning Contract" — https://www.washingtontechnology.com/2016/09/torch-technologies-wins-628m-advisory-assistance-contract/322092/ and https://starfishholdings.com/torch-wins-62m-teams-test-provisioning-contract/ (accessed 2026-07-17 via web search)
+- [S15] Torch contracts page: MDA TEAMS ("prime and subcontractor" on the TEAMS and TEAMS Next family) — https://www.torchtechnologies.com/contracts/mda-teams/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S16] TEAMS-Next segment awards to others: MTSI/nou Systems release on nTSI JV $637M Specialized Engineering Analyses (announced 2023-02-10); Army Technology on Mobius-Parsons $567M Systems Test Support (July 2021); OrangeSlices on VetTech LLC Agency Operations (~$348M, 2024-08) and on Strategic Alliance Solutions $361M PP&A — https://www.mtsi-va.com/ntsi-a-nou-systems-mtsi-joint-venture-wins-637m-mda-specialized-engineering-analyses-contract/ and https://www.army-technology.com/news/mps-us-mda-teams-next-systems-test-support/ and https://orangeslices.ai/jv-wins-348m-mda-contract/ and https://orangeslices.ai/contract-award-361m-mda-teams-next-program-planning-and-acquisition-ppa/ (accessed 2026-07-17 via web search)
+- [S17] GAO bid protest B-416820, Intuitive Research and Technology Corporation (protest of Army FSS task order TORFQ 2018T-01 to Torch for AMRDEC technical research support; dismissed 2018 due to parallel COFC litigation) — https://www.gao.gov/products/b-416820 (accessed 2026-07-17 via web search)
+- [S18] Bloomberg Law: "Torch Keeps $10 Million Army Support Order, Court Says" (COFC denied Quantum Research International's protest of an Army task order to Torch for PD Aviation Networks and Mission Planning support; Quantum offered ~$9M vs Torch ~$10M, Army chose lower non-performance risk) — https://news.bloomberglaw.com/federal-contracting/torch-keeps-10-million-army-support-order-court-says (accessed 2026-07-17 via web search; article date not retrieved, circa 2018-2019)
+- [S19] Justia: System Studies & Simulation, Inc. v. United States, Court of Federal Claims No. 1:2018cv01494 (protest under the same AMRDEC solicitation; docketed 2018, opinion 2019) — https://law.justia.com/cases/federal/district-courts/federal-claims/cofce/1:2018cv01494/37631/32/ (accessed 2026-07-17 via web search)
+- [S20] Torch news: "Torch Awarded OASIS Full & Open Pools 1, 3, and 4" (position now spans F&O Pools 1, 3, 4, 5A, 5B, 6 plus SB Pools 5A, 5B, 6) — https://torchtechnologies.com/news/torch-awarded-oasis-full-open-pools-1-3-and-4/ (accessed 2026-07-17 via web search)
+- [S21] Torch RS3 contract page (holder on the $37.4B, multiple-award Army RS3 C5ISR knowledge-based services IDIQ) — https://sandbox.torchtechnologies.com/contracts/rs3/ (accessed 2026-07-17 via web search)
+- [S22] Torch EXPRESS contract page (AMCOM EXPRESS BPA holder) and Torch news: "$163M WDI Technical and Engineering Support Services Task Order" (AMRDEC Weapons Development & Integration, under AMCOM Express) — https://torchtechnologies.com/contracts/express/ and https://www.torchtechnologies.com/torch-technologies-wins-163m-wdi-technical-and-engineering-support-services-task-order (accessed 2026-07-17 via web search)
+- [S23] Torch GSA Schedules page; GSA eLibrary listing for contract 47QRAD20DU406 — https://torchtechnologies.com/contracts/gsa-schedules/ and https://www.gsaelibrary.gsa.gov/ (accessed 2026-07-17 via web search)
+- [S24] Torch news: "Torch Becomes Public Benefit Corporation" (2023; committed to remaining private and employee-owned) — https://torchtechnologies.com/news/torch-becomes-public-benefit-corporation/ (accessed 2026-07-17 via web search)
+- [S25] Torch news: "Torch Technologies Ranked #72 on NCEO's 2025 Employee Ownership Top 100 List" (fourth appearance; ESOP established 2004; 100% employee-owned by end of 2011) — https://torchtechnologies.com/news/torch-technologies-ranked-72-on-nceo%E2%80%99s-2025-employee-ownership-top-100-list/ (accessed 2026-07-17 via web search)
+- [S26] Torch news: Washington Technology Top 100 for the eighth consecutive year (#60); Washington Technology company rank page for Torch — https://torchtechnologies.com/news/duplicate-of-torch-makes-washington-technology-top-100-government-contractors-list-for-seventh-consecutive-year/ and https://www.washingtontechnology.com/rankings/company/228/top-100/2023/ (accessed 2026-07-17 via web search)
+- [S27] Torch news: "Torch Technologies Promotes Watson to President and CEO as Roark Moves into Starfish Holdings CEO Role"; Huntsville Business Journal, 2019-01-04 (Watson president since 2013) — https://torchtechnologies.com/news/torch-technologies-promotes-watson-to-president-and-ceo-as-roark-moves-into-starfish-holdings-ceo-role/ and https://huntsvillebusinessjournal.com/news/2019/01/04/watson-named-torch-president-ceo-roark-is-ceo-of-starfish-holdings/ (accessed 2026-07-17 via web search)
+- [S28] 256 Today: "Torch Technologies' Watson and Walker promoted" (Walker to Torch president effective 2023-01-01; Watson toward Starfish leadership); Business Alabama: "Torch Technologies leader adds parent company president to title" — https://256today.com/torch-technologies-watson-and-walker-promoted/ and https://businessalabama.com/torch-technologies-leader-adds-parent-company-president-to-title/ (accessed 2026-07-17 via web search)
+- [S29] Starfish Holdings news: "Starfish Holdings Announces Changes to Management Team" (Roark stepped down as Starfish CEO to chairman; Watson promoted to Starfish CEO; Starfish parent of Torch, Freedom Real Estate & Capital, and SIMVANA); Business Alabama: "John Watson named CEO of Starfish Holdings" — https://starfishholdings.com/starfish-holdings-announces-changes-to-management-team/ and https://businessalabama.com/john-watson-named-ceo-of-starfish-holdings/ (accessed 2026-07-17 via web search)
+- [S30] Torch news: "Promotion of Sam Burkett to Torch Senior Vice President" (effective 2023-02-01; leads Air Force Weapons Group, HQ Shalimar FL, staff in Albuquerque, Dayton, Boston, Hampton, Las Vegas, Montgomery, San Antonio; 30+ years at Eglin; president of Gulf Coast NDIA, chairman of Emerald Coast Military Affairs Council) — https://torchtechnologies.com/news/promotion-of-sam-burkett-to-torch-senior-vice-president/ (accessed 2026-07-17 via web search)
+- [S31] Torch news: "Torch Technologies Names Brady Porter Executive Vice President" (2026-05-06; joined 2004; previously SVP, Advanced Concept Engineering Group; expertise in enterprise applications assessing Missile Defense System performance); 256 Today coverage — https://www.torchtechnologies.com/news/torch-technologies-names-brady-porter-executive-vice-president/ and https://256today.com/torch-technologies-promotes-brady-porter-to-executive-vice-president/ (accessed 2026-07-17 via web search)
+- [S32] Torch news: "Torch Technologies and ORNL Launch Partnership to Accelerate Mission-Relevant Innovation for National Security" (February 2026) — https://www.torchtechnologies.com/news/torch-technologies-and-ornl-launch-partnership-to-accelerate-mission-relevant-innovation-for-national-security/ (accessed 2026-07-17 via web search)
+- [S33] MDA SHIELD coverage: GovCon Wire on tranche awards (2025-12-02: 1,014 awardees; 2025-12-18: +1,086; 2026-01-15: +340; 2,440 total; $151B ceiling, 10-year); Breaking Defense on the second tranche — https://www.govconwire.com/articles/mda-1086-second-tranche-shield-awards and https://www.govconwire.com/articles/mda-340-spots-shield-contract and https://breakingdefense.com/2025/12/mda-adds-1086-firms-to-its-shield-pool-for-golden-dome-related-tech/ (accessed 2026-07-17 via web search)
+- [S34] Third-party size and revenue estimates (no audited public figures; private ESOP): RocketReach ($405.4M revenue, 1,332 employees; dated), Revelio Labs (1,451 employees), GetLatka ($965M 2024 / $715M 2023, est.), Growjo ($580.4M, est.) — https://rocketreach.co/torch-technologies-inc-profile_b5cf693cf42e0a2c and https://www.reveliolabs.com/companies/torch/employees/ and https://getlatka.com/companies/torch-technologies-inc and https://growjo.com/company/Torch_Technologies (accessed 2026-07-17 via web search)
+- [S35] Torch news feed listing (item: $10M D3I Domain 2 Wargames, Simulation & Scenario Development task order, reported 2025) — https://torchtechnologies.com/news/ (accessed 2026-07-17 via web search)
+- [S36] OrangeSlices AI: "US Air Force Test Center to award Technical & Management Support Services contract to Torch Technologies" (intent-to-award notice for five-year follow-on A&AS supporting AFTC RDT&E) — https://orangeslices.ai/us-air-force-test-center-to-award-technical-management-support-services-contract-to-torch-technologies/ (accessed 2026-07-17 via web search; notice date not retrieved)

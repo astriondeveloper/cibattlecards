@@ -24,6 +24,8 @@ markets:
   - modeling-simulation
   - aviation-engineering
   - counter-uas
+  - electronic-warfare
+  - enterprise-it
 
 agencies:
   - usaf-aftc
@@ -38,6 +40,14 @@ agencies:
   - army-amcom
   - army-smdc
   - army-peo-stri
+  - army-peo-c3t
+  - usaf-afotec
+  - navy-nrl
+  - navy-niwc
+  - usmc
+  - sda
+  - dia
+  - dla
   - mda
   - darpa
   - nasa
@@ -57,6 +67,10 @@ vehicles:
   - agency-idiq
   - astro
   - amcom-express
+  - oasis-sb
+  - oasis-unrestricted
+  - ites-3s
+  - ota-consortium
 
 set_asides:
   - small-business

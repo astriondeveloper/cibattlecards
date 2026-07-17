@@ -3,6 +3,43 @@
 Drafted: 2026-07-17. Collection method: public web search plus page fetches
 through the sandbox proxy. All access dates are 2026-07-17.
 
+## Verification pass (2026-07-17, second session)
+
+A follow-up session re-checked the sources flagged below via independent web
+searches (direct fetches of gao.gov, prnewswire.com, govconwire.com,
+usaspending.gov, and api.usaspending.gov still blocked/403 this session):
+
+- S3 CONFIRMED: FY2025 10-K Technologies revenue $13,471M, operating earnings
+  $1.28B, 9.5% margin; two units GDIT + Mission Systems. The ~40,000-employee
+  figure is confirmed on GD's own Technologies segment page ("nearly 40,000")
+  — added as S31.
+- S4 CONFIRMED: FY2025 company revenue $52.6B; Technologies book-to-bill 1.2x.
+  Additional color seen: Q4 2025 Technologies revenue was flat YoY with lower
+  operating earnings.
+- S13 CONFIRMED: MUOS sustainment maximum potential value $2.2B for the US
+  Space Force, per FY2024 10-K.
+- S16 CONFIRMED: B-416181 denied; GDMS (Fairfax, VA) protested rejection of
+  its proposal under RFP W56KGY-17-R-0026; new detail: GDMS bid $202.2M; Army
+  assessed 8 demonstration tasks with a weakness, 6 with a significant
+  weakness (Washington Technology coverage added as S30).
+- S25 CORRECTED: the first draft said Technologies FY2024 operating earnings
+  fell ~2%; that figure was wrong (likely a Q4-only number). FY2024
+  Technologies revenue was $13.1B (+1.6%) with margin up ~30 bps, carried by
+  GDIT's fourth consecutive growth year offsetting a slight Mission Systems
+  revenue decline. Card W2 and S25 rewritten accordingly.
+- Q1 2026 (S5) CONFIRMED: Technologies $3.6B (+4.2%), Mission Systems +11.7%,
+  C5ISR +$125M on space portfolio and international; call commentary
+  attributes Mission Systems growth to pivot toward strategic deterrence,
+  unmanned systems, space, and cyber. Q1 2026 Form 10-Q URL added to S5:
+  https://www.sec.gov/Archives/edgar/data/0000040533/000004053326000012/gd-20260405.htm
+- GAO docket re-search: still no GDMS-named protests after B-416181 (2018).
+  GD-family protest activity 2024-2025 is under GDIT (e.g. B-422421.6/.7 on
+  Air Force FA489023R0013; docket B-423216.1 on Navy N0018925RZ020) — sibling
+  unit, not GDMS, so not put on the card.
+- USAspending/FPDS gap REMAINS: api.usaspending.gov egress-blocked (CONNECT
+  403) and usaspending.gov 403 in both sessions. Prime-obligation totals by
+  agency still needed before promoting the card past draft.
+
 ## Collection constraints (record of what could not be verified directly)
 
 - Direct fetches of gdmissionsystems.com, gd.com, wikipedia.org, gao.gov,
@@ -144,13 +181,18 @@ through the sandbox proxy. All access dates are 2026-07-17.
     https://www.defensedaily.com/contract-awards/contract-award-general-dynamics-mission-systems-inc-scottsdale-arizona-39307155/
     and https://www.war.gov/News/Contracts/Contract/Article/4367503/ —
     accessed 2026-07-17 (via search results).
-25. GD Q4/FY2024 results (2025-01-29) and 2024 Annual Report PDF — slight
-    revenue decline at Mission Systems amid transition from legacy work to
-    new growth lines; Technologies FY2024 revenue $12.9B (+3.4%), operating
-    earnings down ~2% —
+25. GD Q4/FY2024 results (2025-01-29), 2024 Annual Report PDF, and FY2024
+    Form 10-K — slight revenue decline at Mission Systems amid transition
+    from legacy work to new growth lines; GDIT's fourth consecutive growth
+    year offset it; Technologies FY2024 revenue $13.1B (+1.6%), margin up
+    ~30 bps. (First-draft figures "$12.9B (+3.4%), earnings down ~2%" were
+    wrong and corrected in the verification pass; $12.9B was the FY2023
+    base.) —
     https://www.gd.com/Articles/2025/01/29/general-dynamics-reports-fourth-quarter-and-full-year-2024-financial-results
     and
     https://s22.q4cdn.com/891946778/files/doc_financials/2024/ar/2024-Annual-Report-General-Dynamics-Corporation.pdf
+    and
+    https://www.sec.gov/Archives/edgar/data/40533/000004053325000008/gd-20241231.htm
     — accessed 2026-07-17 (via search results).
 26. Cummings Research Park tenant listing (GDMS, 6000 Technology Drive NW,
     Huntsville, AL) and Manta directory listing (est. 100-249 employees at
@@ -172,6 +214,18 @@ through the sandbox proxy. All access dates are 2026-07-17.
     contract (held via GDIT) —
     https://www.gd.com/en/Articles/2018/12/17/navy-awards-general-dynamics-seaport-nxg-contract
     — accessed 2026-07-17 (via search results).
+30. Washington Technology (July 2018) — "General Dynamics loses shot at
+    lucrative Army intelligence system": GDMS DCGS-A CD1 bid $202.2M under
+    RFP W56KGY-17-R-0026; GAO found 8 demonstration-task weaknesses and 6
+    significant weaknesses; decision cleared Raytheon and Palantir to
+    continue test-fix-test —
+    https://www.washingtontechnology.com/2018/07/general-dynamics-loses-shot-at-lucrative-army-intelligence-system/357635/
+    — accessed 2026-07-17 (via search results).
+31. GD corporate site, Technologies segment page — segment comprises GDIT
+    and Mission Systems, "nearly 40,000" technologists, engineers and
+    mission experts, many with high-level clearances —
+    https://www.gd.com/our-businesses/technologies — accessed 2026-07-17
+    (via search results).
 
 ## Taxonomy notes
 

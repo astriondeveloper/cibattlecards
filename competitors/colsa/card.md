@@ -1,0 +1,246 @@
+---
+id: colsa
+name: COLSA Corporation
+slug: colsa
+aliases: [COLSA, COLSA Corp]
+tier: 1
+status: draft
+relationship: competitor
+owner: "CI Owner"
+last_reviewed: 2026-07-17
+approved_by: null
+approved_date: null
+example: false
+markets: [seta-advisory, rdte-support, test-evaluation, systems-engineering, software-engineering, cyber, c5isr, space-operations, missile-defense, modeling-simulation, autonomy]
+agencies: [army-amcom, army-devcom, army-smdc, mda, usaf-aftc, usaf-afmc, nasa]
+vehicles: [amcom-express, oasis-plus, gsa-mas, seaport-nxg, agency-idiq]
+size: large
+set_asides: []
+parent: null
+jv_partners: []
+hq: "Huntsville, AL"
+revenue_est: "not disclosed (private, family-owned); third-party estimates $250M-$360M (2024-2026, est.)"
+employees_est: "~1,100-1,500 (2025-2026, est.)"
+website: "https://www.colsa.com"
+external_ids: {}
+---
+
+## Overview
+
+COLSA Corporation is a private, family-owned engineering and IT services firm founded in Huntsville in 1980 by Francisco J. Collazo, a Puerto Rico-born veteran of more than 30 years in the U.S. Army, who remains chairman [S1][S31]. Third-party trackers put it at roughly 1,100-1,500 employees and $250M-$360M revenue (est.), with capability lines in systems and software engineering, cyber and information warfare, data science, uncrewed systems, and federal support/enterprise IT services [S2][S3]. Its center of gravity is Redstone: an AMCOM EXPRESS BPA, a DEVCOM AvMC S3I technical-management task order worth up to $342M, an SMDC D3I Domain 2 seat, MDA Advanced Research Center support running back to 2007, and DIA scientific-computing work at Redstone Arsenal under a $217.4M ten-year IDIQ [S4][S5][S7][S8][S10]. Off Redstone it holds the NASA Shared Services Center franchise at Stennis (the $400M NTSS contract taken from GDIT in 2023), subs to CACI on NASA's $2B NCAPS IT contract, supports Space Force space electronic warfare through the Bounty Hunter program it has served since 2011, and keeps an Eglin foothold dating to the TAMS/TMAS era [S22][S23][S24][S11][S13]. We collide across our anchor accounts: Redstone A&AS task orders (EXPRESS, S3I, SMDC, MDA), the USAF test enterprise (where it currently subs to us on the $543M TMAS2 96 CTG order we prime), NASA, and Space Force operational support [S14]. The through-line is a 45-year relationship franchise that has lately lost its marquee primes (NASA MSFC operations in 2022, the AFTC C4ISR prime seat in 2021) and backfilled with business-services wins and subcontract revenue [S21][S14][S22].
+
+## Threat Summary
+
+COLSA hurts us most in Redstone A&AS competitions decided on incumbent relationships and price: EXPRESS task orders, S3I technical management, SMDC D3I, and MDA/DIA analysis and computing scopes where they have been resident for decades [S4][S5][S7][S8][S10]. They are proven takeaway artists in our neighborhood: they took the Missile Defense and Space Systems project-office support order (which picked up Long Range Hypersonic Weapon scope) off incumbent Sigmatech in 2019, and took the NASA Shared Services Center off GDIT in 2023, surviving protests both times [S6][S22]. In space operations they hold a 14-year operational relationship with the Bounty Hunter defensive space control mission, positioning them for USSF space-EW growth we also want [S24]. At AFTC the threat is graduation: they sub to us on 96 CTG today, know the 45th Test Squadron mission-planning test work first-hand, and have two decades of Eglin A&AS history to cite when the next round competes [S12][S13][S14]. Expect them at essentially every Redstone services pursuit we run, usually with a lean-priced, locally recruited offer and a long-tenured customer-facing bench.
+
+## Their Discriminators
+
+- Forty-five years of continuous Redstone presence: Army missile/space commands since 1980, National Small Business Prime Contractor of the Year in 1988 with nominations from three separate Army organizations [S1][S33].
+- A rare, sticky scientific-computing/HPC franchise supporting DIA at Redstone Arsenal (Missile and Space Intelligence Center community), renewed as a ten-year, $217.4M IDIQ in 2021 [S10].
+- Space electronic warfare operations incumbency: continuous support to the Bounty Hunter defensive space control system since 2011, spanning development, operations, and worldwide sustainment [S24].
+- The NASA enterprise business-services franchise (NSSC at Stennis) — a NASA-wide back-office position no other Huntsville services rival holds [S22].
+- Vehicle breadth for a mid-tier: OASIS+ Unrestricted plus an OASIS+ small-business R&D domain award, AMCOM EXPRESS BPA, SeaPort-NxG, GSA MAS, D3I Domain 2, and agency IDIQs at DIA and NIWC Pacific [S27][S4][S28][S7][S10][S26].
+- Compliance signaling: CMMC Level 2 with a perfect 110 score (assessed August 2025) and ISO/IEC 27001 certification, which they market as discriminators for CUI-heavy work [S32].
+
+## Strengths
+
+- Redstone A&AS incumbency stack: AMCOM EXPRESS prime BPA (W31P4Q-18-A-0019, on the ACC-RSA prime list as of December 2024) [S4]; DEVCOM AvMC S3I Technical Management Support task order worth up to $342M awarded July 20, 2021 [S5]; SMDC D3I Domain 2 seat (information integration and data exploitation) [S7].
+- Missile-defense analysis pedigree: MDA Advanced Research Center support from 2007, extended in 2017 and re-won as a ~$168M follow-on IDIQ in March 2020; TEAMS ITMA subcontract on the Five Stones Research team ($50.1M) [S8][S9].
+- Protest-tested takeaway wins: the MDSS project-office order taken from incumbent Sigmatech (GAO denied the protest, 2019) and the Eglin TAMS 3 award upheld over Madison Research (GAO, 2005) [S6][S13].
+- DIA scientific computing at Redstone: $217.4M ten-year IDIQ (August 2021, three offerors competed), following a $103M predecessor from 2016 [S10].
+- NASA breadth beyond Huntsville: $400M NTSS single-award FFP IDIQ at the NSSC (June 2023, ~8.75-year PoP, serving ~80,000 NASA personnel), taken from long-time incumbent GDIT/CSRA, whose protest was withdrawn [S22]; significant subcontractor to CACI on the $2B NCAPS IT task order (June 2024) [S23].
+- Space Force operational franchise: Bounty Hunter Support Services EWAAC task order (April 2025) for the defensive space control system they have supported since 2011; work in Colorado Springs, Huntsville, and worldwide operational sites [S24].
+- AFTC/Eglin history: TAMS 3 prime from 2005, TMAS C4ISR prime task order FA2486-16-F-0031 with a $69.6M modification in October 2018 covering RDT&E and acquisition support at Eglin and other bases; today their Mission Planning Training Team supports the 45th Test Squadron [S13][S11][S12].
+- Growing Navy/USMC and cyber lines: $59.4M NIWC Pacific Tactical Data Link Systems IDIQ (ordering May 2026-May 2031) [S26]; $37.6M SeaPort-NxG MCIOC information-operations task at Quantico [S25]; seven-year, $569M-ceiling TStorm advanced cyber operations contract (August 2016) under which they claim the first Army-approved drone swarm [S30].
+- Fresh vehicle position: OASIS+ Unrestricted awardee announced December 17, 2024, plus an OASIS+ small-business award in the R&D domain [S27].
+
+## Weaknesses
+
+### W1 — Marquee prime franchises lost this decade
+
+Their two flagship positions eroded in quick succession. At NASA MSFC, the HOSC ground-systems franchise they had primed since 2012 (re-won April 2017, $196M ceiling) was consolidated into MOSSI/MOSSI II and awarded away — first to KBR-owned SGT in 2020, then to Teledyne Brown Engineering in September 2022 ($596.5M mission services plus $85M IDIQ), a takeaway from incumbents COLSA and Teledyne Brown [S20][S21]. At AFTC, their TMAS C4ISR prime seat was succeeded by the TMAS2 96 CTG order won by us (Oasis Systems, $543M, April 6, 2021) with them relegated to subcontractor [S11][S14]. What replaced this revenue is business-process services (NSSC) and subcontract share, which carry less past-performance weight for engineering-services evaluations [S22][S23].
+
+### W2 — Documented procurement-integrity embarrassment at NASA
+
+GAO sustained Teledyne Brown's protest of the $651.6M MOSSI award on September 24, 2020 (B-418835) because a NASA source-evaluation-board leader attended weekly dinner-and-foosball gatherings that included a high-level COLSA official while the procurement was live; COLSA was the predecessor prime and a major subcontractor to awardee SGT, NASA's own ethics counsel had recommended intervention, and GAO found the appearance of impropriety irredeemable, recommending cancellation of both the award and the RFP [S19]. No wrongdoing finding attached to the company itself, but the episode is public, well-reported in procurement law circles, and permanently associates their relationship-driven capture style with OCI risk [S19].
+
+### W3 — Flat growth and a narrow customer base in a consolidating market
+
+Industry analysis describes their headcount as effectively flat over two years, with a federal footprint concentrated in DoD customers (Air Force, Army, MDA, Navy) plus NASA and almost no other federal-civilian business [S30]. Their Washington Technology Top 100 rank drifted from #68 (2019) to #79 (2021) and #76 (2022) [S29], and third-party revenue estimates cluster at $250M-$360M with 1,100-1,500 staff — mid-tier scale without a mid-tier growth story [S2]. They built earlier growth partly on small-business set-asides (D3I Domain 2 was an SB set-aside in 2016; the 2020 EPASS MQ-9 order they chased was competed among OASIS-SB holders) and now compete as a large business against far bigger primes without that pricing shelter [S7][S17].
+
+### W4 — Founder-era, family-owned governance with unresolved succession
+
+The company is still chaired by its 1980 founder, whose Army career predates the company's founding by three decades; public profiles variously list him as chairman, CEO, and head of a family holding entity, and there is no announced succession plan [S1][S31]. A COO layer (Eric Briggs) was added only recently to "support company growth," alongside a new SVP of Space Solutions [S31]. Judgment, labeled as such: key relationships and sign-off authority appear concentrated in a founder generation that must transition soon, and a private family sale or recapitalization is a live wildcard for every long-PoP pursuit they bid. (needs internal input: confirm current CEO/president and any known ownership-transition activity.)
+
+### W5 — Cannot win Air Force A&AS prime seats outside legacy turf
+
+Their EPASS record is losses and protests: in 2016 GAO denied their protest after the Air Force rated their proposal technically unacceptable in an LPTA award to Odyssey Systems [S16]; in 2020 their protest of the ~$248M EPASS MQ-9 A&AS order (FA8622-20-F-8236) was dismissed within a month [S17]. Their current EPASS position is as a significant subcontractor to Applied Research Solutions on the $1.22B EPASS 73 order (began February 1, 2025) [S18], and their AFTC test-enterprise roles are subcontracts to us on 96 CTG and to Bevilacqua Research on the $270M TMAS Platforms team [S14][S15]. Outside Eglin-legacy scopes, their Air Force growth rides other primes' paper.
+
+## Our Counter-Positioning
+
+- Score currency and altitude (W1, W5): in any AFTC, MSFC-adjacent, or engineering-services evaluation, push for prime-executed, last-five-years past performance of comparable scope. Their strongest recent primes are business services (NSSC) and their engineering franchises are dated or subordinated; ours are current and prime.
+- Own the 96 CTG relationship (W1): they see our TMAS2 96 CTG execution from below. Protect workshare boundaries, control customer-facing key personnel, and treat the recompete as an incumbent-defense with a known insider challenger. (needs internal input: current COLSA workshare and positions on our 96 CTG order.)
+- At Redstone, do not fight the relationship head-on; fight the evidence: 45 years of presence is not 45 years of relevant scope. Force evaluations toward specific, recent, prime task-order performance in the exact directorate (S3I, MDSS, SMDC), where their record is a handful of orders, not a wall [S5][S6][S7].
+- Exploit the growth story (W3): where evaluators weigh corporate capacity, investment, and reach-back, contrast our ~3,000-person, multi-enterprise base and cross-service test practice with a flat, single-region firm. Make surge, hiring pipelines, and corporate investment scored items.
+- Let the integrity record speak through process ghosting (W2): never mention the episode by name; instead, make OCI mitigation plans, procurement-integrity training, and disclosure regimes evaluated deliverables. Their public history does the rest.
+- Watch the succession seam (W4): a family sale or founder transition would disrupt key-personnel commitments and teaming loyalties mid-PoP. Track leadership announcements; position us as the stable landing spot for their program staff if turbulence hits.
+- At NASA, concede nothing at MSFC: they no longer hold the HOSC/MOSSI franchise [S21]. For MSFC engineering scopes, treat them as a non-incumbent with aging past performance; our MSFC work is the current reference point. (needs internal input: our MSFC contract inventory to cite.)
+
+## Objection Handling
+
+(Anticipated pushback, team judgment; replace with actual field feedback as it accumulates.)
+
+- **They say:** "They've been at Redstone for 45 years — they know this customer better than anyone." **We say:** Longevity is not incumbency on this scope. Ask what they prime today in this directorate and when they last executed comparable work as the responsible prime; then compare current, scope-relevant CPARS. We are headquartered in the same town with a comparable local bench and current prime performance.
+- **They say:** "They're the low-cost hometown option — family company, no investors to feed." **We say:** Evaluate price realism against staffing and retention commitments. A flat-headcount firm pricing lean has to recruit into the same Huntsville labor market as everyone else; ask where the people come from and what programs they leave. (needs internal input: our rate position on shared vehicles.)
+- **They say:** "They took NSSC from GDIT — they can beat the big primes." **We say:** That win was enterprise back-office services (finance, HR, procurement), not engineering. For technical scopes, look at what they have won as prime since 2021 in this mission area — and note their test-enterprise and MSFC engineering franchises went to other companies at recompete.
+- **They say:** "They're already on the team supporting this customer." **We say:** As a subcontractor. Ask for prime-versus-sub workshare and management responsibility on every cited effort. Riding another prime's paper is not managing the mission.
+- **They say:** "Their compliance posture is spotless — perfect CMMC score." **We say:** We meet the same bar (needs internal input: confirm our CMMC/ISO status and score to state this precisely). Certification is table stakes; ask all offerors for program-level security performance, not corporate certificates.
+
+## Trap-Setting Questions
+
+- "Which contracts of comparable scope has the offeror performed as the responsible prime contractor within this customer community in the past five years, and what were the recompete outcomes of its three largest incumbent contracts?"
+- "What percentage of the proposed work will be performed by the offeror as prime versus by subcontractors, and what management authorities does the offeror actually hold on cited past-performance efforts?"
+- "Describe the offeror's organizational-conflict-of-interest identification and mitigation program, including how contacts between company personnel and government officials are governed during active procurements."
+- "Provide the offeror's net headcount growth over the past three years and the hiring pipeline that will staff this effort without drawing down other programs for the same customer."
+- "Describe corporate ownership, governance, and leadership-continuity plans over the full period of performance, including commitments should a change of control occur."
+- "Describe experience delivering comparable services across multiple service and agency customer communities, and the enterprise reach-back that sustains performance if a single customer's funding is disrupted."
+
+## Ghosting Library
+
+### G1 — Franchise retention through recompete
+
+- Ghost: "Offerors should identify their three largest incumbent contracts competed in the last five years, state whether each was retained at recompete, and describe how their capture and execution model sustains programs through contract transitions."
+- Targets: W1
+- Proof: PP1
+
+### G2 — Procurement-integrity and OCI safeguards
+
+- Ghost: "Offerors should describe their organizational-conflict-of-interest and procurement-integrity program, including policies governing employee interaction with government acquisition officials during active source selections and the corrective mechanisms applied when an appearance of impropriety arises."
+- Targets: W2
+- Proof: PP2
+
+### G3 — Prime-executed currency in the test enterprise
+
+- Ghost: "Offerors should distinguish efforts performed as the responsible prime contractor from efforts performed as a subcontractor when citing past performance in this mission area, and should limit cited efforts to those executed within the last five years at comparable scope."
+- Targets: W5
+- Proof: PP4
+
+### G4 — Corporate capacity and growth trajectory
+
+- Ghost: "Offerors should demonstrate the corporate capacity to grow and sustain the program workforce, including three-year headcount trends, current hiring pipelines in the region of performance, and enterprise reach-back beyond a single customer geography."
+- Targets: W3
+- Proof: PP13
+
+## Pricing Posture
+
+No wrap-rate or evaluated-price intel is documented. Known facts: they compete in LPTA arenas (the 2016 EPASS order they protested was awarded lowest-priced technically acceptable — and their proposal was rated technically unacceptable, meaning they lost on technical, not price) [S16]; their NTSS win is firm-fixed-price, showing appetite for fixed-price enterprise services risk [S22]; the DIA IDIQ mixes CPFF, FFP, and T&M [S10]. Judgment, labeled as such: a private, family-owned firm with no outside investors typically carries a lean cost structure and can price aggressively on labor-rate competitions in its home market; their flat growth suggests they defend base over margin. Treat them as rate-competitive at Redstone until data says otherwise. (needs internal input: rate observations from shared EXPRESS, TMAS2, or OASIS+ task-order competitions.)
+
+## Win/Loss vs Us
+
+## Intel & Proof Points
+
+### PP1 — Lost the MSFC ground-systems franchise (MOSSI/MOSSI II), 2020-2022
+
+NASA consolidated the HOSC contract (COLSA's, since 2012) and the MO&I contract into MOSSI; the 2020 award went to KBR-owned SGT (with COLSA as a major subcontractor) and was canceled after a sustained protest; the re-competed MOSSI II went to Teledyne Brown Engineering in September 2022 — $596.5M mission services value plus $85M IDIQ — reported as a takeaway from incumbents COLSA and Teledyne Brown [S19][S20][S21].
+
+### PP2 — GAO sustained the "foosball" OCI protest naming a COLSA official, September 24, 2020
+
+In B-418835, GAO found NASA's $651.6M MOSSI procurement irredeemably tainted by the appearance of impropriety: the acquisition's SEB leader attended weekly dinner/foosball gatherings including a high-level COLSA official during the procurement, over NASA ethics counsel's objection; GAO recommended canceling the award and the entire RFP [S19].
+
+### PP3 — HOSC incumbency, 2012-2022
+
+COLSA won the Huntsville Operations Support Center services contract in 2012 and the April 2017 follow-on (five-year, $196M ceiling) providing engineering, O&M, and system development for ISS and other NASA programs at MSFC [S20]. This franchise ended with MOSSI II [S21].
+
+### PP4 — At AFTC they now ride our prime: TMAS2 96 CTG, April 6, 2021
+
+The Air Force Test Center awarded the five-year, $543M TMAS2 96th Cyberspace Test Group task order for C4ISR and cyber developmental test and evaluation to Oasis Systems (now Astrion), with COLSA and Torch Technologies as subcontractor partners [S14]. COLSA is also on the Bevilacqua Research-led team for the $270M TMAS Platforms task order [S15].
+
+### PP5 — Their own AFTC prime history: TAMS 3 (2005) through TMAS C4ISR
+
+GAO denied Madison Research's protest of the Air Force's TAMS 3 award to COLSA at Eglin AFB in 2005 [S13]. Under the successor TMAS C4ISR task order (FA2486-16-F-0031, awarded 2016 with a $50M option reported October 2016), COLSA provided RDT&E and acquisition support at Eglin and other bases, adding a $69.6M modification with FMS content on October 1, 2018 [S11]. Their Mission Planning Training Team still supports the 45th Test Squadron's mission planning systems testing at Eglin [S12].
+
+### PP6 — DEVCOM AvMC S3I task order worth up to $342M, July 20, 2021
+
+COLSA holds the Technical Management Support task order for the S3I directorate (GS00F293CA-W31P4Q21FB007), placed against its GSA MAS under the EXPRESS construct — a direct seat inside the same directorate where Torch holds the HWIL/M&S franchises and where we pursue wrap-around scopes [S5].
+
+### PP7 — MDSS takeaway from Sigmatech, 2019 (hypersonics-adjacent)
+
+GAO denied incumbent Sigmatech's protest (B-417589) of the Army Materiel Command task order (TORP 18-009) issued to COLSA for Missile Defense and Space Systems project office support; between proposals and award the MDSS office picked up support to the new Long Range Hypersonic Weapon project office, and GAO upheld the award anyway [S6].
+
+### PP8 — MDA Advanced Research Center support since 2007
+
+COLSA supported the ARC (an SMDC missile-defense R&D facility used by MDA) from 2007, received a 2017 extension (ceiling increased $65.7M to $95.7M), and won the ARC follow-on IDIQ in March 2020 with a ~$168M ceiling for modeling & simulation, analysis, T&E, and experimentation [S8]. They also sub on the Five Stones Research team for MDA TEAMS ITMA ($50.1M) [S9]. (needs internal input: who holds ARC scope today, post-2023.)
+
+### PP9 — DIA scientific computing at Redstone: $217.4M ten-year IDIQ, August 2021
+
+COLSA won the DIA scientific computing operations, analysis, and applications IDIQ (CPFF/FFP/T&M, through 2031, performed at Redstone Arsenal, three offerors) — the Missile and Space Intelligence Center community — following its $103M predecessor award from 2016 [S10].
+
+### PP10 — NSSC takeaway from GDIT: $400M NTSS, June 2023
+
+NASA awarded COLSA the Transformational Shared Services contract supporting the NASA Shared Services Center at Stennis: single-award FFP IDIQ, roughly 8.75 years including options, covering financial management, HR, and procurement services for ~80,000 NASA personnel; GDIT (incumbent via CSRA since 2015) protested, then withdrew in July 2023 [S22].
+
+### PP11 — Space EW franchise: Bounty Hunter Support Services, April 2025
+
+COLSA won the BHSS full-and-open EWAAC task order supporting development, operations, and sustainment of the Bounty Hunter defensive space control system for US Space Force space electronic warfare units, with work in Colorado Springs, Huntsville, and worldwide operational sites; the company has performed this mission since 2011 [S24].
+
+### PP12 — 2024-2026 diversification wins are mostly IT/ops services or sub roles
+
+Significant subcontractor to CACI on NASA's $2B NCAPS applications/platform services task order (June 10, 2024) [S23]; $37.6M SeaPort-NxG task supporting the Marine Corps Information Operations Center at Quantico [S25]; $59.4M NIWC Pacific Tactical Data Link Systems CPFF IDIQ with a five-year ordering period from May 2026 [S26]; significant subcontractor to Applied Research Solutions on the $1.22B AFLCMC EPASS 73 order beginning February 1, 2025 [S18].
+
+### PP13 — Scale and trajectory: flat mid-tier
+
+Third-party estimates: ~1,100-1,500 employees and $250M-$360M revenue (private; no audited public figures) [S2]. Washington Technology Top 100 rank: #80 (2018), #68 (2019), #79 (2021), #76 (2022) [S29]. Industry analysis (FedSavvy) calls headcount effectively flat over two years, portfolio concentrated in DoD plus NASA with almost no other federal-civilian work [S30].
+
+### PP14 — EPASS shutouts as prime
+
+2016: COLSA's protest of the EPASS task order to Odyssey Systems denied after its proposal was rated technically unacceptable under LPTA (B-412961) [S16]. 2020: COLSA's protest of the ~$248M EPASS MQ-9 A&AS order (FA8622-20-F-8236, competed among OASIS-SB holders) was dismissed within a month (B-418440.5) [S17]. 2025: their EPASS presence is a subcontract to ARS on EPASS 73 [S18].
+
+### PP15 — Cyber/autonomy credentials
+
+Seven-year, $569M-ceiling award (August 2016) for advanced cyber engineering under TStorm Advanced Cyber Operations, performed primarily in Huntsville; under it the company claims delivery of the first Army-approved drone swarm and agile sUAS network/sensor/C2 capabilities [S30]. Corporate certifications: CMMC Level 2 at a perfect 110 (official assessment August 2025, by Redspin) and ISO/IEC 27001 [S32].
+
+## Recent Developments
+
+- 2026-05 — Won $59.4M NIWC Pacific Tactical Data Link Systems CPFF IDIQ; five-year ordering period May 2026-May 2031 [S26].
+- 2025-08/09 — Achieved CMMC Level 2 with a perfect 110 score (official assessment August 2025) and ISO/IEC 27001 certification [S32].
+- 2025-04 — Awarded Bounty Hunter Support Services (BHSS) EWAAC task order for the USSF defensive space control system it has supported since 2011 [S24].
+- 2025-02-01 — EPASS 73 period of performance began: ARS prime ($1.22B, five years, AFLCMC/HN), COLSA a significant subcontractor; priorities include digital engineering, DevSecOps environments, and CJADC2 [S18].
+- 2024-12-17 — Announced as GSA OASIS+ Unrestricted awardee, plus an OASIS+ small-business award in the R&D domain [S27].
+- 2024-06-10 — NASA awarded the ~$2B NCAPS IT task order to CACI with COLSA as a significant subcontractor [S23].
+- 2024 — Won $37.6M SeaPort-NxG task order supporting the Marine Corps Information Operations Center, MCB Quantico [S25].
+
+## Sources
+
+- [S1] COLSA "About" page (founded 1980 by Francisco J. Collazo, Puerto Rico native, 30+ years U.S. Army; HQ Huntsville) — https://www.colsa.com/about/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S2] Third-party size/revenue profiles (no audited public figures; private company): Craft.co — https://craft.co/colsa ; LeadIQ (~1.5K employees as of Feb 2026; revenue $250M-$500M band) — https://leadiq.com/c/colsa/5a1d83bb24000024005e46dc ; Buzzfile (~650 HQ staff, ~1,100 total) — https://www.buzzfile.com/business/Colsa-Corporation-256-964-5361 ; ZoomInfo (1,514 employees) — https://www.zoominfo.com/c/colsa-corp/8864571 ; IncFact ($357.8M, 2026 est.) — https://incfact.com/company/colsa-huntsville-al/ (accessed 2026-07-17 via web search)
+- [S3] COLSA capability pages (systems/software engineering, cyber & information warfare, data science, uncrewed systems, federal support services) — https://www.colsa.com/capabilities/cyber-information-warfare/ and https://www.colsa.com/capabilities/federal-support-services/ and https://www.colsa.com/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S4] AMCOM EXPRESS position: GSA eLibrary contractor record for COLSA EXPRESS BPA W31P4Q-18-A-0019 — https://www.gsaelibrary.gsa.gov/ElibMain/home.do/contractorInfo.do?contractNumber=W31P4Q-18-A-0019&contractorName=COLSA+CORP&executeQuery=YES ; ACC-RSA "EXPRESS Prime Subcontracting POCs" list, 11 Dec 2024 — https://acc.army.mil/CONTRACTINGCENTERS/ACC-RSA/files/EXPRESS%20Prime%20Subcontracting%20POCs%20-%2011%20Dec%202024_DISTROA_ACCRSA2025-001.pdf ; Radiance Technologies AMCOM EXPRESS team page listing COLSA — https://www.radiancetech.com/amcom-express-2/ (accessed 2026-07-17 via web search)
+- [S5] HigherGov contract record: "Technical Management Support – DEVCOM AVMC S3I" delivery order GS00F293CA-W31P4Q21FB007, up to $342.0M, awarded 2021-07-20 under COLSA's Multiple Award Schedule (EXPRESS BPA construct) — https://www.highergov.com/contract/GS00F293CA-W31P4Q21FB007/ (accessed 2026-07-17 via web search)
+- [S6] GAO decision B-417589, B-417589.2, B-417589.3, Sigmatech, Inc. (2019): incumbent's protest of Army Materiel Command TORP 18-009 task order to COLSA for Missile Defense and Space Systems project office support, including post-proposal LRHW assignment; denied — https://www.gao.gov/products/b-417589,b-417589.2,b-417589.3 and PubKGroup summary — https://pubkgroup.com/law/agency-properly-considered-experience-of-proposed-personnel-as-part-of-evaluating-offerors-overall-corporate-experience-sigmatech-inc-gao-b-417589-b-417589-2-b-417589-3/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S7] Army.mil: "D3I Domain 2 contract awarded" (2016-02-18; small-business set-aside; six awardees incl. COLSA; SMDC/ARSTRAT information integration and data exploitation) — https://www.army.mil/article/162671/d3i_domain_2_contract_awarded ; SMDC D3I award information sheet — https://www.smdc.army.mil/Portals/38/Documents/SBO/D3I_Award_Information.pdf (accessed 2026-07-17 via web search)
+- [S8] MDA Advanced Research Center support: ExecutiveBiz, "MDA Extends Colsa's Missile Defense Research Center Support Contract" (Sept 2017; ceiling raised $65.7M to $95.7M; support since 2007) — https://blog.executivebiz.com/2017/09/mda-extends-colsas-missile-defense-research-center-support-contract/ ; ARC Follow-On IDIQ (March 2020, ~$168M ceiling, three-year, M&S/analysis/T&E/experimentation) per 2026-07-17 web search results incl. USAspending award record — https://www.usaspending.gov/award/CONT_AWD_HQ085920F0015_9700_HQ085920D0001_9700 (accessed 2026-07-17 via web search)
+- [S9] COLSA release: "COLSA Part of Team Selected by MDA for TEAMS Information Technology Management and Analysis" (Five Stones Research-led team, $50,096,546) — https://www.colsa.com/colsa-part-of-team-selected-by-mda-for-teams-information-technology-management-and-analysis/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S10] DIA scientific computing: GovCon Wire, "Colsa Receives $217M Support Services Contract From DIA" (Aug 2021; $217.4M ten-year IDIQ through 2031; CPFF/FFP/T&M; Redstone Arsenal; three offerors) — https://www.govconwire.com/2021/08/colsa-wins-217m-dia-support-contract/ ; DIA article, "DIA Awards Contract for Scientific Computing Support" — https://www.dia.mil/News-Features/Articles/Article-View/Article/958941/dia-awards-contract-for-scientific-computing-support/ ; AFCEA SIGNAL, "COLSA is Providing Scientific Computing Operations and Analysis for the DIA" — https://www.afcea.org/signal-media/contracting/colsa-providing-scientific-computing-operations-and-analysis-dia ; C4ISRNET, "COLSA awarded $103M defense IT contract" (Oct 2016) — https://www.c4isrnet.com/it-networks/2016/10/13/colsa-awarded-103m-defense-it-contract/ ; GovCon Wire, "DIA Taps Colsa for $103M Missile & Space Intell Center Support Contract" — https://www.govconwire.com/articles/colsa-wins-potential-103m-idiq-for-dia-missile-space-intell-center-tech-support (accessed 2026-07-17 via web search)
+- [S11] TMAS C4ISR prime task order: ClearanceJobs DoD contracts digest, "COLSA Corp. Wins Additional $69 Million for USAF Cyber Support, Foreign Military Sales" (2018-10-01; $69,618,375 modification P00039 to FA2486-16-F-0031; TMAS C4ISR/cyber; RDT&E and acquisition support; Eglin AFB and other locations) — https://news.clearancejobs.com/2018/10/01/colsa-corp-wins-additional-69-million-for-usaf-cyber-support-foreign-military-sales-dod-daily-contracts/ ; Washington Technology, "The COLSA Corp. awarded $50M option for C4ISR, cyber support" (2016-10-05) — https://washingtontechnology.com/articles/2016/10/05/colsa-af-contract.aspx ; ExecutiveBiz, "Air Force Taps Colsa for C4ISR, Cyber Advisory Services" (2017) — https://blog.executivebiz.com/2017/10/air-force-taps-colsa-for-c4isr-cyber-advisory-services/ ; AFCEA SIGNAL, "COLSA Supporting Air Force C4ISR" — https://www.afcea.org/signal-media/contracting/colsa-supporting-air-force-c4isr (accessed 2026-07-17 via web search)
+- [S12] COLSA page: "COLSA's Mission Planning Training Team (MPTT) at Eglin AFB" (instruction under the TMAS C4ISR contract; Mission Planning Systems Test Team supports the 45th Test Squadron's independent assessments of AF mission planning software) — https://www.colsa.com/mptt-eglin-afb/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S13] GAO decision B-295716, Madison Research Corporation (2005): protest of Air Force TAMS 3 award to COLSA at Eglin AFB; denied — https://www.gao.gov/products/b-295716 and https://www.gao.gov/assets/b-295716.pdf (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S14] Yahoo Finance press release: "Oasis Systems Awarded $543 Million Contract to Support USAF Cyber Testing" (TMAS2 96th Cyberspace Test Group task order, awarded 2021-04-06, five-year, C4ISR and cyber systems DT&E; COLSA and Torch Technologies named subcontractor partners) — https://finance.yahoo.com/news/oasis-systems-awarded-543-million-205500980.html (accessed 2026-07-17 via web search)
+- [S15] Bevilacqua Research Corporation release: "BRC Is Awarded Air Force TMAS Platforms Task Order Contract" ($270M, OASIS-based, AFTC aerospace RDT&E; COLSA a team member) — https://brc2.com/brc-is-awarded-air-force-tmas-platforms-task-order-contract/ (accessed 2026-07-17 via web search)
+- [S16] GAO decision B-412961, B-412961.2, Sumaria Systems, Inc.; COLSA Corporation (2016): protests of AFLCMC EPASS task order to Odyssey Systems (LPTA); both protesters' proposals rated technically unacceptable; denied — https://www.gao.gov/products/b-412961,b-412961.2 (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S17] GAO docket B-418440.5, COLSA Corporation (protest of FA8622-20-F-8236, AFLCMC EPASS medium-altitude UAS program office A&AS, est. $248M over five years, competed among OASIS-SB holders; filed 2020-07-28, dismissed 2020-08-20) — https://www.gao.gov/docket/b-418440.5 ; related: Odyssey Systems B-418440.8/.9 — https://www.gao.gov/products/b-418440.8,b-418440.9 ; OrangeSlices EPASS protest coverage — https://orangeslices.ai/protest-filed-us-air-force-aflcmc-c3in-engineering-professional-and-administrative-support-services-epass-recompete/ (accessed 2026-07-17 via web search)
+- [S18] COLSA release: "AFLCMC/HN Announces ARS Awardee, COLSA Significant Sub" (EPASS 73 task order, $1.22B, five-year PoP beginning 2025-02-01; digital engineering, digital transformation, DevSecOps, CJADC2 priorities) — https://www.colsa.com/aflcmc-hn/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S19] GAO decision B-418835, B-418835.2, Teledyne Brown Engineering, Inc. (sustained 2020-09-24): $651.6M NASA MSFC MOSSI award (consolidating HOSC and MO&I) tainted by appearance of impropriety — SEB leader attended weekly dinner/foosball gatherings including a high-level COLSA official (COLSA: predecessor prime and major sub to awardee SGT); GAO recommended canceling award and RFP — https://www.gao.gov/products/b-418835,b-418835.2 and https://www.gao.gov/assets/b-418835.pdf ; SmallGovCon summary — https://smallgovcon.com/gaobidprotests/playing-games-gao-requires-nasa-to-scratch-650-million-contract-due-to-foosball-snafu/ ; Schoonover Law summary — https://www.schoonoverlawfirm.com/oci-how-foosball-cost-a-company-a-650-million-nasa-job/ ; PubKGroup summary — https://pubkgroup.com/law/conflict-arising-from-agency-officials-participation-in-competitive-foosball-gatherings-irredeemably-taints-procurement-teledyne-brown-engineering-inc-gao-b-418835-b-418835-2/ (accessed 2026-07-17 via web search)
+- [S20] HOSC contract history: SpaceRef/SpaceNews, "NASA Announces Huntsville Operations Support Center (HOSC) Contract Award" (April 2017; five-year, $196M ceiling; engineering, O&M, system development for ISS and other programs; COLSA held the 2012-2017 predecessor) — https://spaceref.com/press-release/nasa-announces-huntsville-operations-support-center-hosc-contract-award/ and https://spacenews.com/nasa-announces-huntsville-operations-support-center-hosc-contract-award/ ; AmericaSpace (2012 award) — https://www.americaspace.com/2012/02/14/nasa-awards-huntsville-operations-support-center-services-contract/ ; COLSA, "COLSA and NASA – A Partnership for the Stars" — https://www.colsa.com/colsa-and-nasa-a-partnership-for-the-stars/ (accessed 2026-07-17 via web search)
+- [S21] MOSSI II outcome: NASA release, "NASA Awards Contract for Marshall's Mission Operations" (Sept 2022; Teledyne Brown Engineering; $596.5M mission services value plus $85M max IDIQ; combines MO&I and HOSC) — https://www.nasa.gov/news-release/nasa-awards-contract-for-marshalls-mission-operations/ ; Washington Technology, "Teledyne subsidiary wins $596M NASA ground support contract" (notes KBR initially won MOSSI in a takeaway from incumbents Colsa and Teledyne Brown) — https://www.washingtontechnology.com/companies/2022/09/teledyne-subsidiary-wins-596m-nasa-ground-support-contract/376892/ ; HigherGov MOSSI II record (80MSFC21R0006 / 80MSFC22CA016) — https://www.highergov.com/contract-opportunity/marshall-operations-80msfc21r0006-award-80msfc22ca016-teledyne-brown-engineering-inc-a721d/ ; PRNewswire mirror — https://www.prnewswire.com/news-releases/nasa-awards-contract-for-marshalls-mission-operations-301619734.html (accessed 2026-07-17 via web search)
+- [S22] NTSS/NSSC: NASA release, "NASA Awards Transformational Shared Services Support Contract" (June 2023; COLSA; single-award FFP IDIQ; 8-year-9-month PoP structure; NSSC at Stennis; financial management, HR, procurement for ~80,000 NASA personnel) — https://www.nasa.gov/news-release/nasa-awards-transformational-shared-services-support-contract/ ; Washington Technology, "Colsa wins $400M NASA shared services center contract" — https://www.washingtontechnology.com/contracts/2023/06/colsa-wins-400m-nasa-shared-services-center-contract/387670/ ; GovCon Wire — https://www.govconwire.com/articles/colsa-wins-potential-400m-contract-to-support-nasa-shared-services-hub ; Washington Technology, "General Dynamics IT fights to keep NASA contract" (GDIT protest, July 2023, later withdrawn) — https://www.washingtontechnology.com/contracts/2023/07/general-dynamics-it-fights-keep-nasa-contract/388604/ ; COLSA NTSS page — https://www.colsa.com/ntss/ (accessed 2026-07-17 via web search)
+- [S23] NCAPS: NASA release, "NASA Awards Contract for IT Support, Platform Services" (2024-06-10; CACI; ~$2B; eight years) — https://www.nasa.gov/news-release/nasa-awards-contract-for-it-support-platform-services/ ; CACI investor release — https://investor.caci.com/news/news-details/2024/CACI-Awarded-2-Billion-Task-Order-to-Provide-Modern-Digital-Solutions-to-NASA/default.aspx ; COLSA, "COLSA to Support CACI, Inc. on $2 Billion NCAPS Contract" (significant subcontractor) — https://www.colsa.com/ncaps/ ; OrangeSlices — https://orangeslices.ai/nasa-awards-contract-for-it-support-platform-services/ (accessed 2026-07-17 via web search)
+- [S24] Bounty Hunter: COLSA release, "COLSA Awarded Bounty Hunter Support Services (BHSS) Contract" (April 2025; EWAAC task order; USSF defensive space control system; supported since 2011; Colorado Springs, Huntsville, worldwide sites) — https://www.colsa.com/bounty-hunter-2025/ ; USSF Combat Forces Command article on Bounty Hunter's active space defense role — https://www.ussf-cfc.spaceforce.mil/News/Article-Display/Article/4450833/from-monitoring-to-maneuvering-bounty-hunter-and-the-ussf-shift-to-active-space (accessed 2026-07-17 via web search)
+- [S25] MCIOC: COLSA release, "MCIOC Contract Award | USMC Awards Contract to COLSA" ($37,646,876; 5.5-year SeaPort-NxG task; operations in the information environment at MCB Quantico) — https://www.colsa.com/mcioc-contract-award/ ; OrangeSlices, "Contract Award: $38M US Navy Marine Corps Information Operations Center (MCIOC) support" — https://orangeslices.ai/contract-award-38m-us-navy-marine-corps-information-operations-center-mcioc-support/ ; USAspending record M0026424F3000 under N0017819D7373 — https://www.usaspending.gov/award/CONT_AWD_M0026424F3000_9700_N0017819D7373_9700 (accessed 2026-07-17 via web search)
+- [S26] 256 Today: "COLSA Corporation lands $59 million Navy contract for Tactical Data Link Systems" (NIWC Pacific; $59,398,717 CPFF IDIQ; five-year ordering period May 2026-May 2031) — https://256today.com/colsa-corporation-lands-59-million-navy-contract-for-tactical-data-link-systems/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S27] OASIS+: COLSA release, "OASIS+ Awardee Announcement | Unrestricted & Small Business" (announced 2024-12-17; Unrestricted awardee; also a small-business award under the R&D domain) — https://www.colsa.com/oasis-announcement/ ; OrangeSlices OASIS+ UR award coverage — https://orangeslices.ai/gsa-announces-first-phase-of-the-oasis-unrestricted-ur-contract-award-decisions/ ; GovCon Wire rolling-award coverage — https://www.govconwire.com/articles/gsa-oasis-plus-rolling-awardees-unrestricted-small-business-2 (accessed 2026-07-17 via web search)
+- [S28] COLSA contract vehicles page (SeaPort-NxG prime, Zones 2, 4, 6; GSA MAS) — https://www.colsa.com/contract-vehicles/ ; GSA MAS Professional Services pricelist GS00F293CA — https://colsa.com/contracts/PS-GS00F293CA.pdf (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S29] Washington Technology Top 100 ranks: COLSA releases for 2019 (#68, third consecutive year; #80 in 2018) — https://www.colsa.com/colsa-ranked-in-washington-technology-top-100-federal-prime-contractors-2019/ and 2022 (#76, up two from 2021's #79) — https://www.colsa.com/top-100-contractors-2022/ ; WT company rank page — https://www.washingtontechnology.com/rankings/company/176/top-100/2021/ (accessed 2026-07-17 via web search)
+- [S30] FedSavvy Strategies: "The shifting mid-tier competitor in Huntsville - COLSA" (headcount effectively flat over two years; DoD-concentrated portfolio plus NASA, almost no other fedciv; investment focus on NASA Huntsville and Eglin AF work; TStorm Advanced Cyber Operations, Aug 2016, seven-year, $569M ceiling; company-claimed first Army-approved drone swarm and sUAS capabilities) — https://www.fedsavvystrategies.com/the-shifting-mid-tier-competitor-in-huntsville-colsa/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S31] Leadership: COLSA release, "COLSA Expands Leadership Team to Support Company Growth" (Eric Briggs named COO, 38 years industry; Rob Harris promoted SVP Space Solutions, 22 years USAF + 16 years at NASA Stennis) — https://www.colsa.com/colsa-expands-leadership-team-to-support-company-growth/ ; Crunchbase (Frank J. Collazo, chairman and founder) — https://www.crunchbase.com/person/francisco-j-collazo ; The Org (chairman & founder) — https://theorg.com/org/colsa-corporation/org-chart/frank-j-collazo ; Equilar (Van Corum, Vice Chairman & CFO) — https://people.equilar.com/bio/org/colsa-corporation/10738244 (accessed 2026-07-17 via web search)
+- [S32] Certifications: COLSA, "CMMC Level 2 | COLSA Achieves a Perfect Score" (110/110; mock assessment July 2025, official assessment August 2025 by Redspin) — https://www.colsa.com/cmmc/ ; COLSA, "COLSA Attains Prestigious ISO/IEC 27001 Certification" — https://www.colsa.com/colsa-attains-prestigious-iso-iec-27001-certification/ (accessed 2026-07-17 via web search; direct fetch blocked)
+- [S33] Alabama Engineering Hall of Fame: COLSA Corporation profile (1988 National Small Business Prime Contractor of the Year; first in the award's history nominated independently by three agencies: Army Space and Strategic Defense Command, Army Missile Command, Army Air Defense Artillery School) — https://engrhof.org/aehofmembers/colsa-corporation/ (accessed 2026-07-17 via web search)
