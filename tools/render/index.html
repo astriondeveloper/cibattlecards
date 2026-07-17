@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Battle Card Library</h1>
+<p class="subtle">{{ cards|length }} competitors · built {{ built }}</p>
+
+<div class="filters">
+  <input type="search" id="f-q" placeholder="Search all card content…">
+  <select id="f-market"><option value="">All markets</option></select>
+  <select id="f-agency"><option value="">All agencies</option></select>
+  <select id="f-vehicle"><option value="">All vehicles</option></select>
+  <select id="f-tier">
+    <option value="">All tiers</option>
+    {% for t in tiers %}<option value="{{ t }}">Tier {{ t }}</option>{% endfor %}
+  </select>
+  <select id="f-status">
+    <option value="">All statuses</option>
+    <option>draft</option><option>in-review</option><option>approved</option>
+  </select>
+  <select id="f-rel">
+    <option value="">All relationships</option>
+    <option>competitor</option><option>teammate</option><option>both</option>
+  </select>
+  <label class="check"><input type="checkbox" id="f-stale"> stale only</label>
+  <span class="mini" id="count"></span>
+</div>
+
+<div class="sheet">
+<table>
+  <thead><tr>
+    <th>Competitor</th><th>Tier</th><th>Markets</th><th>Agencies</th>
+    <th>Status</th><th>Reviewed</th><th>Views</th>
+  </tr></thead>
+  <tbody id="rows"></tbody>
+</table>
+</div>
+
+<script id="library-data" type="application/json">{{ data_json|safe }}</script>
+<script src="{{ root }}/assets/app.js"></script>
+{% endblock %}

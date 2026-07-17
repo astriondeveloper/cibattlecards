@@ -1,0 +1,62 @@
+# Controlled vocabularies. The validator rejects card/assessment values that
+# are not listed here. To use a new market, agency, or vehicle: add it here
+# first, then tag the card. This keeps filters clean and typo-free.
+#
+# Starter values below are a reasonable federal services baseline — edit them
+# to match your actual portfolio.
+
+markets:
+  - test-evaluation
+  - digital-engineering
+  - systems-engineering
+  - mission-engineering
+  - software-engineering
+  - cyber
+  - space-operations
+  - range-operations
+  - sustainment-logistics
+  - training-simulation
+  - rdte-support
+  - seta-advisory
+
+agencies:
+  - usaf-aftc
+  - usaf-afmc
+  - ussf-ssc
+  - navair
+  - navsea
+  - army-atec
+  - army-devcom
+  - mda
+  - darpa
+  - nasa
+  - dtra
+  - dhs
+  - faa
+
+vehicles:
+  - oasis-plus
+  - gsa-mas
+  - sewp-v
+  - cio-sp4
+  - seaport-nxg
+  - rs3
+  - agency-idiq
+
+set_asides:
+  - small-business
+  - 8a
+  - wosb
+  - sdvosb
+  - hubzone
+  - mentor-protege-jv
+
+# Fixed enumerations (change only if you know the tooling implications).
+sizes: [large, small]
+relationships: [competitor, teammate, both]
+statuses: [draft, in-review, approved]
+threat_levels: [high, medium, low]
+competitor_roles: [prime, sub, teammate-candidate]
+our_roles: [prime, sub, undecided]
+pursuit_statuses: [tracking, pursuing, submitted, won, lost, no-bid]
+outcomes: [win, loss, no-bid]

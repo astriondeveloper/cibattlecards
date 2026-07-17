@@ -1,0 +1,27 @@
+# One file per decided pursuit: winloss/<award-year>-<opp-slug>.yaml
+# Records roll up automatically onto each involved competitor's card.
+
+id: 2026-opp-slug
+opportunity: Opportunity Title
+opportunity_slug: null        # opportunities/<slug>.md if an assessment exists
+agency: usaf-aftc             # taxonomy value
+vehicle: null
+value: ""                     # e.g. "$45M"
+award_date: 2026-01-01
+outcome: loss                 # win | loss | no-bid (we didn't bid; outcome observed)
+our_role: prime               # prime | sub — omit if outcome is no-bid
+winner:
+  card: company-name          # competitor slug, or use `name` for no-card firms
+  name: null                  # when WE won: card: null, name: "Astrion (us)"
+competitors:                  # everyone who competed, including the winner
+  - card: company-name
+    role: prime
+why:                          # why it went the way it went
+  factors: [incumbency, price] # short tags; free vocabulary
+  narrative: >-
+    2–5 sentences from the debrief: what actually decided it.
+lessons:
+  - What we do differently next time.
+sources:
+  - Debrief notes, location/date
+example: false

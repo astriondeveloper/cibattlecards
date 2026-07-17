@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="sheet sec">
+  <h1>{{ card.name }}</h1>
+  <div class="chips">
+    {% if not share_safe %}
+    <span class="chip">{{ tier_label }}</span>
+    <span class="chip {{ card.status }}">{{ card.status }}</span>
+    {% if stale %}<span class="chip stale">stale — {{ age_days }}d since review (limit {{ staleness_days }})</span>{% endif %}
+    {% endif %}
+    <span class="chip">{{ card.meta.relationship }}</span>
+    {% if card.meta.example %}<span class="chip example">EXAMPLE — fictional</span>{% endif %}
+  </div>
+
+  {% if share_safe %}
+  <div class="note">Share-safe edition: counter-positioning, objection handling,
+  trap questions, ghosting, pricing posture, and win/loss detail are omitted.</div>
+  {% else %}
+  <p class="mini no-print">
+    <a href="{{ card.slug }}-call.html">Quick-reference call view</a> ·
+    <a href="../share-safe/{{ card.slug }}.html">Share-safe edition</a>
+  </p>
+  {% endif %}
+
+  <dl class="meta">
+    {% if card.meta.aliases %}<div><dt>Aliases</dt><dd>{{ card.meta.aliases|join(', ') }}</dd></div>{% endif %}
+    <div><dt>Markets</dt><dd>{{ card.meta.markets|join(', ') or '—' }}</dd></div>
+    <div><dt>Agencies</dt><dd>{{ card.meta.agencies|join(', ') or '—' }}</dd></div>
+    <div><dt>Vehicles</dt><dd>{{ card.meta.vehicles|join(', ') or '—' }}</dd></div>
+    <div><dt>Size / set-asides</dt><dd>{{ card.meta.size or '—' }}{% if card.meta.set_asides %} · {{ card.meta.set_asides|join(', ') }}{% endif %}</dd></div>
+    {% if card.meta.parent %}<div><dt>Parent</dt><dd>{{ card.meta.parent }}</dd></div>{% endif %}
+    {% if card.meta.jv_partners %}<div><dt>JVs</dt><dd>{{ card.meta.jv_partners|join(', ') }}</dd></div>{% endif %}
+    {% if card.meta.hq %}<div><dt>HQ</dt><dd>{{ card.meta.hq }}</dd></div>{% endif %}
+    {% if card.meta.revenue_est %}<div><dt>Revenue (est.)</dt><dd>{{ card.meta.revenue_est }}</dd></div>{% endif %}
+    {% if card.meta.employees_est %}<div><dt>Employees (est.)</dt><dd>{{ card.meta.employees_est }}</dd></div>{% endif %}
+    {% if not share_safe %}
+    <div><dt>Owner</dt><dd>{{ card.meta.owner or '—' }}</dd></div>
+    <div><dt>Last reviewed</dt><dd>{{ card.meta.last_reviewed or '—' }}</dd></div>
+    {% if card.meta.approved_by %}<div><dt>Approved</dt><dd>{{ card.meta.approved_by }}, {{ card.meta.approved_date }}</dd></div>{% endif %}
+    {% endif %}
+  </dl>
+
+  {% for name, html in sections %}
+  <h2>{{ name }}</h2>
+  {{ html|safe }}
+  {% endfor %}
+</div>
+{% endblock %}

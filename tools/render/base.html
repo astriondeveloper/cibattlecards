@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" class="{{ page_class or '' }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title }} — {{ settings.site_title }}</title>
+<link rel="stylesheet" href="{{ root }}/assets/style.css">
+</head>
+<body class="{{ page_class or '' }}">
+<div class="banner top">{{ banner }}</div>
+{% if not standalone %}
+<nav>
+  <span class="site">{{ settings.site_title }}</span>
+  <a href="{{ root }}/index.html" class="{{ 'here' if active == 'library' }}">Library</a>
+  <a href="{{ root }}/opportunities.html" class="{{ 'here' if active == 'opportunities' }}">Opportunities</a>
+  <a href="{{ root }}/dashboard.html" class="{{ 'here' if active == 'dashboard' }}">Dashboard</a>
+</nav>
+{% endif %}
+<main>
+{% block content %}{% endblock %}
+</main>
+<footer class="banner">{{ banner }}</footer>
+</body>
+</html>
