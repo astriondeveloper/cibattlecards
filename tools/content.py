@@ -58,7 +58,11 @@ COMMENT_RE = re.compile(r"<!--.*?-->", re.DOTALL)
 GENERIC_NAME_WORDS = {
     "the", "and", "of", "inc", "llc", "corp", "corporation", "company",
     "group", "federal", "solutions", "services", "systems", "technologies",
-    "technology", "sciences", "international", "global", "national",
+    "technology", "sciences", "science", "international", "global",
+    "national", "management", "mission", "defense", "aerospace",
+    "engineering", "industries", "research", "information", "applications",
+    "applied", "analytics", "consulting", "partners", "enterprises",
+    "holdings", "associates",
 }
 
 

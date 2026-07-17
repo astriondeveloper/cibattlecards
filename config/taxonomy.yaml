@@ -18,21 +18,32 @@ markets:
   - training-simulation
   - rdte-support
   - seta-advisory
+  - autonomy
+  - c5isr
+  - missile-defense
+  - modeling-simulation
+  - aviation-engineering
 
 agencies:
   - usaf-aftc
   - usaf-afmc
+  - usaf-afrl
   - ussf-ssc
   - navair
   - navsea
   - army-atec
   - army-devcom
+  - army-amcom
+  - army-smdc
+  - army-peo-stri
   - mda
   - darpa
   - nasa
   - dtra
   - dhs
   - faa
+  - socom
+  - usace
 
 vehicles:
   - oasis-plus
@@ -42,6 +53,8 @@ vehicles:
   - seaport-nxg
   - rs3
   - agency-idiq
+  - astro
+  - amcom-express
 
 set_asides:
   - small-business
