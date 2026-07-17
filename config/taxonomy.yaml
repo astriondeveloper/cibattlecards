@@ -48,6 +48,8 @@ agencies:
   - sda
   - dia
   - dla
+  - disa
+  - nga
   - mda
   - darpa
   - nasa
@@ -71,6 +73,7 @@ vehicles:
   - oasis-unrestricted
   - ites-3s
   - ota-consortium
+  - alliant-2
 
 set_asides:
   - small-business
