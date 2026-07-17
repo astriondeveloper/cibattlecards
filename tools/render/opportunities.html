@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Opportunity Assessments</h1>
+<p class="subtle">{{ opps|length }} pursuits tracked</p>
+<div class="sheet">
+<table>
+  <thead><tr>
+    <th>Opportunity</th><th>Agency</th><th>Status</th><th>Value (est.)</th>
+    <th>Proposal due</th><th>Competitors</th>
+  </tr></thead>
+  <tbody>
+  {% for o in opps %}
+    <tr>
+      <td><a href="opportunities/{{ o.slug }}.html"><strong>{{ o.title }}</strong></a>
+        {% if o.meta.example %} <span class="chip example">example</span>{% endif %}</td>
+      <td>{{ o.meta.agency }}</td>
+      <td><span class="chip">{{ o.meta.status }}</span></td>
+      <td>{{ o.meta.value_est or '—' }}</td>
+      <td>{{ (o.meta.dates or {}).get('proposal_due') or '—' }}</td>
+      <td class="num">{{ o.competitors|length }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+{% endblock %}

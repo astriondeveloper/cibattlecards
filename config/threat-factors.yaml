@@ -1,0 +1,31 @@
+# Threat-rating factors used on opportunity assessments.
+# Each competitor on an assessment gets a high/medium/low score per factor,
+# plus an overall threat level and a written rationale.
+
+factors:
+  incumbency:
+    label: Incumbency
+    description: >-
+      Do they hold the current contract, or an adjacent contract at this
+      customer that positions them as the de facto incumbent?
+  customer_intimacy:
+    label: Customer intimacy
+    description: >-
+      Depth of relationships and day-to-day presence with the buying
+      organization and its technical staff.
+  vehicle_position:
+    label: Vehicle position
+    description: >-
+      Can they reach this work through a contract vehicle the customer
+      prefers, without teaming?
+  price_aggressiveness:
+    label: Price aggressiveness
+    description: >-
+      Track record of buying in, shaving rates, or going LPTA-lean to win
+      must-win work.
+  past_performance_fit:
+    label: Past performance fit
+    description: >-
+      How directly their references map to this scope, size, and complexity.
+
+scores: [high, medium, low]

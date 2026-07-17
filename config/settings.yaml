@@ -1,0 +1,21 @@
+# Library-wide render and marking settings.
+org_name: Astrion
+site_title: Competitive Intelligence Battle Card Library
+
+# Marking banners. Every rendered page, PDF, and DOCX carries one.
+# Confirm exact wording with your security/legal lead; edit freely.
+banner: "ASTRION PROPRIETARY // COMPETITION SENSITIVE"
+share_safe_banner: "ASTRION PROPRIETARY // SHARE-SAFE EDITION"
+
+# Sections omitted from share-safe renders (HTML, PDF, DOCX).
+share_safe_omit:
+  - Our Counter-Positioning
+  - Objection Handling
+  - Trap-Setting Questions
+  - Ghosting Library
+  - Pricing Posture
+  - Win/Loss vs Us
+
+# Where the built site is written. Committed to the repo so consumers
+# can pull and open index.html without running anything.
+output_dir: docs

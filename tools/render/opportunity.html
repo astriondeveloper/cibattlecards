@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="sheet sec">
+  <h1>{{ opp.title }}</h1>
+  <div class="chips">
+    <span class="chip">{{ opp.meta.status }}</span>
+    <span class="chip">{{ opp.meta.agency }}</span>
+    {% if opp.meta.vehicle %}<span class="chip">{{ opp.meta.vehicle }}</span>{% endif %}
+    {% if opp.meta.example %}<span class="chip example">EXAMPLE — fictional</span>{% endif %}
+  </div>
+
+  <dl class="meta">
+    {% if opp.meta.office %}<div><dt>Office</dt><dd>{{ opp.meta.office }}</dd></div>{% endif %}
+    {% if opp.meta.naics %}<div><dt>NAICS</dt><dd>{{ opp.meta.naics }}</dd></div>{% endif %}
+    {% if opp.meta.value_est %}<div><dt>Value (est.)</dt><dd>{{ opp.meta.value_est }}</dd></div>{% endif %}
+    <div><dt>Our role</dt><dd>{{ opp.meta.our_role }}</dd></div>
+    {% if opp.meta.capture_manager %}<div><dt>Capture manager</dt><dd>{{ opp.meta.capture_manager }}</dd></div>{% endif %}
+    {% if incumbent %}<div><dt>Incumbent</dt><dd>{{ incumbent }}</dd></div>{% endif %}
+    {% for label, value in dates %}
+    <div><dt>{{ label }}</dt><dd>{{ value }}</dd></div>
+    {% endfor %}
+  </dl>
+
+  <h2>Competitor Field</h2>
+  <table>
+    <thead><tr><th>Competitor</th><th>Role</th><th>Threat</th><th>Factors</th><th>Rationale</th></tr></thead>
+    <tbody>
+    {% for entry in competitors %}
+      <tr>
+        <td>{% if entry.card %}<a href="../cards/{{ entry.card }}.html"><strong>{{ entry.display }}</strong></a>{% else %}<strong>{{ entry.display }}</strong>{% endif %}</td>
+        <td><span class="chip">{{ entry.role }}</span></td>
+        <td><span class="chip {{ entry.threat }}">{{ entry.threat }}</span></td>
+        <td>{% for f in entry.factors %}<span class="chip {{ f.score }}">{{ f.label }}: {{ f.score }}</span> {% endfor %}</td>
+        <td class="subtle">{{ entry.rationale }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+
+  {% for name, html in sections %}
+  <h2>{{ name }}</h2>
+  {{ html|safe }}
+  {% endfor %}
+</div>
+{% endblock %}

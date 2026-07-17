@@ -1,0 +1,72 @@
+[
+ {
+  "slug": "cobalt-ridge",
+  "name": "Cobalt Ridge Technologies",
+  "tier": 2,
+  "status": "draft",
+  "stale": true,
+  "age_days": 219,
+  "relationship": "competitor",
+  "markets": [
+   "range-operations",
+   "test-evaluation"
+  ],
+  "agencies": [
+   "usaf-aftc"
+  ],
+  "vehicles": [
+   "agency-idiq"
+  ],
+  "owner": "CI Owner",
+  "example": true,
+  "last_reviewed": "2025-12-10",
+  "search": "cobalt ridge technologies cobalt ridge technologies (example \u2014 fictional company) is an sdvosb range operations specialist concentrated at edwards-area test activities. [s1] they sub for larger primes on consolidated contracts and prime small-business set-aside range task orders. growing fast; hired two former government range officers into bd roles in 2025. [s2] dangerous on small-business set-asides at aftc and as a low-cost sub that strengthens a big prime's price story. not yet a credible prime above ~$25m, but trending that way. - genuine range-operations depth: their staff ran these ranges in uniform. [s2] - sdvosb status opens set-aside paths we cannot follow. [s1] - low cost structure; consistently undercuts on labor rates. [s3] - customer-favorite technical staff on the current range o&m subcontract. [s2] ### w1 \u2014 no corporate infrastructure for large prime work they have never primed above $25m and lack the program controls, purchasing system, and dcaa-approved accounting story a large consolidated contract demands. [s1] ### w2 \u2014 key-person dependence their range credibility concentrates in two former range officers; both are past federal retirement age and bd-focused rather than execution-focused. [s2] - on full-and-open work: make systems, program controls, and prime-scale past performance the evaluation battleground (w1). - consider them as a teammate before a competitor does \u2014 their sdvosb status and range bench complement us on set-aside-adjacent pursuits. - **they say:** \"we're the affordable, agile alternative to the big primes.\" **we say:** \"affordability matters at award and in year four \u2014 ask for evidence of managing subcontractor mix and retention at scale, because rate-card savings vanish with turnover backfill.\" - [s1] company site and sam.gov registration (example) \u2014 https://example.com/cobaltridge (accessed 2025-12-08) - [s2] capture call notes, range o&m pursuit (example) \u2014 internal (dated 2025-12-01) - [s3] rate intel from teaming discussions (example) \u2014 internal (dated 2025-10-15)"
+ },
+ {
+  "slug": "ironvale",
+  "name": "Ironvale Group",
+  "tier": 3,
+  "status": "approved",
+  "stale": false,
+  "age_days": 16,
+  "relationship": "both",
+  "markets": [
+   "sustainment-logistics"
+  ],
+  "agencies": [
+   "navair"
+  ],
+  "vehicles": [
+   "seaport-nxg"
+  ],
+  "owner": "CI Owner",
+  "example": true,
+  "last_reviewed": "2026-07-01",
+  "search": "ironvale group ironvale group (example \u2014 fictional company) is a small sustainment and logistics support firm at pax river, operating partly through a mentor-prot\u00e9g\u00e9 jv with a large prime. we have teamed with them twice and competed against them once; treat every pursuit contact as potentially both. low direct threat today (tier 3 watch). the mentor-prot\u00e9g\u00e9 jv is the thing to track: it lets them chase work far above their solo ceiling. re-tier if the jv starts priming navair sustainment recompetes in our lane."
+ },
+ {
+  "slug": "meridian-federal",
+  "name": "Meridian Federal Solutions",
+  "tier": 1,
+  "status": "approved",
+  "stale": false,
+  "age_days": 17,
+  "relationship": "competitor",
+  "markets": [
+   "test-evaluation",
+   "digital-engineering"
+  ],
+  "agencies": [
+   "usaf-aftc",
+   "navair"
+  ],
+  "vehicles": [
+   "oasis-plus",
+   "gsa-mas"
+  ],
+  "owner": "CI Owner",
+  "example": true,
+  "last_reviewed": "2026-06-30",
+  "search": "meridian federal solutions mfs meridian federal solutions (example \u2014 fictional company) is a large test & evaluation and digital engineering services firm with a deep footprint at air force test organizations and growing navair presence. [s1] they grew through two acquisitions since 2023 and now pursue full-spectrum t&e support: instrumentation, telemetry, data analytics, and range operations. their strategy is to prime large consolidated support contracts and defend incumbency aggressively with customer-embedded staff. we collide with them most directly on aftc range and telemetry recompetes and on oasis+ task orders. [s2] our most frequent tier 1 opponent at aftc. they win on incumbency, customer intimacy, and scale; they lose when evaluations reward technical innovation, key-personnel stability, or price realism. expect them to prime, to protest close losses, and to recruit our staff during transitions. - twenty-year continuous presence at the primary aftc ranges; evaluators know their program managers by name. [s1] - self-performed instrumentation depot with rapid calibration turnaround. [s2] - scale: can surge 100+ cleared staff from adjacent contracts. [s2] - entrenched incumbent on two of the three range support contracts we target. [s2] - strong past performance narrative: cpars-quality references across a decade of range o&m work. [s2] - vehicle position: oasis+ unrestricted and gsa mas holder; can reach most of our target work without teaming. [s1] ### w1 \u2014 thin bench for certified instrumentation engineers customer feedback during the 2025 telemetry recompete debrief noted sustained vacancies in certified instrumentation roles; they backfilled with subcontractor staff at premium rates. [s3] ### w2 \u2014 premium pricing on recompetes their evaluated price came in well above the incumbent baseline on the 2025 telemetry recompete, driven by out-year escalation the evaluators flagged as weakly supported. [s4] ### w3 \u2014 leadership churn after the 2024 acquisition three senior program directors departed within a year of the meridian holdings acquisition, including both named key personnel on their largest range contract. [s5] - against their incumbency (and w3): position our transition plan around named key personnel with signed retention agreements; make leadership stability an evaluation issue. - against their scale (and w1): lead with our certified-instrumentation bench and offer named individuals, not labor categories. - against their pricing (w2): anchor cost realism to incumbent actuals and make out-year escalation visible to evaluators. - **they say:** \"nobody knows this range like the current team.\" **we say:** \"the data says continuity is about people, not logos \u2014 we've committed the named engineers who will be on the range day one, with retention agreements, and our transition plan was rated low-risk on two comparable takeovers.\" - **they say:** \"a transition this size is too risky mid-test-program.\" **we say:** \"we've executed three incumbent-displacement transitions of this size in the last five years with zero missed test events \u2014 here's the reference contact for each.\" - \"how would you want an offeror to demonstrate retention of certified instrumentation staff across the whole period of performance?\" - \"would it help the evaluation to see proposed rates mapped against current contract actuals?\" - \"how much weight will leadership continuity during transition carry?\" ### g1 \u2014 staffing continuity - ghost: \"offerors should demonstrate documented retention rates for certified instrumentation personnel and commit named key individuals, not labor categories, for the full period of performance.\" - targets: w1 - proof: pp2 - used in: 2025 telemetry recompete, volume 1 (example) ### g2 \u2014 cost realism in out-years - ghost: \"the government benefits from evaluating proposed out-year escalation against current contract actuals to identify unsupported cost growth.\" - targets: w2 - proof: pp1 ### g3 \u2014 leadership stability through transition - ghost: \"offerors should identify program leadership tenure over the past 24 months and describe enforceable safeguards against key-personnel churn during transition.\" - targets: w3 - proof: pp3 historically prices at a premium on work they hold (banking on incumbency) and sharpens rates only on must-win new business. on the 2025 telemetry recompete their evaluated price exceeded the incumbent baseline substantially. [s4] expect buy-in behavior only where they are displacing an incumbent; otherwise attack their escalation assumptions. the 2025 loss stung but exposed w1 and w2 in the customer's own debrief language \u2014 reuse it. ### pp1 \u2014 out-year escalation flagged on 2025 recompete their evaluated price on the 2025 telemetry recompete came in roughly 18% above the incumbent baseline, with escalation cited as weakly supported. [s4] ### pp2 \u2014 instrumentation staffing gaps in customer debrief the customer's 2025 debrief noted sustained vacancies in certified instrumentation roles on their incumbent contract. [s3] ### pp3 \u2014 post-acquisition leadership departures three senior program directors, including two named key personnel, departed within twelve months of the 2024 acquisition. [s5] - 2026-06: announced a new digital engineering center in dayton \u2014 expect a push on afmc digital work. [s1] - 2026-04: won a $30m navair data analytics task order as prime. [s2] - [s1] company site and press releases (example) \u2014 https://example.com/meridian (accessed 2026-06-28) - [s2] usaspending/fpds award history export (example) \u2014 competitors/meridian-federal/sources/awards-2026-06.md (dated 2026-06-28) - [s3] win/loss debrief notes, telemetry recompete (example) \u2014 internal, capture file (dated 2025-11-22) - [s4] price evaluation summary from debrief (example) \u2014 internal, capture file (dated 2025-11-22) - [s5] trade press coverage of acquisition and departures (example) \u2014 https://example.com/news/meridian (accessed 2026-06-15)"
+ }
+]

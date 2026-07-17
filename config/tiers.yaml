@@ -1,0 +1,47 @@
+# Tier definitions: staleness thresholds and completeness requirements.
+# A card is flagged stale when (today - last_reviewed) exceeds staleness_days.
+# A card cannot reach status: approved unless every required section for its
+# tier is present and non-empty (except sections listed in content_optional).
+
+tiers:
+  1:
+    label: "Tier 1 — Priority"
+    staleness_days: 90
+    required_sections:
+      - Overview
+      - Threat Summary
+      - Their Discriminators
+      - Strengths
+      - Weaknesses
+      - Our Counter-Positioning
+      - Objection Handling
+      - Trap-Setting Questions
+      - Ghosting Library
+      - Pricing Posture
+      - "Win/Loss vs Us"
+      - Intel & Proof Points
+      - Recent Developments
+      - Sources
+  2:
+    label: "Tier 2 — Active"
+    staleness_days: 180
+    required_sections:
+      - Overview
+      - Threat Summary
+      - Their Discriminators
+      - Strengths
+      - Weaknesses
+      - Our Counter-Positioning
+      - Objection Handling
+  3:
+    label: "Tier 3 — Watch"
+    staleness_days: 365
+    required_sections:
+      - Overview
+      - Threat Summary
+
+# Sections that must exist (heading present) but may be empty, because they
+# are auto-generated at build time or accumulate over time.
+content_optional:
+  - "Win/Loss vs Us"
+  - Recent Developments

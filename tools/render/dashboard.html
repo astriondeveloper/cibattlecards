@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Library Dashboard</h1>
+<p class="subtle">Portfolio view · built {{ built }}</p>
+
+<div class="tiles">
+  <div class="tile"><div class="v">{{ stats.total }}</div><div class="k">competitor cards</div></div>
+  <div class="tile"><div class="v">{{ stats.approved }}</div><div class="k">approved</div></div>
+  <div class="tile"><div class="v">{{ stats.pending }}</div><div class="k">draft / in review</div></div>
+  <div class="tile"><div class="v">{{ stats.stale }}</div><div class="k">stale</div></div>
+  <div class="tile"><div class="v">{{ stats.active_opps }}</div><div class="k">active pursuits</div></div>
+  <div class="tile"><div class="v">{{ stats.wins }}–{{ stats.losses }}</div><div class="k">win–loss record</div></div>
+</div>
+
+<div class="sheet">
+  <h2 style="border:none;padding-top:0;margin-top:4px">Head-to-head record</h2>
+  {% if h2h %}
+  <div class="legend" role="list">
+    <span role="listitem"><span class="sw won"></span>We won</span>
+    <span role="listitem"><span class="sw lost"></span>We lost</span>
+  </div>
+  <div class="h2h">
+    {% for row in h2h %}
+    <div class="row">
+      <div><a href="cards/{{ row.slug }}.html">{{ row.name }}</a>
+        {% if row.observed %}<div class="mini">{{ row.observed }} observed (no-bid)</div>{% endif %}
+      </div>
+      <div class="pair">
+        <div class="bar-line" title="We won {{ row.won }} against {{ row.name }}">
+          <span class="bar won" style="width: {{ row.won_pct }}%"></span>
+          <span class="lbl">won {{ row.won }}</span>
+        </div>
+        <div class="bar-line" title="We lost {{ row.lost }} against {{ row.name }}">
+          <span class="bar lost" style="width: {{ row.lost_pct }}%"></span>
+          <span class="lbl">lost {{ row.lost }}</span>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  {% else %}
+  <p class="subtle">No win/loss records yet.</p>
+  {% endif %}
+
+  <h2>Coverage: markets × tiers</h2>
+  <table>
+    <thead><tr><th>Market</th>{% for t in tiers %}<th class="num">Tier {{ t }}</th>{% endfor %}<th class="num">Total</th></tr></thead>
+    <tbody>
+    {% for row in matrix %}
+      <tr><td>{{ row.market }}</td>
+      {% for n in row.counts %}<td class="num">{{ n or '·' }}</td>{% endfor %}
+      <td class="num"><strong>{{ row.total }}</strong></td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+
+  <h2>Needs attention</h2>
+  <table>
+    <thead><tr><th>Card</th><th>Tier</th><th>Status</th><th>Issue</th></tr></thead>
+    <tbody>
+    {% for item in attention %}
+      <tr>
+        <td><a href="cards/{{ item.slug }}.html">{{ item.name }}</a></td>
+        <td>T{{ item.tier }}</td>
+        <td><span class="chip {{ item.status }}">{{ item.status }}</span></td>
+        <td class="subtle">{{ item.issue }}</td>
+      </tr>
+    {% else %}
+      <tr><td colspan="4" class="subtle">Nothing — the library is current.</td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

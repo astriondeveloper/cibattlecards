@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="sheet sec">
+  <h1>{{ card.name }} <span class="mini">quick reference</span></h1>
+  <div class="callfacts chips">
+    <span class="chip">Tier {{ card.tier }}</span>
+    <span class="chip">{{ card.meta.relationship }}</span>
+    {% for m in card.meta.markets %}<span class="chip">{{ m }}</span>{% endfor %}
+    {% for a in card.meta.agencies %}<span class="chip">{{ a }}</span>{% endfor %}
+    {% if card.meta.example %}<span class="chip example">EXAMPLE — fictional</span>{% endif %}
+  </div>
+  <p class="mini no-print"><a href="{{ card.slug }}.html">Full card</a></p>
+
+  {% for name, html in sections %}
+  <h2>{{ name }}</h2>
+  {{ html|safe }}
+  {% endfor %}
+</div>
+{% endblock %}
