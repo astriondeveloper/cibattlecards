@@ -20,5 +20,6 @@
 {% block content %}{% endblock %}
 </main>
 <footer class="banner">{{ banner }}</footer>
+{% if settings.created_by %}<div class="credit">Created by {{ settings.created_by }}</div>{% endif %}
 </body>
 </html>

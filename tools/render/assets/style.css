@@ -107,6 +107,14 @@ main {
 .chip.medium { color: var(--warn-text); }
 .chip.example { border-style: dashed; }
 
+/* Permanent attribution line under the footer banner */
+.credit {
+  text-align: center;
+  color: var(--muted);
+  font-size: 12px;
+  padding: 10px 12px 18px;
+}
+
 /* Meta grid on cards and assessments */
 .meta {
   display: grid;

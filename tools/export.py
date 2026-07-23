@@ -78,6 +78,10 @@ def _marked_doc(config, title: str, share_safe: bool = False) -> Document:
         para.text = banner
         para.alignment = WD_ALIGN_PARAGRAPH.CENTER
         para.runs[0].bold = True
+    created_by = config.settings.get("created_by")
+    if created_by:
+        credit = section.footer.add_paragraph(f"Created by {created_by}")
+        credit.alignment = WD_ALIGN_PARAGRAPH.CENTER
     doc.add_heading(title, level=0)
     return doc
 

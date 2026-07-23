@@ -2,6 +2,9 @@
 org_name: Astrion
 site_title: Competitive Intelligence Battle Card Library
 
+# Attribution shown at the bottom of every rendered page, PDF, and DOCX.
+created_by: Gavin Taylor
+
 # Marking banners. Every rendered page, PDF, and DOCX carries one.
 # Confirm exact wording with your security/legal lead; edit freely.
 banner: "ASTRION PROPRIETARY // COMPETITION SENSITIVE"
